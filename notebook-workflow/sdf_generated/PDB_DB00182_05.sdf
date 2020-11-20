@@ -1,0 +1,97 @@
+PDB_DB00182_05
+     RDKit          3D
+
+ 29 29  0  0  0  0  0  0  0  0999 V2000
+   -2.0664   -1.2541   -0.5472 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1911    0.1454   -0.2503 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.4224    0.3201    0.6146 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0068    0.7188    0.4775 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2736    0.5722   -0.3333 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5927   -0.8663   -0.6281 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4042    1.3489    0.2443 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0919   -0.8921   -0.9638 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4149    0.5531    0.9990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7757   -0.7641    0.3809 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3011   -1.4992   -1.5257 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5379   -1.8502    0.1606 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3929    0.6697   -1.2057 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2269    0.9680    1.4842 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2689    0.7770    0.0560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7896   -0.6590    1.0217 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1822    1.8114    0.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9329    0.3094    1.4826 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0325    1.0420   -1.3338 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3954   -1.5314    0.2304 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0886   -1.2152   -1.5530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9641    2.0867    0.9699 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9251    1.9855   -0.5153 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3383    0.0298   -1.5389 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3508   -1.8132   -1.4832 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0688    0.3720    2.0383 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3468    1.1515    1.0794 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8513   -0.9119    0.2380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4045   -1.6045    1.0069 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5  7  1  0
+  6  8  1  0
+  7  9  1  0
+  8 10  1  0
+  9 10  1  0
+  1 11  1  0
+  1 12  1  0
+  2 13  1  6
+  3 14  1  0
+  3 15  1  0
+  3 16  1  0
+  4 17  1  0
+  4 18  1  0
+  5 19  1  0
+  6 20  1  0
+  6 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  8 25  1  0
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+M  END
+>  <PDBID>  (1) 
+4XP9
+
+>  <PDB ID>  (1) 
+4XP9
+
+>  <Generic Name>  (1) 
+Amphetamine
+
+>  <Brand Name>  (1) 
+Act Amphetamine XR#Adderall#Adderall XR#Adzenys XR-odt#Apo-amphetamine XR#Dextroamphetamine Saccharate and Amphetamine Aspartate and Dextroamphetamine Sulfate and Amphetamine Sulfate#Dextroamphetamine Saccharate, Amphetamine Aspartate (monohydrate), Dextroamphetamine Sulfate, Amphetamine Sulfate#Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate and Amphetamine Sulfate#Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate, Amphetamine Sulfate#Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Suflate#Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate#Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate#Dyanavel XR#Evekeo#PMS-amphetamines XR#Sandoz Amphetamine XR
+
+>  <DrugBank ID>  (1) 
+DB00182
+
+>  <ATC Codes>  (1) 
+N06BA01
+
+>  <Ligand ID>  (1) 
+1WE,FRD
+
+>  <Target Name>  (1) 
+Sodium-dependent dopamine transporter
+
+>  <UniProt ID>  (1) 
+Q01959
+
+>  <PDB ID.1>  (1) 
+4XP9
+
+>  <Seq. Identity>  (1) 
+52%
+
+$$$$

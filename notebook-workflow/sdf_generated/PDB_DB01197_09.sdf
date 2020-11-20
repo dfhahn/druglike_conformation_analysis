@@ -1,0 +1,105 @@
+PDB_DB01197_09
+     RDKit          3D
+
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+    0.9355    1.4607   -1.0805 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5990    0.7747    0.0978 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8396    0.1932    0.7356 C   0  0  1  0  0  0  0  0  0  0  0  0
+    2.5339   -0.8235   -0.1452 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0126   -1.4286    0.7137 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8103    1.3844    0.8991 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3907   -0.2393   -0.2030 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7155    0.1987    0.0173 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -2.3067   -0.0388    1.3764 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6049    0.4591    1.3522 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5761    0.4137    2.4398 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3692   -0.4002   -1.6662 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6952   -1.0444   -2.0339 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6000   -0.6226   -0.9361 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7404    2.0185   -0.9570 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1741    1.5020    0.7886 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6950   -0.2265    1.7210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8534   -0.3565   -1.0769 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8762   -1.7116   -0.2524 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8255   -2.7037    1.2771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4730    1.2086    1.7545 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4594    1.4672   -0.0087 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2113    2.2712    1.1032 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8248    1.2567   -0.3081 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4517   -1.1520    1.5345 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6877    1.0652    0.5781 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7978   -0.1721    3.2399 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4172   -1.0707   -2.0086 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3215    0.5785   -2.1913 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5988   -2.1445   -2.1210 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0793   -0.6164   -2.9870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0012   -1.5327   -0.4155 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4352    0.0314   -1.2374 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  3  6  1  0
+  2  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  9 11  1  0
+  7 12  1  0
+ 12 13  1  0
+  8 14  1  0
+ 13 14  1  0
+  1 15  1  0
+  2 16  1  0
+  3 17  1  1
+  4 18  1  0
+  4 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  6 23  1  0
+  8 24  1  6
+  9 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 12 28  1  0
+ 12 29  1  0
+ 13 30  1  0
+ 13 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+M  END
+>  <PDBID>  (1) 
+4C2P
+
+>  <PDB ID>  (1) 
+4C2P
+
+>  <Generic Name>  (1) 
+Captopril
+
+>  <Brand Name>  (1) 
+Apo-capto Tab 100mg#Apo-capto Tab 12.5mg#Apo-capto Tab 25mg#Apo-capto Tab 50mg#Apo-capto Tab 6.25mg#Bci Captopril Tablets#Capoten Tab 100mg#Capoten Tab 12.5mg#Capoten Tab 25mg#Capoten Tab 50mg#Captopril#Captopril Tablets#Captopril and Hydrochlorothiazide#Captopril-100 Tab 100mg#Captopril-12.5 Tab 12.5mg#Captopril-25 Tab 25mg#Captopril-50 Tab 50mg#Captril#Dom-captopril#Ftp-captopril#Med Captopril - Tab  12.5mg#Med Captopril - Tab 100mg#Med Captopril - Tab 25mg#Med Captopril - Tab 50mg#Mylan-captopril#Novo-captoril#Nu-capto Tab 100mg#Nu-capto Tab 12.5mg#Nu-capto Tab 25mg#Nu-capto Tab 50mg#Orb-captopril#PMS-captopril - Tab  12.5mg#PMS-captopril - Tab  25mg#PMS-captopril - Tab  50mg#PMS-captopril - Tab 100mg#Penta-captopril Tablets#Ratio-captopril Tab 100mg#Ratio-captopril Tab 12.5mg#Ratio-captopril Tab 25mg#Ratio-captopril Tab 50mg#Teva-captopril#Tria-captopril 100mg Tablet#Tria-captopril 12.5mg Tablet#Tria-captopril 25mg Tablet#Tria-captopril 50mg Tablet#Acepress#Acepril#Alopresin#Apopril#Capoten#Captolane#Captoril#Cesplon#Dilabar#Garranil#Hipertil#Hypertil#Lopirin#Lopril#Tenosbon#Tensoprel
+
+>  <DrugBank ID>  (1) 
+DB01197
+
+>  <ATC Codes>  (1) 
+C09AA01#C09BA01
+
+>  <Ligand ID>  (1) 
+X8Z
+
+>  <Target Name>  (1) 
+Angiotensin-converting enzyme
+
+>  <UniProt ID>  (1) 
+P12821
+
+>  <PDB ID.1>  (1) 
+4C2P
+
+>  <Seq. Identity>  (1) 
+100%
+
+$$$$

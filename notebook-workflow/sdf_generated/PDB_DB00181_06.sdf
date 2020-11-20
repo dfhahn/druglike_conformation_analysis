@@ -1,0 +1,107 @@
+PDB_DB00181_06
+     RDKit          3D
+
+ 34 34  0  0  0  0  0  0  0  0999 V2000
+    4.7922    0.5414   -0.7509 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    3.0077    0.4664   -0.7254 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6285   -0.9826   -0.7294 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3060   -1.2774   -0.1335 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5062    1.0171    0.6079 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0007    1.1349    0.4905 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3603   -0.1008   -0.0751 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7771   -0.5115    0.8223 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.5042   -1.7377    0.3080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0791   -1.5689   -0.9862 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7589    0.5648    1.1520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4820    1.1892    0.0336 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7734    1.8220   -0.9385 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3578    2.1525    0.5939 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5762    1.0291   -1.5805 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4202   -1.5306   -0.1387 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7541   -1.3571   -1.7781 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8139   -2.0458   -0.7957 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3781   -1.7084    0.8785 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8240    0.3457    1.4070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9388    2.0431    0.6823 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8302    2.0228   -0.1519 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6525    1.4058    1.5073 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0626    0.1156   -1.1189 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3122   -0.8192    1.7826 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3219   -1.9463    1.0319 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8596   -2.6274    0.2991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5167   -2.0329   -1.7458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0224   -2.0421   -1.0310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3358    1.3128    1.8296 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5471    0.0443    1.7809 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1869    0.4711   -0.4816 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1497    1.7497   -1.8465 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8671    2.8604    1.0632 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  2  5  1  0
+  5  6  1  0
+  4  7  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  8 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 12 14  1  0
+  2 15  1  0
+  3 16  1  0
+  3 17  1  0
+  4 18  1  0
+  4 19  1  0
+  5 20  1  0
+  5 21  1  0
+  6 22  1  0
+  6 23  1  0
+  7 24  1  0
+  8 25  1  1
+  9 26  1  0
+  9 27  1  0
+ 10 28  1  0
+ 10 29  1  0
+ 11 30  1  0
+ 11 31  1  0
+ 12 32  1  0
+ 13 33  1  0
+ 14 34  1  0
+M  END
+>  <PDBID>  (1) 
+4MS4
+
+>  <PDB ID>  (1) 
+4MS4
+
+>  <Generic Name>  (1) 
+Baclofen
+
+>  <Brand Name>  (1) 
+Apo-baclofen Tablets - 10mg#Apo-baclofen Tablets - 20mg#Ava-baclofen#Baclofen#Baclofen Injection#Baclofen Tablets - 10mg#Baclofen Tablets - 20mg#Baclofen Tablets 10mg#Baclofen Tablets 20mg#Baclofen-10 - Tab#Baclofen-20 - Tab#Co Baclofen Tablets 10mg#Co Baclofen Tablets 20mg#Dom-baclofen-tab 10mg#Dom-baclofen-tab 20mg#Equipto - Baclofen External Cream Compounding Kit#Ftp-baclofen#Gablofen#Gapeam Budibac#Lioresal#Lioresal D.S. Tab 20mg#Lioresal Intrathecal 0.05mg/ml#Lioresal Intrathecal 0.5mg/ml#Lioresal Intrathecal 2mg/ml#Lioresal Tab 10mg#Med Baclofen Tab 10mg#Med Baclofen Tab 20mg#Mylan-baclofen#Novo-baclofen#PHL-baclofen#PMS-baclofen#PMS-baclofen Tab 20mg#Penta-baclofen Tablets#Ratio-baclofen#Riva-baclofen#Sandoz Baclofen#Val-baclofen Intrathecal#Baclon#Kemstro#Lioresal Intrathecal#Nu-Baclofen
+
+>  <DrugBank ID>  (1) 
+DB00181
+
+>  <ATC Codes>  (1) 
+M03BX01
+
+>  <Ligand ID>  (1) 
+2C0
+
+>  <Target Name>  (1) 
+Gamma-aminobutyric acid type B receptor subunit 1
+
+>  <UniProt ID>  (1) 
+Q9UBS5
+
+>  <PDB ID.1>  (1) 
+4MS4
+
+>  <Seq. Identity>  (1) 
+34%
+
+$$$$

@@ -1,0 +1,142 @@
+PDB_DB00783_08
+     RDKit          3D
+
+ 50 53  0  0  0  0  0  0  0  0999 V2000
+    2.0502   -0.2793    1.4457 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5164   -0.3828    1.6931 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3771   -0.0068    0.5389 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7183    1.3574    0.5258 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8427   -0.3857   -0.7960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3805   -0.2134   -0.9700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9617    1.2232   -0.8976 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5022    1.4460   -0.8923 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3005    0.5281   -0.0366 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.2147   -0.9057   -0.1364 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.6699   -0.9642    0.1573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6175   -1.8527    0.6618 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0358   -1.8674    0.0748 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5822   -0.4883    0.2441 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.7001    0.4966   -0.5273 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.4780    1.7495   -0.3881 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9194    1.2700   -0.5602 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8760   -0.2404   -0.4801 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -4.9746   -0.7927    0.1221 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7553   -0.1098    1.6732 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6947    0.7478    1.5320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5372   -0.8594    2.2666 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7591    0.3328    2.5331 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7624   -1.3997    2.0908 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3644   -0.5422    0.6648 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7041    1.7350    1.4298 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3739    0.2372   -1.5697 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0788   -1.4740   -0.9835 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0888   -0.6069   -1.9572 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3818    1.7225   -1.8211 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4632    1.7775   -0.0522 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3123    2.4957   -0.5200 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0985    1.4593   -1.9433 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2787    0.8693    1.0310 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0772   -1.1821   -1.2221 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0232   -1.9992    0.2129 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6748   -1.5639    1.7315 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1480   -2.8472    0.6160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9514   -2.1354   -0.9754 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6816   -2.5600    0.6686 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6988    0.1575   -1.5804 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2246    2.5391   -1.1111 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4014    2.1218    0.6721 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5763    1.6483    0.2328 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2326    1.6212   -1.5784 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7266   -0.6295   -1.5295 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5825   -1.1160   -0.6131 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6382    0.5750    1.8302 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8881    0.3307    2.1607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0104   -1.0368    2.2587 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  1 11  1  0
+  6 11  1  0
+ 10 11  1  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+  9 15  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 14 18  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 14 20  1  1
+  1 21  1  0
+  1 22  1  0
+  2 23  1  0
+  2 24  1  0
+  3 25  1  0
+  4 26  1  0
+  5 27  1  0
+  5 28  1  0
+  6 29  1  0
+  7 30  1  0
+  7 31  1  0
+  8 32  1  0
+  8 33  1  0
+  9 34  1  1
+ 10 35  1  6
+ 11 36  1  0
+ 12 37  1  0
+ 12 38  1  0
+ 13 39  1  0
+ 13 40  1  0
+ 15 41  1  6
+ 16 42  1  0
+ 16 43  1  0
+ 17 44  1  0
+ 17 45  1  0
+ 18 46  1  6
+ 19 47  1  0
+ 20 48  1  0
+ 20 49  1  0
+ 20 50  1  0
+M  END
+>  <PDBID>  (1) 
+2OCF
+
+>  <PDB ID>  (1) 
+2OCF
+
+>  <Generic Name>  (1) 
+Estradiol
+
+>  <Brand Name>  (1) 
+Activella#Activelle#Activelle Ld#Alora#Amabelz#Angeliq#Climara#Climara 100#Climara 25#Climara 50#Climara 75#Climara Pro#Combipatch#Combipatch (estradiol/norethindrone Acetate Transdermal System)#Delestrogen#Delestrogen Inj 10mg/ml#Depo-estradiol#Divigel#Elestrin#Estalis 140/50 Mcg#Estalis 250/50 Mcg#Estalis Sequi#Estrace#Estrace Tab 1mg#Estrace Tab 2mg#Estracomb#Estraderm-100#Estraderm-25#Estraderm-50#Estradiol#Estradiol / Norethindrone Acetate#Estradiol Transdermal System#Estradiol Valerate#Estradot 100#Estradot 25#Estradot 37.5#Estradot 50#Estradot 75#Estring#Estrogel#Estrogel Propak#Evamist#Femring#Lopreeza#Lupin-estradiol#Menostar#Mimvey#Mimvey Lo#Minivelle#Natazia#Neo Pause Injection#Neo-diol Inj 20mg/ml#Oesclim#PMS-estradiol Valerate Inj 10mg/ml#Prefesta#Sandoz Estradiol Derm 100#Sandoz Estradiol Derm 50#Sandoz Estradiol Derm 75#Vagifem#Vagifem 10#Vivelle 100mcg#Vivelle 37.5mcg#Vivelle 50mcg#Vivelle 75mcg#Vivelle Dot#Vivelle-dot#Yuvafem#Estraderm MX#Estraderm TTS#Estrasorb#Estrofem#Femtrace#Innofem#Vivelle
+
+>  <DrugBank ID>  (1) 
+DB00783
+
+>  <ATC Codes>  (1) 
+G03FA16#G03FA11#G03FA12#G03FB12#G03FA17#G03FA05#G03FB09#G03FA14#G03FA08#G03AA14#G03EA03#G03FB01#G03AB08#G03EA02#G03FB05#G03HB01#G03FB11#G03CA53#G03FB04#G03FA07#G03FB07#G03FB02#G03FB10#G03FA06#G03CA03#G03FA15#G03FA09#G03FA13#G03EA01#G03FB06#G03FA01#G03FA02#G02BB01#G03FA03#G03FB08#G03FA10#G03FA04#G03FB03
+
+>  <Ligand ID>  (1) 
+EST
+
+>  <Target Name>  (1) 
+Estrogen receptor
+
+>  <UniProt ID>  (1) 
+P03372
+
+>  <PDB ID.1>  (1) 
+2OCF
+
+>  <Seq. Identity>  (1) 
+94%
+
+$$$$

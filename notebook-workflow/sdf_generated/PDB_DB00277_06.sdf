@@ -1,0 +1,98 @@
+PDB_DB00277_06
+     RDKit          3D
+
+ 29 30  0  0  0  0  0  0  0  0999 V2000
+    2.4529   -0.5485    1.0752 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4711   -0.3065    0.1165 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1434    0.9919   -0.2555 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8779    1.3393   -1.4132 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2260    1.2567   -0.5347 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8401    2.2833    0.1996 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0055    0.2180   -1.0437 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6221   -1.1718   -0.5085 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8727   -1.3779   -0.5597 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1585   -2.5983   -0.0079 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0687   -0.9849    0.8808 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4303   -0.5031    0.6448 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3973    0.2161   -0.5870 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.2773   -0.0151    2.0555 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4464   -1.6297    1.3492 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4759   -0.2694    0.7315 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4660    1.7136    0.5498 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5652    2.0124   -1.2253 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6697    2.0154    0.8512 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1671    3.1130   -0.4861 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0685    2.7731    0.8639 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9474    0.1866   -2.1525 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1933   -1.9425   -1.0213 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1660   -1.3707   -1.6287 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0150   -3.2860   -0.7348 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0372   -1.8439    1.4282 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8496    0.0265    1.4953 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0438   -1.4374    0.5057 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8216    1.1399   -0.5886 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+  5  7  1  0
+  7  8  1  0
+  2  9  1  0
+  8  9  1  0
+  9 10  1  0
+  8 11  1  0
+ 11 12  1  0
+  7 13  1  0
+ 12 13  1  0
+  1 14  1  0
+  1 15  1  0
+  1 16  1  0
+  3 17  1  0
+  4 18  1  0
+  6 19  1  0
+  6 20  1  0
+  6 21  1  0
+  7 22  1  0
+  8 23  1  0
+  9 24  1  0
+ 10 25  1  0
+ 11 26  1  0
+ 12 27  1  0
+ 12 28  1  0
+ 13 29  1  0
+M  END
+>  <PDBID>  (1) 
+5MZJ
+
+>  <PDB ID>  (1) 
+5MZJ
+
+>  <Generic Name>  (1) 
+Theophylline
+
+>  <Brand Name>  (1) 
+Apo-theo ER#Apo-theo-LA Srt 100mg#Apo-theo-LA Srt 200mg#Apo-theo-LA Srt 300mg#Elixir De Theophylline#Elixophyllin#I D M Expectorant Tab#Idm Tab#PMS-theophylline Elixir#Pulmophylline Elx#Quibron T SR Tab 300mg#Ratio-theo-bronc#Senophylline#Slo-bid 100#Slo-bid 200#Slo-bid 300#Slo-bid 50#Tedral Tab#Teva-theophylline SR#Theo ER#Theo-24#Theo-SR 300 Srt 300mg#Theo-dur 100 mg#Theo-dur 200 mg#Theo-dur 300 mg#Theo-dur 450 mg#Theolair#Theolair SR Tab 200mg#Theolair SR Tab 250mg#Theolair SR Tab 300mg#Theolair SR Tab 500mg#Theolair Tab 125mg#Theolair Tab 250mg#Theophylline#Theophylline (anhydrous)#Theophylline 80mg/15ml#Theophylline Anhydrous#Theophylline Elixir#Theophylline Elx#Theophylline Extended Release#Theophylline In Dextrose#Theophylline Rougier Elixir#Theophylline Srt 300mg#Theophylline Sustained Release Tab 100mg#Theophylline Sustained Release Tab 200mg#Theophylline(anhydrous)#Uniphyl#Quibron-T#Respbid#Slo-Bid#Theo 24#Theo-Dur#Theodur G
+
+>  <DrugBank ID>  (1) 
+DB00277
+
+>  <ATC Codes>  (1) 
+R03DA54#R03DA74#R03DB04#R03DA04
+
+>  <Ligand ID>  (1) 
+TEP
+
+>  <Target Name>  (1) 
+Adenosine receptor A1
+
+>  <UniProt ID>  (1) 
+P30542
+
+>  <PDB ID.1>  (1) 
+5MZJ
+
+>  <Seq. Identity>  (1) 
+46%
+
+$$$$

@@ -1,0 +1,120 @@
+PDB_DB01015_99
+     RDKit          3D
+
+ 40 41  0  0  0  0  0  0  0  0999 V2000
+   28.0110    0.9430   10.0560 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6160   -0.3560   10.0270 S   0  0  1  0  0  4  0  0  0  0  0  0
+   28.6610   -0.8880   11.3620 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7800   -1.3230    9.0630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.4780   -2.6260    9.4680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7640   -3.4740    8.6280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3660   -0.8720    7.8070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6490   -1.7190    6.9630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3500   -3.0190    7.3750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6570   -3.8470    6.5560 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1060   -0.2350    9.4420 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.0710   -1.1800    9.5980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6330   -2.4680    9.7360 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7400   -3.2080    9.8590 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8280   -2.4040    9.7970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.4680   -1.0830    9.6280 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2450   -2.9000    9.9050 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8797    1.2250   10.9959 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5983   -0.1465   12.0150 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.7163   -1.6808    8.6099 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4371   -3.1223    9.6773 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7890   -2.4719   10.3115 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3965   -4.3569    8.4537 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8188   -3.6328    9.1678 H   0  0  0  0  0  0  0  0  0  0  0  0
+   26.7353    0.0126    7.9794 H   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3130   -0.7211    7.2681 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6899   -1.2227    6.7537 H   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3322   -1.8713    6.1145 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.4074   -2.6625    7.8159 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.1048   -4.5068    7.1222 H   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0248   -3.2920    5.9617 H   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9959   -0.1161    8.4248 H   0  0  0  0  0  0  0  0  0  0  0  0
+   31.0246   -1.0473   10.6890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   30.0429   -2.5600   10.5751 H   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8621   -2.5344    8.7053 H   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8635   -0.6754    8.6860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8557   -0.4079   10.4051 H   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5199   -2.9962   10.9657 H   0  0  0  0  0  0  0  0  0  0  0  0
+   34.3286   -3.8808    9.4141 H   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9220   -2.1854    9.4141 H   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  1
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  4  7  1  0
+  7  8  1  0
+  6  9  1  0
+  8  9  1  0
+  9 10  1  0
+  2 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 12 16  1  0
+ 15 16  1  0
+ 15 17  1  0
+  1 18  1  0
+  3 19  1  0
+  4 20  1  0
+  5 21  1  0
+  5 22  1  0
+  6 23  1  0
+  6 24  1  0
+  7 25  1  0
+  7 26  1  0
+  8 27  1  0
+  8 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 10 31  1  0
+ 11 32  1  0
+ 12 33  1  0
+ 13 34  1  0
+ 15 35  1  0
+ 16 36  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 17 39  1  0
+ 17 40  1  0
+M  END
+>  <PDBID>  (1) 
+3TZF
+
+>  <PDB ID>  (1) 
+3TZF
+
+>  <Generic Name>  (1) 
+Sulfamethoxazole
+
+>  <Brand Name>  (1) 
+Apo Sulfamethoxazole Tab 500mg#Apo Sulfatrim DS Tab#Apo Sulfatrim Pediatric#Apo Sulfatrim Tab#Apo-sulfatrim Oral Suspension#Bactrim#Bactrim DS#Bactrim DS Roche Tab#Bactrim Roche Inj#Bactrim Roche Suspension Paediatric#Bactrim Roche Tab#Nu-cotrimox Sus 40/8mg/ml#Nu-cotrimox Tab 400/80mg#Nu-cotrimox-DS Tab 800/160mg#Protrin Df Tab#Protrin Tab#Riva-sep DS#Roubac Tab 160/800#Roubac Tab 80/400#Septra#Septra DS Tablets#Septra Injection#Septra Pediatric Suspension#Sulfamethoxazole Tab 500mg#Sulfamethoxazole and Trimethoprim#Sulfamethoxazole and Trimethoprim (double Strength)#Sulfamethoxazole and Trimethoprim DS#Sulfamethoxazole and Trimethoprim Double Strength#Sulfamethoxazole and Trimethoprim Tablets#Sulfatrim#Teva-trimel#Teva-trimel DS#Trisulfa DS Tab#Trisulfa S Suspension#Trisulfa Tab#Gantanol#Sinomin#Urobak
+
+>  <DrugBank ID>  (1) 
+DB01015
+
+>  <ATC Codes>  (1) 
+J01EE01#J01EC01
+
+>  <Ligand ID>  (1) 
+08D
+
+>  <Target Name>  (1) 
+Dihydropteroate synthase
+
+>  <UniProt ID>  (1) 
+P0AC13
+
+>  <PDB ID.1>  (1) 
+3TZF
+
+>  <Seq. Identity>  (1) 
+75%
+
+$$$$

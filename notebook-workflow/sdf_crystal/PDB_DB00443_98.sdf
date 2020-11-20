@@ -1,0 +1,172 @@
+PDB_DB00443_98
+     RDKit          3D
+
+ 65 68  0  0  0  0  0  0  0  0999 V2000
+    1.0490   40.1180   -7.4660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9360   40.9670   -6.4550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3920   41.2470   -5.8760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5890   40.6090   -6.4630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4500   39.7190   -7.4540 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.7230   39.0890   -8.0300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7840   39.3290   -9.5510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4570   38.9730  -10.2710 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.2540   39.7300   -9.6170 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.0960   39.3690   -8.0940 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.0640   39.5650  -10.4320 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.8950   39.7830  -11.9600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2440   38.9530  -12.5930 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.5480   39.3010  -11.7720 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -2.6750   38.6850  -12.6220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1820   38.9180  -14.0840 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6950   39.3860  -14.0190 C   0  0  2  0  0  0  0  0  0  0  0  0
+    0.1190   37.4330  -12.5840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2420   37.8860   -7.7800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1870   38.8100  -15.1310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5350   39.4210  -15.4340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0980   39.9260  -14.7710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5770   41.0910   -9.6640 F   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4780   41.9740   -4.9050 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6890   38.2980  -10.2130 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6810   40.8150  -14.1920 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1570   37.8690  -15.8070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3560   38.5230  -16.1690 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5067   40.6942   -8.2836 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5817   39.2912   -6.9734 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5627   40.5763   -5.6398 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2288   41.9304   -6.8978 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5107   42.0997   -6.5607 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1099   40.0936   -5.6427 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1147   41.4469   -6.9443 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3824   38.9069   -6.7152 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7168   38.0071   -7.8313 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6021   39.5489   -7.5549 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5893   38.7093   -9.9723 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9683   40.4018   -9.7092 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2869   37.8917  -10.1624 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7117   40.3661  -10.0465 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6851   40.8484  -12.1359 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8307   39.4508  -12.4334 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7452   40.3760  -11.6477 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7883   37.6117  -12.4097 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6608   39.1301  -12.4216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2236   37.9968  -14.6837 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2028   37.0822  -11.5448 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6687   36.8648  -13.1004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0784   37.2821  -13.1004 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2752   37.7403   -6.6902 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5306   37.2341   -8.2137 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2208   37.6332   -8.2137 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2841   39.4894  -15.8566 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3884   40.3374  -16.0245 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0354   39.6478  -14.4810 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6323   40.5139  -14.0102 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4964   40.5995  -15.3991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8258   39.3914  -15.3991 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4138   41.4311   -4.0796 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7700   38.1338   -9.2401 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6767   41.2548  -13.3050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.4302   37.1218  -15.2178 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8722   37.9583  -15.5407 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  1 10  1  0
+  5 10  1  0
+  9 10  1  0
+  9 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+  8 14  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 13 17  1  0
+ 16 17  1  0
+ 13 18  1  6
+ 10 19  1  6
+ 17 20  1  0
+ 20 21  1  0
+ 16 22  1  0
+  9 23  1  1
+  3 24  1  0
+ 11 25  1  0
+ 17 26  1  1
+ 20 27  1  0
+ 21 28  1  0
+  1 29  1  0
+  1 30  1  0
+  2 31  1  0
+  2 32  1  0
+  3 33  1  0
+  4 34  1  0
+  4 35  1  0
+  5 36  1  1
+  6 37  1  0
+  6 38  1  0
+  7 39  1  0
+  7 40  1  0
+  8 41  1  6
+ 11 42  1  1
+ 12 43  1  0
+ 12 44  1  0
+ 14 45  1  1
+ 15 46  1  0
+ 15 47  1  0
+ 16 48  1  6
+ 18 49  1  0
+ 18 50  1  0
+ 18 51  1  0
+ 19 52  1  0
+ 19 53  1  0
+ 19 54  1  0
+ 20 55  1  0
+ 21 56  1  0
+ 21 57  1  0
+ 22 58  1  0
+ 22 59  1  0
+ 22 60  1  0
+ 24 61  1  0
+ 25 62  1  0
+ 26 63  1  0
+ 27 64  1  0
+ 28 65  1  0
+M  END
+>  <PDBID>  (1) 
+4UDC
+
+>  <PDB ID>  (1) 
+4UDC
+
+>  <Generic Name>  (1) 
+Betamethasone
+
+>  <Brand Name>  (1) 
+Beben Gel 0.025%#Beta 1 Kit#Betacort Scalp Lotion 0.1%#Betaderm Crm 0.05%#Betaderm Crm 0.1%#Betaderm Lotion 0.1%#Betaderm Ont 0.05%#Betaderm Ont 0.1%#Betagel - 0.1%#Betaject#Betaloan Suik#Betamethasone#Betamethasone Clotrimazole#Betamethasone Combo 6mg/ml PF#Betamethasone Combo 7mg/ml#Betamethasone Dipropionate#Betamethasone Dipropionate Augmented#Betamethasone Sodium Phosphate and Betamethasone Acetate#Betamethasone Sp 24mg/2ml PF#Betamethasone Valerate#Betamethasone Valerate Lot 0.1% USP#Betamycin Ophthalmic/otic Solution#Betaprolene Cream 0.05%#Betaprolene Ointment 0.05%#Betaprone Cream 0.05%#Betaprone Lotion 0.05%#Betaprone Ointment 0.05%#Beteflam#Betnesol Eye and Ear Drops#Betnesol Eye and Ear Drops 0.1%#Betnesol Pellets 0.1mg#Betnesol Retention Enema 5mg/100ml#Betnesol Retention Enemas#Betnesol Tab 0.5mg#Betnesol Tablets#Betnovate 1/2 Crm 0.05%#Betnovate 1/2 Lot 0.05%#Betnovate 1/2 Ont 0.05%#Betnovate Crm 0.1%#Betnovate Lot 0.1%#Betnovate Lotion 0.1%#Betnovate Ont 0.1%#Calcipotriene 0.005% and Betamethasone Dipropionate 0.064%#Calcipotriene and Betamethasone Dipropionate#Celestoderm V#Celestoderm V Crm 0.1%#Celestoderm V Ont 0.1%#Celestoderm V/2#Celestoderm V/2 Cream .05%#Celestoderm V/2 Ointment 0.05%#Celestone Repetabs 1mg#Celestone Soluspan#Celestone Tab 0.5mg#Clotrimazole and Betamethasone Dipropionate#Dermacinrx Therazole Pak#Diprogen Cream#Diprogen Ointment#Diprolene#Diprolene AF#Diprosalic#Diprosone Cream 0.05%#Diprosone Lotion 0.05%#Diprosone Ointment 0.05%#Dom-gentamicin-betamethasone#Dovobet Gel#Dovobet Ointment#Dr. Throwers Beta#Dr. Throwers Pbc No. 1#Enstilar#Garasone Ophthalmic Ointment#Garasone Ophthalmic and Otic Solution#Lotriderm Cream#Lotrisone#Luxiq#Marbeta 25 Kit#Occlucort Film Forming Lot 0.05#PMS-clotrimazole-betamethasone#PMS-gentamicin-betamethasone#Prevex B Cream 0.1%#Pro-lene Glycol Cream - 0.05%#Pro-lene Glycol Lotion - 0.05%#Pro-lene Glycol Ointment - 0.05%#Pro-sone Cream - 0.05%#Pro-sone Lotion -  0.05%#Pro-sone Ointment - 0.05%#Ratio-ectosone#Ratio-ectosone Mild Cream 0.05%#Ratio-ectosone Mild Lotion 0.05%#Ratio-ectosone Regular Cream 0.1%#Ratio-ectosone Regular Lotion 0.1%#Ratio-topilene#Ratio-topisalic#Ratio-topisone#Readysharp Betamethasone#Rhoprolene Glycol Cream 0.5mg/gm#Rhoprolene Glycol Lotion 0.5mg/gm#Rhoprolene Glycol Ointment 0.5mg/gm#Rhoprosone Cream 0.05%#Rhoprosone Lotion 0.05%#Rhoprosone Oint 0.05%#Rivasone Scalp Lot 0.1%#Rolene Cream 0.05%#Rolene Lotion 0.05%#Rolene Ointment 0.05%#Rosone Cream 0.05%#Rosone Lotion 0.05%#Rosone Ointment 0.05%#Sandoz Pentasone#Sernivo#Taclonex#Taclonex Scalp#Taro Sone Lot 0.05%#Taro Sone Ont#Taro-sone Cream 0.05%#Valisone Scalp Lotion#Valisone-G Cream#Valisone-G Ointment#Bentelan#Betnovate#Celestamine#Celestone#Diprosone#Fucibet#Procort#Rinderon
+
+>  <DrugBank ID>  (1) 
+DB00443
+
+>  <ATC Codes>  (1) 
+S01BB04#R03BA04#S01CA05#H02AB01#R01AD06#D07BC01#C05AA05#D07CC01#D07AC01#S01CB04#D07XC01#S02BA07#A07EA04#S03BA03#S01BA06#S03CA06
+
+>  <Ligand ID>  (1) 
+DEX
+
+>  <Target Name>  (1) 
+Glucocorticoid receptor
+
+>  <UniProt ID>  (1) 
+P04150
+
+>  <PDB ID.1>  (1) 
+4UDC
+
+>  <Seq. Identity>  (1) 
+99%
+
+$$$$

@@ -1,0 +1,126 @@
+PDB_DB00869_98
+     RDKit          3D
+
+ 43 44  0  0  0  0  0  0  0  0999 V2000
+   15.1710    3.5450   15.6720 S   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1270    2.1520   15.8960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4440    2.2250   15.2700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.4600    3.5510   14.6820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7240    3.9180   13.9270 C   0  0  2  0  0  0  0  0  0  0  0  0
+   18.8240    5.3970   13.5950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5880    5.9550   12.9580 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.2900    5.9180   14.2020 S   0  0  1  0  0  4  0  0  0  0  0  0
+   16.3450    4.3020   14.8260 C   0  0  1  0  0  0  0  0  0  0  0  0
+   15.4470    0.8200   16.8300 S   0  0  0  0  0  4  0  0  0  0  0  0
+   15.9340    0.9220   18.2040 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9990    0.9660   16.7230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0700   -0.5590   16.2440 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6830    3.1280   12.7030 N   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8730    7.3560   12.5020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.5980    6.7600   15.3240 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9960    6.2150   13.6350 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9070    3.1180   11.9390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0380    2.0840   10.8520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7125    1.7192   14.9736 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.2428    2.1160   16.0184 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.6163    1.4255   14.5344 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.8952    3.9561   15.6075 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6064    3.7076   14.5492 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.0149    5.9501   14.5265 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6404    5.5089   12.8663 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.2718    5.3717   12.0807 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7478    4.7210   15.7599 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1850    0.7651   18.8321 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6035    1.0059   17.6297 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3462   -1.1704   17.0256 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3632   -1.0372   15.6672 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4584    2.1557   12.9583 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0055    8.0071   13.3786 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.7913    7.3649   11.8966 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0311    7.7230   11.8966 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.4183    6.2687   16.1645 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.3429    6.3649   14.3638 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.0097    4.1067   11.4678 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6905    2.8610   12.6671 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.1640    1.0896   11.3051 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1318    2.0907   10.2285 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.9139    2.3164   10.2285 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  1  9  1  0
+  4  9  1  0
+  8  9  1  0
+  2 10  1  0
+ 10 11  1  0
+ 10 12  1  0
+ 10 13  1  0
+  5 14  1  0
+  7 15  1  0
+  8 16  1  1
+  8 17  1  0
+ 14 18  1  0
+ 18 19  1  0
+  2 20  1  0
+  3 21  1  0
+  3 22  1  0
+  4 23  1  0
+  5 24  1  1
+  6 25  1  0
+  6 26  1  0
+  7 27  1  6
+  9 28  1  6
+ 11 29  1  0
+ 12 30  1  0
+ 13 31  1  0
+ 13 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 15 35  1  0
+ 15 36  1  0
+ 16 37  1  0
+ 17 38  1  0
+ 18 39  1  0
+ 18 40  1  0
+ 19 41  1  0
+ 19 42  1  0
+ 19 43  1  0
+M  END
+>  <PDBID>  (1) 
+4M2U
+
+>  <PDB ID>  (1) 
+4M2U
+
+>  <Generic Name>  (1) 
+Dorzolamide
+
+>  <Brand Name>  (1) 
+Act Dorzotimolol#Apo-dorzo-timop#Apo-dorzolamide#Cosopt#Cosopt PF#Dorzolamide#Dorzolamide HCl#Dorzolamide HCl /timolol Maleate#Dorzolamide HCl and Timolol Maleate#Dorzolamide Hydrochloride#Dorzolamide Hydrochloride Ophthalmic Solution#Dorzolamide Hydrochloride Ophthalmic Solution 2%, 10ml Ophthalmic Solution 2%, 10ml#Dorzolamide Hydrochloride and Timolol Maleate#Dorzolamide Hydrochloride and Timolol Maleate Ophthalmic Solution#Dorzolamide Hydrochloride-timolol Maleate#Dorzolamide Hydrochloride-timolol Maleate Ophthalmic Solution Sterile Ophthalmic Solution#Jamp-dorzolamide#Jamp-dorzolamide/timolol#Med-dorzolamide#Med-dorzolamide-timolol#Mint-dorzolamide/timolol#Mylan-dorzolamide/timolol#PMS-dorzolamide-timolol#Riva-dorzolamide#Riva-dorzolamide/timolol#Sandoz Dorzolamide#Sandoz Dorzolamide/timolol#Teva-dorzotimol#Trusopt#Van-dorzolamide-timolol
+
+>  <DrugBank ID>  (1) 
+DB00869
+
+>  <ATC Codes>  (1) 
+S01EC03
+
+>  <Ligand ID>  (1) 
+ETS
+
+>  <Target Name>  (1) 
+Carbonic anhydrase 2
+
+>  <UniProt ID>  (1) 
+P00918
+
+>  <PDB ID.1>  (1) 
+4M2U
+
+>  <Seq. Identity>  (1) 
+100%
+
+$$$$

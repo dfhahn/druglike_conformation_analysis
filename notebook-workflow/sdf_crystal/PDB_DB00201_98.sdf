@@ -1,0 +1,104 @@
+PDB_DB00201_98
+     RDKit          3D
+
+ 32 33  0  0  0  0  0  0  0  0999 V2000
+    9.1740  -33.1560  -31.8810 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5110  -33.9730  -32.9480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1800  -32.7900  -30.8620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8800  -32.6980  -31.7480 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5600  -34.3290  -33.8820 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7810  -34.4320  -33.0790 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9230  -35.2040  -35.0040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2870  -33.8640  -33.7350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9250  -33.0680  -32.6990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2400  -34.1120  -34.5500 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5520  -31.9080  -30.7050 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6170  -32.7750  -32.8280 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2350  -33.4220  -33.9540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7270  -31.9750  -31.9940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2553  -34.8599  -32.3496 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7576  -32.9437  -29.8580 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0726  -33.4210  -30.9848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4585  -31.7329  -30.9848 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1325  -31.8106  -32.3469 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1747  -34.5743  -32.1818 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3173  -36.1544  -34.6151 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0322  -35.4007  -35.6187 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6914  -34.7124  -35.6187 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0306  -34.7536  -33.1410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1743  -32.1781  -33.2956 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4183  -33.7621  -35.5022 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7485  -32.3813  -29.8579 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8510  -32.6793  -34.6689 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4688  -34.1550  -33.6614 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9443  -32.1703  -30.9335 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8832  -30.9077  -32.2098 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6824  -32.2437  -32.2098 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  1  4  1  0
+  2  5  1  0
+  2  6  1  0
+  5  7  1  0
+  5  8  1  0
+  4  9  1  0
+  8  9  1  0
+  8 10  1  0
+  4 11  1  0
+  9 12  1  0
+ 10 13  1  0
+ 12 13  1  0
+ 12 14  1  0
+  2 15  1  0
+  3 16  1  0
+  3 17  1  0
+  3 18  1  0
+  4 19  1  0
+  6 20  1  0
+  7 21  1  0
+  7 22  1  0
+  7 23  1  0
+  8 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 11 27  1  0
+ 13 28  1  0
+ 13 29  1  0
+ 14 30  1  0
+ 14 31  1  0
+ 14 32  1  0
+M  END
+>  <PDBID>  (1) 
+3RFM
+
+>  <PDB ID>  (1) 
+3RFM
+
+>  <Generic Name>  (1) 
+Caffeine
+
+>  <Brand Name>  (1) 
+(extra Strength) Acetaminophen, Caffeine & 8mg Codeine Phosphate Caplets#217#217 Strong Tab#222 Tablets#282 Mep Tab#282 Tab#282 Tablets#292 Tab#292 Tablets#357 Super Magnum#692 Tab#692 Tablet#7 Select Migraine Formula#999 Ganmaoling Cold#A & C Tablets With Codeine 15mg#A & C Tablets With Codeine 30mg#A.C. & C 8mg Tab#A.C. & C. 8 mg#A.C. & C. 8mg#A.C.& C Tablets#Ac and C Tab 1/8gr#Ac&c Tablets#Acet 2#Acet 3#Acetaminophen 300 Mg With 15 Mg Caffeine and 8 Mg Codeine Phosphate#Acetaminophen 300mg, Caffeine & Codeine#Acetaminophen 325 C & C#Acetaminophen 325 Mg Caffeine and Codeine#Acetaminophen 325 Mg With 15 Mg Caffeine and 8 Mg Codeine Phosphate#Acetaminophen 500 Mg Compound Tablets With Codeine#Acetaminophen 500 Mg With 15 Mg Caffeine and 8 Mg Codeine Phosphate#Acetaminophen 500mg and Caffeine 65mg#Acetaminophen 500mg, Caffeine and 8mg Codeine Phosphate#Acetaminophen Caffeine & 8mg Cod Phos Tab#Acetaminophen Caffeine & 8mg Cod. Phos. Tab#Acetaminophen Compound Tablets With Codeine 8mg#Acetaminophen Headache Ultra Relief#Acetaminophen Relief Regular Strength#Acetaminophen Ultra Relief Extra Strength#Acetaminophen W Codeine Tab#Acetaminophen With Codeine - Caplet#Acetaminophen, Butalbital and Caffeine#Acetaminophen, Caffeine & 8mg Codeine Phosphate#Acetaminophen, Caffeine & 8mg Codeine Phosphate Tablets#Acetaminophen, Caffeine & Codeine#Acetaminophen, Caffeine & Codeine Tablets#Acetaminophen, Caffeine and 8 Mg Of Codeine Phosphate Tablets#Acetaminophen, Caffeine and Dihydrocodeine Bitartrate#Acetaminophen, Caffeine, Dihydrocodeine Bitartrate#Acetaminophen, Caffeine, and 8mg Of Codeine Phosphate Tablets#Acetaminophen-caffeine-codeine#Acetaminophene Codeine Et Cafeine Caplets#Acetaminophene Codeine Et Cafeine Fort#Acetylsalicylic Acid, Caffeine & 8 Mg Codeine Phosphate Tablets#Acetylsalicylic Acid, Caffeine and 8mg Codeine Phosphate#Ache and Pain Relief To Go#Added Strength Pain Reliever#Adults Acetaminophen and Caffeine Pain Reliever Fever Reducer#Alert#Alert Aid Caffeine Capsules 175mg#Alert Aid Caffeine Tablets 175mg#Alert Alertness Aid#Alert Tab 100mg#Alertness Aid#Alertness Aid Maximum Strength#Alka-seltzer Morning Relief#Allertness Aid#Anacin#Anacin AF#Anacin Caplets#Anacin Es#Anacin Extra Strength#Anacin Extra Strength Caplets#Anacin Extra Strength Tablet#Anacin Tablet#Anacin With Codeine Tab#Antidol Tablets#Apo-acetaco #1#Ara Menstrual Complete#Arco Pain Tab#Arthriten Inflammatory Pain Formula#Asa and Caffeine#Asa, Caffeine & 8mg Codeine Phosphate#Asa-caffeine-codeine#Ascomp With Codeine#Aspirin Rapid Relief#Aspirin, Caffeine, and Dihydrocodeine Bitartrate#Atasol 15 Tab#Atasol 30 Tab#Atasol 8 Tab#Awake Maximum Strength#Back and Body Extra Strength#Backaid Inflammatory Pain Formula#Bayer Am Extra Stength#Bayer Back and Body Extra Strength#Bayer Headache Relief#Bayer Migraine Formula#Bc#Bc Arthritis#Bc Cherry#Berkley and Jensen Migraine Formula#Berkley and Jensen Migraine Relief#Bi Electro Extra Strength#Blowfish#Butalbital Acetaminophen and Caffeine#Butalbital Compound#Butalbital, Acetaminophen and Caffeine#Butalbital, Acetaminophen and Caffeine Plus#Butalbital, Acetaminophen and Caffeine With Codeine Phosphate#Butalbital, Acetaminophen, Caffeine#Butalbital, Acetaminophen, Caffeine and Codeine Phosphate#Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate#Butalbital, Acetaminophen, and Caffeine#Butalbital, Acetominophen and Caffeine#Butalbital, Aspirin and Caffeine#Butalbital, Aspirin and Caffeine Tablets#Butalbital, Aspirin, Caffeine and Codeine Phosphate#Butalbital, Aspirin, Caffeine, and Codeine Phosphate#Butalbital, Aspirin, and Caffeine#C T Acetylsalicylic Acid Codeine and Caf Tab#C-2 Buffered With Codeine#C2 Buffered Tab#C2 Buffered With Codeine Tab#C2 Tab With Codeine#Cafcit#Cafergot#Cafergot Sup#Cafergot Tab#Caffeine#Caffeine 200 mg#Caffeine Citrate#Caffeine Maximum Strength#Caffeine and Sodium Benzoate#Calmine Tab#Capacet#Care One Headache Relief Added Strength#Care One Migraine Relief#Careline Perfect Care Bb#Circle K Headache Relief#Circle K Nosnooze#Citramon#Cold Remedy Gan Mao Ling#Comfort-time#Complete Menstrual Relief#Conrx Alert#Conrx Pain Reliever#Corytab#Cotabs#Darvon N Compound Pulvule 405#Destim - Tab 200mg#Dg Health Headache Relief Added Strength#Dg Health Migraine Relief#Dihydrocodeine Bitartrate, Acetaminophen and Caffeine#Diurette Water Pills#Diurex Ultimate#Diurex Ultra#Diurex Water Pills#Diurex Water Pills Xpl#Diurex Watercaps#Dolomine 37#Dristan Capsules#Drowz Away Maximum Strength#Emertabs Tab#Equaline Headache Formula Added Strength#Equaline Migraine Formula#Equaline Stay Awake#Equate Migraine Relief#Ergodryl Cap#Ergotamine#Ergotamine Tartrate and Caffeine#Esgic#Exaprin#Excedrin#Excedrin Extra Strength#Excedrin Extra Strength Caplets#Excedrin Extra Strength Geltabs#Excedrin Extra Strength Pain Reliever#Excedrin Menstrual Complete#Excedrin Migraine#Excedrin Migraine Geltabs#Excedrin Mild Headache Caplets#Excedrin Tension Headache#Excedrin Tension Headache Pain Reliever#Exdol 15tab#Exdol 30tab#Exdol 8 Tab#Exdol-15#Exdol-30#Exdol-8#Extra Pain Relief#Extra Strenght Headache Relief#Extra Strength Back and Body#Extra Strength Contac Plus Cold Nasal Congestion#Extra Strength Headache Relief#Extra Strength Menstrual Complete#Extra Strength Midol#Extra Strength Midol Relief#Extra Strength Pain Reliever#Family Wellness Migraine Relief#Fioricet#Fioricet With Codeine#Fiorinal#Fiorinal C1/2#Fiorinal C1/4#Fiorinal Tab#Fiorinal With Codeine#First Aid Shot Therapy Hangover Relief#First Aid Shot Therapy Pain Relief#Formu Care Pain Reliever Added Strength#Ganmaoling 999#Good Neighbor Pharmacy Headache Relief#Good Neighbor Pharmacy Migraine Relief#Good Neighbor Pharmacy Stay Awake#Good Sense Headache Formula Added Strength#Good Sense Migraine Formula#Good Sense Stay Awake#Goodys#Goodys Cool Orange#Goodys Cool Orange Headache#Goodys Extra Strength#Goodys Extra Strength Headache Mixed Fruit Blast#Goodys Headache Relief Shot#Goodys Migraine Relief#Goodys PM Pain Reliever#Gravergol Capsules#Green Guard Pain and Ache Relief#Handy Solutions Headache Pain Relief#Harris Teeter Migraine Relief#Headache Formula Added Strength#Headache Formula Extra Strength#Headache Relief#Headache Relief Added Strength#Headache Relief Extra Strength#Headache Relief Mild#Headache Relief To Go#Health Mart Migraine Formula#Health Mart Migraine Relief#Health Mart Stay Awake#Healthy Accents Headache Relief Added Strength#Healthy Accents Migraine Formula#Healthy Accents Stay Awake#Herbopyrine Tab 325mg#Instantine - Tablets#Instantine Tab#Isometheptene Mucate, Caffeine, and Acetaminophen#Jet Alert Double Strength#Jet Alert Regular Strength#Jet-alert Maximum Strength Alertness Aid#Leader Alertness Aid#Leader Headache Formula Added Strength#Leader Migraine Formula#Leader Migraine Relief#Lil Drug Store Headache Relief Extra Strength#Lil Drug Store Nosnooze#Madelon#Margesic#Maximum Strength Menstrual Complete#Medi First Pain Relief#Medi First Plus Pain Zapper#Medique Back Pain Off#Medique Pain Off#Megral Tabs#Menstrual Complete#Menstrual Complete Maximum Strength#Menstrual Midol Complete#Menstrual Relief#Menstrual Relief Extra Strength#Menstrual Relief Maximum Strength#Midol#Midol Complete#Midol Complete Gelcaps#Midol Extra Strength Gelcaps#Midol Extra Strength Menstrual#Midol Multi-symptom Caplets Extra Strength#Midol Multi-symptom Gelcap Extra Strength#Midol One#Midol Regular#Migergot#Migraine Formula#Migraine Relief#Migrenol#Nano Ppc#Nervine#Nervine Tab#Nodoz Maximum Strength Alertness Aid#Norgesic#Norgesic Forte#Norgesic Forte Tab#Norgesic Tab#Novo Ac and C 8mg Tab#Novo-gesic C15#Novo-gesic C30#Novo-gesic-C8#Novo-propoxyn Compound Cap#Nu-acetaco #1#Oradrine 2 Tab#Oradrine Tablets#Oradrine-2 Tab#Orbivan#Orphenadrine Citrate, Aspirin and Caffeine#PMS-pharnal Capsules#PMS-pharnal Tablets#PMS-pharnal-C 1/4 Capsules#PMS-pharnal-C1/2 Capsules#Pain Aid#Pain Aid Esf#Pain Away Plus#Pain Free#Pain Free Plus#Pain Relief Added Strength#Pain Relief Extra Strength#Pain Relief Maximum Strength#Pain Reliever Added Strength#Pain Reliever Extra Strength#Pain Reliever Plus#Pain Stopper Extra#Pain Stoppers Extra#Pain Stoppers Regular#Painex Tab 0.25gr#Painex Tab 0.5gr#Pamprin Max Menstrual Pain Relief#Panadol Extra#Pancold S#Pep-back Peak Performance#Pep-back Ultra#Phenfree Caffeine 100mg Capsules#Prodrin#Pronal - C1/2 Capsules#Pronal C1/4 Capsules#Pronal Capsules#Pronal Tablets#Ratio-lenoltec No 1#Ratio-lenoltec No 2#Ratio-lenoltec No 3#Ratio-tecnal#Ratio-tecnal C 1/2#Ratio-tecnal C 1/4#Regular Strength Aspirin#Rx Act Headache Formula Added Strength#Sed-max#Sedalmex Pain Reliever#Shoprite Migraine Formula#Signature Care Migraine Relief#Sinugex 38#Smart Sense Migraine Formula#Smart Sense Migraine Relief#Smart Sense Stay Awake#Sohmed Alertness Aid#Sohmed Pain Reliever#Spirit (chewable Squares)#Stanback#Stay Alert Aid#Stay Alert Alertness Aid#Stay Awake#Stay Awake Maximum Strength#Sugarloaf Spring Caffeine, Caffeinated Spring Water#Sunmark Headache Relief#Sunmark Migraine Relief#Sunmark Stay Awake#Sunmark Tension Headache#Synalgos#Tamicode Tablets#Teen Midol Complete#Teen Pms Relief Complete Caplets#Tension Headache#Tension Headache Aspirin Free#Tension Headache Aspirin-free#Tension Headache Relief#Tension Headache Relief Aspirin Free#Thrulife Extra Strength Headache Relief#Topcare Headache Formula#Topcare Migraine Formula#Topcare Stay Awake Maximum Strength#Trezix#Triaminicin Colds & Flu Caplets#Trianal Capsules#Trianal C¼#Trianal C½#Trianal Tablet#Triatec Fort/strong Ultra Efficace/ultra Relief#Triatec-8#Triatec-8 Fort#Tylenol Advanced Headache#Tylenol No 1 Tab#Tylenol No.1 Caplets#Tylenol No.1 Forte Caplets#Tylenol No1 Forte Tablets With Codeine#Tylenol Ultra Relief#Tylenol W Codeine No2 Tab#Tylenol W Codeine No3 Tab#Tylenol With Codeine No. 2 - Tab#Tylenol With Codeine No. 3 - Tab#Ultra Headache Relief#Up and Up Migraine Relief#Uricalm Intensive#Vanapain#Vanatol Lq#Vanquish#Vivarin#Wampole-acetaminophen/codeine/caffeine#Zebutal#Caffedrine#Dexitac#Durvitan#Enerjets#No-Doz#Pep-Back#Quick Pep#Wake-Up
+
+>  <DrugBank ID>  (1) 
+DB00201
+
+>  <ATC Codes>  (1) 
+V04CG30#N06BC01
+
+>  <Ligand ID>  (1) 
+CFF
+
+>  <Target Name>  (1) 
+Adenosine receptor A1
+
+>  <UniProt ID>  (1) 
+P30542
+
+>  <PDB ID.1>  (1) 
+3RFM
+
+>  <Seq. Identity>  (1) 
+40%
+
+$$$$

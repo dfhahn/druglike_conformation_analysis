@@ -1,0 +1,138 @@
+PDB_DB00373_03
+     RDKit          3D
+
+ 49 50  0  0  0  0  0  0  0  0999 V2000
+   -3.8036   -0.4829    1.2340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1811   -0.6558    1.8783 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0425   -1.2861    1.0193 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2264   -0.5700   -0.1364 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1954    0.4955   -0.3917 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8973    0.1642   -0.0175 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8636   -0.0373   -0.9241 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0526    0.5256   -2.2342 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4065    2.1749   -2.0151 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6796    1.9429   -0.3938 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5142    0.4859   -0.4512 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1198   -0.0655    0.7233 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1147   -0.6879    0.6518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2228    0.2996    0.3029 C   0  0  1  0  0  0  0  0  0  0  0  0
+    1.3024    1.2936    1.2800 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5650   -0.4163    0.3014 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5991    0.5274    0.0067 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9204   -0.0019   -0.0596 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0918   -1.0197   -1.1709 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3917   -0.6766    1.2117 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8906    1.1289   -0.3310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1437    0.0184    1.9676 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4608   -1.5402    1.0400 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0140   -1.2834    2.7716 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5924    0.2957    2.2406 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2189   -0.0202   -0.1318 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2932   -1.2734   -0.9981 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3211    0.7856   -1.4658 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5305    1.4270    0.1576 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6797   -1.1419   -1.0954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5387    0.0174   -2.9875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7514    2.3852   -0.3716 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7894    0.3118   -1.2580 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0852   -1.4184   -0.1972 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3441   -1.2297    1.5869 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0997    0.7574   -0.6925 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3814    1.5286    1.5656 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7446   -0.8472    1.3224 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5745   -1.2595   -0.4247 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5847    1.3613    0.6067 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7598   -2.0080   -0.8255 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5310   -0.6682   -2.0610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1764   -1.0757   -1.3868 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3445   -1.2357    0.9649 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6424    0.0972    1.9572 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6785   -1.4276    1.5821 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6990    1.9087    0.4440 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6219    1.5859   -1.2948 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9502    0.8103   -0.2516 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  1  6  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  7 11  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  1  0
+ 18 17  1  0
+ 18 19  1  0
+ 18 20  1  0
+ 18 21  1  0
+  1 22  1  0
+  1 23  1  0
+  2 24  1  0
+  2 25  1  0
+  4 26  1  0
+  4 27  1  0
+  5 28  1  0
+  5 29  1  0
+  7 30  1  0
+  8 31  1  0
+ 10 32  1  0
+ 11 33  1  0
+ 13 34  1  0
+ 13 35  1  0
+ 14 36  1  6
+ 15 37  1  0
+ 16 38  1  0
+ 16 39  1  0
+ 17 40  1  0
+ 19 41  1  0
+ 19 42  1  0
+ 19 43  1  0
+ 20 44  1  0
+ 20 45  1  0
+ 20 46  1  0
+ 21 47  1  0
+ 21 48  1  0
+ 21 49  1  0
+M  END
+>  <PDBID>  (1) 
+3D4S
+
+>  <PDB ID>  (1) 
+3D4S
+
+>  <Generic Name>  (1) 
+Timolol
+
+>  <Brand Name>  (1) 
+Act Dorzotimolol#Act Latanoprost/timolol#Apo-brimonidine-timop#Apo-dorzo-timop#Apo-latanoprost-timop#Apo-timol Tablets 10mg#Apo-timol Tablets 20mg#Apo-timol Tablets 5mg#Apo-timop Gel#Apo-timop Liq 0.5%#Apo-timop Oph Soln 0.25%#Apo-travoprost-timop#Azarga#Beta-tim - 0.25% Liq#Beta-tim - 0.5% Liq#Betimol#Blocadren Tab 10mg#Blocadren Tab 20mg#Blocadren Tab 5mg#Combigan#Cosopt#Cosopt PF#Dom-timolol#Dorzolamide HCl /timolol Maleate#Dorzolamide HCl and Timolol Maleate#Dorzolamide Hydrochloride and Timolol Maleate#Dorzolamide Hydrochloride and Timolol Maleate Ophthalmic Solution#Dorzolamide Hydrochloride-timolol Maleate#Dorzolamide Hydrochloride-timolol Maleate Ophthalmic Solution Sterile Ophthalmic Solution#Duotrav Pq#Gd-latanoprost/timolol#Istalol#Jamp-dorzolamide/timolol#Jamp-latanoprost/timolol#Jamp-timolol#Med Timolol Liq Oph 0.25%#Med Timolol Liq Oph 0.5%#Med-dorzolamide-timolol#Med-latanoprost-timolol#Mint-dorzolamide/timolol#Mint-latanoprost/timolol#Mylan-dorzolamide/timolol#Mylan-latanoprost/timolol#Mylan-timolol#Novo-timol Liq 0.25%#Novo-timol Liq 0.5%#Nu-timolol Tab 10mg#Nu-timolol Tab 20mg#Nu-timolol Tab 5mg#Odan-timolol#PMS-dorzolamide-timolol#PMS-latanoprost-timolol#PMS-timolol#Ratio-timolol Maleate 0.25%#Ratio-timolol Maleate 0.5%#Rhoxal-timolol 0.25%#Rhoxal-timolol 0.5%#Riva-dorzolamide/timolol#Riva-latanoprost/timolol#Sandoz Dorzolamide/timolol#Sandoz Latanoprost/timolol#Sandoz Timolol#Sandoz Travoprost / Timolol Pq#T-LO  - Liq Oph 0.25%#T-LO - Liq Oph 0.5%#Teva-dorzotimol#Teva-latanoprost/timolol#Teva-timolol#Timolide Tab#Timolol Gfs#Timolol Maleate#Timolol Maleate-EX#Timolol Solution - 0.25%#Timolol Solution - 0.5%#Timolol-10 Tab 10mg#Timolol-20 Tab 20mg#Timolol-5 Tab 5mg#Timoptic#Timoptic-XE#Timpilo 2#Timpilo 4#Van-dorzolamide-timolol#Xalacom#Blocadren#Proflax#Tenopt#Timacar Depot#Timacor#Timoptol
+
+>  <DrugBank ID>  (1) 
+DB00373
+
+>  <ATC Codes>  (1) 
+S01ED51#S01ED01#C07DA06#C07BA06#C07AA06
+
+>  <Ligand ID>  (1) 
+TIM
+
+>  <Target Name>  (1) 
+Beta-1 adrenergic receptor
+
+>  <UniProt ID>  (1) 
+P08588
+
+>  <PDB ID.1>  (1) 
+3D4S
+
+>  <Seq. Identity>  (1) 
+67%
+
+$$$$

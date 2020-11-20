@@ -1,0 +1,103 @@
+PDB_DB00668_08
+     RDKit          3D
+
+ 32 32  0  0  0  0  0  0  0  0999 V2000
+   -0.3456    0.0265    0.5721 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.9909    1.2630    0.0325 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2902    0.9708   -0.6792 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9622   -0.3054   -0.2521 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0493   -1.4918   -0.2362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6253   -1.0595   -0.4787 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2027    1.9831   -0.3726 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6920   -0.1772    0.9278 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4420   -1.1659    1.4204 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3629   -0.0508   -0.8179 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3414    0.0884    0.1637 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9947    0.1991   -0.3446 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1024    0.1089    0.8796 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -0.8753   -0.2462    1.5046 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3564    1.8721   -0.6388 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2321    1.8991    0.9370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1842    0.9613   -1.7752 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7232   -0.5175   -1.0391 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0659   -1.8924    0.8113 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3643   -2.3048   -0.9163 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1083   -1.8618   -0.4689 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6514   -0.5351   -1.4814 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9011    2.8827   -0.5618 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2183    0.6617    0.8531 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7571   -1.7734    0.7257 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2737   -0.5347   -0.3414 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7000    0.9339   -1.1827 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1005   -0.7644   -1.6303 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4803   -0.5549    0.9435 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8850    1.1635   -0.8657 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8541   -0.6632   -1.0228 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3279    0.8848    1.5709 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  1  6  1  0
+  5  6  1  0
+  3  7  1  0
+  4  8  1  0
+ 10 11  1  0
+ 11 12  1  0
+  1 13  1  0
+  9 13  1  0
+ 12 13  1  0
+  1 14  1  0
+  2 15  1  0
+  2 16  1  0
+  3 17  1  0
+  4 18  1  0
+  5 19  1  0
+  5 20  1  0
+  6 21  1  0
+  6 22  1  0
+  7 23  1  0
+  8 24  1  0
+  9 25  1  0
+ 10 26  1  0
+ 10 27  1  0
+ 10 28  1  0
+ 11 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 13 32  1  1
+M  END
+>  <PDBID>  (1) 
+4LDO
+
+>  <PDB ID>  (1) 
+4LDO
+
+>  <Generic Name>  (1) 
+Epinephrine
+
+>  <Brand Name>  (1) 
+2% Lidocaine and Epinephrine 1:100,000 Injection USP#4% Astracaine Dental With Epinephrine 1:200,000 (0.005mg/ml)#4% Astracaine Dental With Epinephrine Forte 1:100,000 (0.01mg/ml)#4% Citanest Forte Dental With Epinephrine 1:200,000#Adrenaclick#Adrenaclick 0.15mg Auto-injector#Adrenaclick 0.30mg Auto-injector#Adrenalin#Adrenalin Chloride Sol 1:1000#Adrenalin Chloride Sol 1:1000 Amp#Adyphren Amp II Kit#Adyphren Amp Kit#Adyphren II Kit#Allerject#Ana-kit#Ana-kit (2mg/tab Orl, 1mg/ml Liq Sc Im)#Anakit Insect Sting Treatment Kit#Anapen#Anapen Junior#Articadent#Articaine#Articaine HCl and Epinephrine#Articaine Hydrochloride and Epinephrine#Auvi-Q#Bronkaid Mistometer Aem 0.5%#Bupivacaine HCl 0.5% and Epinephrine 1:200,000 Injection#Bupivacaine Hydrochloride and Epinephrine#Citanest Forte#Dentsply 2% Lidocaine With Epinephrine 1:100,000#Dentsply 2% Lidocaine With Epinephrine 1:50,000#Dentsply 4% Prilocaine and Epinephrine Injection 1:200,000#Dysne Inhal#E-pilo 1 Ophthalmic Solution#E-pilo 2 Ophthalmic Solution#E-pilo 4 Ophthalmic Solution#E-pilo 6 Ophthalmic Solution#E-pilo-1 Oph Soln#E-pilo-2 Oph Soln#E-pilo-4 Oph Soln#E-pilo-6 Oph Soln#Ephinephrine#Epi E-Z Pen  -  Liquid - 0.3mg/0.3ml#Epinephrine#Epinephrine 1:1000 Inj 1mg/ml USP#Epinephrine Inj 0.1mg/ml USP#Epinephrine Inj 1mg/ml USP#Epinephrine Injection#Epinephrine Injection USP#Epinephrine Injection USP 1 mg/ml#Epipen#Epipen Jr#Episnap Epinephrine Convenience Kit#Gingi Pak Cord No 1#Karticaine#Karticaine Forte#Lidocaine#Lidocaine 2% and Epinephrine 1:100 000#Lidocaine 2% and Epinephrine 1:100,000#Lidocaine 2% and Epinephrine 1:100,000 Injection#Lidocaine 2% and Epinephrine 1:50 000#Lidocaine 2% and Epinephrine 1:50,000#Lidocaine HCl#Lidocaine Hydrochloride 0.5% and Epinephrine 1:200000 Injection USP#Lidocaine Hydrochloride 1% and Epinephrine 1:100 000 Injection USP#Lidocaine Hydrochloride 1.5% and Epinephrine 1:200000 Injection USP#Lidocaine Hydrochloride 1.5% and Epinephrine 1:200000 Injection USP Test Dose#Lidocaine Hydrochloride 2% and Epinephrine 1:100 000 Injection USP#Lidocaine Hydrochloride 2% and Epinephrine 1:200000 Injection USP#Lidocaine Hydrochloride and Epinephrine#Lidocaine Hydrochloride and Epinephrine Bitartrate#Lidocaine and Epinephrine Inj.usp 2% 1:100000#Lignospan Forte#Lignospan Speciale Inj#Lignospan Standard#Marcaine#Marcaine 0.5% and Epinephrine 1:200,000 Liq#Marcaine E 0.25% Liq Prt#Marcaine E 2.5 mg/ml#Marcaine E 5.0 mg/ml#Marcaine E Liq Prt 0.50%#Marcaine With Epinephrine#Numbing Hemorrhoidal Label#Numquick Analgesic#Numquick Topical Analgesic#Octocaine 100#Octocaine 100 Needleject Inj#Octocaine 50#Octocaine HCl 2% Epinephrine 1:100000#Octocaine HCl 2% Epinephrine 1:50000#Orabloc#Orabloc 1:100,000#Orabloc 1:200,000#Posicaine N#Posicaine Sp#Prilocaine HCl 4% Epineph 1:200000inj#Prilocaine Hydrochloride With Epinephrine#Prime Asthma Relief#Scandonest 2% Special Inj#Sensorcaine#Sensorcaine 0.25% With Epinephrine#Sensorcaine 0.5% With Epinephrine#Sensorcaine Forte#Sensorcaine Mpf#Septanest N#Septanest Sp#Septocaine and Epinephrine#Taro-epinephrine Auto-injector#Twinject 0.15mg Auto-injector#Twinject 0.3mg Auto-injector#Ultracaine D-S Forte Injection#Ultracaine D-S Injection#Ultracaine DS Forte Inj#Ultracaine DS Inj#Vivacaine#Xylocaine#Xylocaine 0.5% W Epinephrine 1:100000#Xylocaine 0.5% W Epinephrine 1:200000#Xylocaine 1% W Epinephrine 1:100000#Xylocaine 1% W Epinephrine 1:200000#Xylocaine 1.5% W Epinephrine 1:200000#Xylocaine 1.5% W Epinephrine 1:200000 Test Dose#Xylocaine 2% W Epinephrine 1:100000#Xylocaine 2% W Epinephrine 1:200000#Xylocaine Dental Lidocaine HCl 2% and Epinephrine 1:100,000#Xylocaine Dental Lidocaine Hydrochloride 2% and Epinephrine 1:50,000#Xylocaine Mpf#Xylocaine Mpf 1.5% With Epinephrine#Zorcaine#Epi EZ Pen JR#Medihaler-Epi#Twinject
+
+>  <DrugBank ID>  (1) 
+DB00668
+
+>  <ATC Codes>  (1) 
+R03AK01#R01AA14#S01EA51#C01CA24#R03AA01#S01EA01#A01AD01#B02BC09
+
+>  <Ligand ID>  (1) 
+ALE
+
+>  <Target Name>  (1) 
+Beta-1 adrenergic receptor
+
+>  <UniProt ID>  (1) 
+P08588
+
+>  <PDB ID.1>  (1) 
+4LDO
+
+>  <Seq. Identity>  (1) 
+54%
+
+$$$$

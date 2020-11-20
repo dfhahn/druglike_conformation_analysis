@@ -1,0 +1,169 @@
+PDB_DB00184_02
+     RDKit          3D
+
+ 64 66  0  0  0  0  0  0  0  0999 V2000
+    2.4514   -1.1399   -0.6454 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0702   -0.8411   -0.9609 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5349    0.3222   -0.2483 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4630    0.5866    0.9518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7661    1.0877    0.3501 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2869    0.0237   -0.5636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7392    0.1287   -0.9594 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8671    0.2962    0.2117 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3105   -0.6917    1.1767 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2757   -1.6063    0.4187 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9108   -0.5558   -0.5054 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0262    1.4093   -1.5716 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4514   -1.1399   -0.6454 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0702   -0.8411   -0.9609 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5349    0.3222   -0.2483 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4630    0.5866    0.9518 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7661    1.0877    0.3501 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2869    0.0237   -0.5636 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7392    0.1287   -0.9594 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8671    0.2962    0.2117 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -1.3105   -0.6917    1.1767 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2757   -1.6063    0.4187 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9108   -0.5558   -0.5054 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0262    1.4093   -1.5716 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5538   -1.7912    0.1510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5347   -1.7988   -0.8114 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0467   -0.6699   -2.0771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6720    1.2150   -0.8990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0001    1.2970    1.6349 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6886   -0.3984    1.4122 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4719    1.9586   -0.3046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4737    1.4485    1.0927 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2667   -0.3149   -0.1514 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5125    0.4137   -1.5796 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1247    1.3204    0.5848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9496   -0.2374    1.9921 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5836   -1.3216    1.6772 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7326   -2.3142   -0.2056 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0221   -2.0521    1.0829 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3925   -1.0303   -1.3689 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5775    0.1224    0.0675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0851    1.9946   -1.6073 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4406    1.2025   -2.5799 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7554    1.9363   -0.9254 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5538   -1.7912    0.1510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5347   -1.7988   -0.8114 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0467   -0.6699   -2.0771 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6720    1.2150   -0.8990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0001    1.2970    1.6349 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6886   -0.3984    1.4122 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4719    1.9586   -0.3046 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4737    1.4485    1.0927 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2667   -0.3149   -0.1514 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5125    0.4137   -1.5796 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1247    1.3204    0.5848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9496   -0.2374    1.9921 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.5836   -1.3216    1.6772 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7326   -2.3142   -0.2056 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0221   -2.0521    1.0829 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3925   -1.0303   -1.3689 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.5775    0.1224    0.0675 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0851    1.9946   -1.6073 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4406    1.2025   -2.5799 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7554    1.9363   -0.9254 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  1  6  1  0
+  5  6  1  0
+  3  8  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  7 11  1  0
+ 10 11  1  0
+  7 12  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 13 18  1  0
+ 17 18  1  0
+ 15 20  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 19 23  1  0
+ 22 23  1  0
+ 19 24  1  0
+  1 25  1  0
+  2 26  1  0
+  2 27  1  0
+  3 28  1  0
+  4 29  1  0
+  4 30  1  0
+  5 31  1  0
+  5 32  1  0
+  6 33  1  0
+  6 34  1  0
+  8 35  1  1
+  9 36  1  0
+  9 37  1  0
+ 10 38  1  0
+ 10 39  1  0
+ 11 40  1  0
+ 11 41  1  0
+ 12 42  1  0
+ 12 43  1  0
+ 12 44  1  0
+ 13 45  1  0
+ 14 46  1  0
+ 14 47  1  0
+ 15 48  1  0
+ 16 49  1  0
+ 16 50  1  0
+ 17 51  1  0
+ 17 52  1  0
+ 18 53  1  0
+ 18 54  1  0
+ 20 55  1  1
+ 21 56  1  0
+ 21 57  1  0
+ 22 58  1  0
+ 22 59  1  0
+ 23 60  1  0
+ 23 61  1  0
+ 24 62  1  0
+ 24 63  1  0
+ 24 64  1  0
+M  END
+>  <PDBID>  (1) 
+5KXI
+
+>  <PDB ID>  (1) 
+5KXI
+
+>  <Generic Name>  (1) 
+Nicotine
+
+>  <Brand Name>  (1) 
+American Fare Nicotine Transdermal System#Berkley and Jensen Nicotine#Berkley and Jensen Nicotine Polacrilex#Care One Nicotine#Careone Mini Nicotine Polacrilex#Careone Nicotine#Careone Nicotine Polacrilex#Careone Nicotine Transdermal System Step 1#Careone Nicotine Transdermal System Step 2#Careone Nicotine Transdermal System Step 3#Equaline Nicotine#Equate Nicotine#Exchange Select Nicotine Transdermal System Step 3#Good Neighbor Pharmacy Nicotine#Good Neighbor Pharmacy Nicotine Mini#Good Sense Nicotine#Good Sense Nicotine Mint#Good Sense Nicotine Stop Smoking Aid#Habitrol Patch Nicotine Transdermal System, Step 1#Habitrol Patch Nicotine Transdermal System, Step 2#Habitrol Patch Nicotine Transdermal System, Step 3#Harris Teeter Nicotine#Health Mart Nicotine#Health Mart Nicotine Polacrilex#Healthmart Nicotine Transdermal System Step 1#Healthmart Nicotine Transdermal System Step 2#Healthmart Nicotine Transdermal System Step 3#Healthy Accents Nicotine#Humana Pharmacy Nicotine#In Control Nicotine#Kirkland Signature Quit 2#Kirkland Signature Quit 4#Kroger Nicotine Transdermal System Step 1#Kroger Nicotine Transdermal System Step 2#Kroger Nicotine Transdermal System Step 3#Leader Nicotine#Leader Nicotine Transdermal System Step 1#Leader Nicotine Transdermal System Step 2#Leader Nicotine Transdermal System Step 3#Meijer Nicotine Transdermal System Step 1#Meijer Nicotine Transdermal System Step 2#Meijer Nicotine Transdermal System Step 3#Members Mark Mini Nicotine#Members Mark Nicotine#Mini Nicotine#Nicoderm Cq#Nicoderm Trd 114mg Nicotine/21#Nicoderm Trd 36mg Nicotine/7 Sqcm Patch#Nicoderm Trd 78mg Nicotine/14#Nicorelief#Nicorette#Nicorette Cinnamon Surge#Nicorette Fresh Mint#Nicorette Fruit Chill#Nicorette Gum 2mg#Nicorette Invisipatch#Nicorette Mint#Nicorette Original#Nicorette Plus 4mg#Nicorette Spearmint Burst#Nicorette White Ice Mint#Nicotine#Nicotine Coated Mint#Nicotine Gum#Nicotine Mini#Nicotine Mint Flavor#Nicotine Original#Nicotine Polacrilex#Nicotine Polacrilex Stop Smoking Aid#Nicotine Polacrilex, Coated Fruit Flavor#Nicotine Polacrilex, Coated Mint Flavor#Nicotine Polacrilex, Original#Nicotine Stop Smoking Aid#Nicotine Transdermal System#Nicotine Transdermal System Patch Kit#Nicotine Transdermal System Step 1#Nicotine Transdermal System Step 2#Nicotine Transdermal System Step 3#Nicotine Un1654#Nicotrol#Nicotrol (professional Sample)#Nictoine Gum#Preferred Plus Nicotine#Preferred Plus Nicotine Polacrilex Gum, Original Flavor#Rexall Nicotine#Rite Aid Nicotine Transdermal System Step 1#Rite Aid Nicotine Transdermal System Step 2#Rite Aid Nicotine Transdermal System Step 3#Rugby Nicotine#Rugby Nicotine Polacrilex Gum, Coated Cinnamon Flavor#Rugby Nicotine Polacrilex Gum, Coated Fruit Flavor#Rugby Nicotine Polacrilex Gum, Coated Mint Flavor#Rugby Nicotine Polacrilex Gum, Mint Flavor#Rugby Nicotine Polacrilex Gum, Original Flavor#Safeway Nicotine Transdermal System Step 1#Safeway Nicotine Transdermal System Step 2#Safeway Nicotine Transdermal System Step 3#Signature Care Nicotine#Simply Right Nicotine#Smart Sense Nicotine#Smart Sense Nicotine Mint#Smart Sense Nicotine Polacrilex#Stop Smoking Aid#Stop Smoking Aid Nicotine#Sunmark Nicotine#Sunmark Nicotine Transdermal System Step 1#Sunmark Nicotine Transdermal System Step 2#Sunmark Nicotine Transdermal System Step 3#Topcare Nicotine#Topcare Nicotine Gum#Topcare Nicotine Polacrilex#Topcare Nicotine Stop Smoking Aid#Tru Relief Nicotine#Up and Up Nicotine#Up and Up Nicotine Polacrilex#Zonnic#Zonnic Nicotine#Zonnic Nicotine Mini#Zonnic Nicotine Polacrilex#Habitrol#Nicoderm
+
+>  <DrugBank ID>  (1) 
+DB00184
+
+>  <ATC Codes>  (1) 
+N07BA01
+
+>  <Ligand ID>  (1) 
+NCT
+
+>  <Target Name>  (1) 
+Neuronal acetylcholine receptor subunit alpha-4
+
+>  <UniProt ID>  (1) 
+P43681
+
+>  <PDB ID.1>  (1) 
+5KXI
+
+>  <Seq. Identity>  (1) 
+54%
+
+$$$$

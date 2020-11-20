@@ -1,0 +1,213 @@
+PDB_DB00788_06
+     RDKit          3D
+
+ 86 88  0  0  0  0  0  0  0  0999 V2000
+    3.2943    0.3072    0.0780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4514   -0.4453   -0.0260 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7037    0.2072    1.4442 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0841    0.2988    0.2836 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3005    0.7208    1.5603 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6399    0.9462    0.2263 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9571   -0.2884   -0.5981 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3825   -0.1346   -1.0387 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8204    1.1444    0.4153 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6582   -0.0401   -0.0203 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2416    0.5460    1.7709 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0481   -0.4157   -1.7864 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3979   -0.3439   -1.4526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5732    0.3080   -0.3299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1037   -0.8765   -1.5520 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3621   -0.1646    0.1492 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0983   -0.6888   -0.1967 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2943    0.3072    0.0780 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4514   -0.4453   -0.0260 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7037    0.2072    1.4442 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0841    0.2988    0.2836 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.3005    0.7208    1.5603 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6399    0.9462    0.2263 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9571   -0.2884   -0.5981 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3825   -0.1346   -1.0387 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8204    1.1444    0.4153 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6582   -0.0401   -0.0203 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2416    0.5460    1.7709 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0481   -0.4157   -1.7864 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3979   -0.3439   -1.4526 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5732    0.3080   -0.3299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1037   -0.8765   -1.5520 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3621   -0.1646    0.1492 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0983   -0.6888   -0.1967 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5687    1.3650   -0.1161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8036   -0.8486    1.7853 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277    0.8197    2.1286 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3516    1.2831   -0.2065 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2057    1.6029    2.2348 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6988   -0.0878    2.0715 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1454    1.8138   -0.2576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8886   -1.1828    0.0512 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6961   -1.1189   -1.4737 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3925    0.5783   -1.8890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1681    2.0204   -0.1768 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0728    1.3944    1.4875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3234   -0.8868    0.6457 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3228    0.3837    2.0216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6056   -0.1365    2.3721 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0351    1.6125    1.9910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2720   -1.3842   -2.2718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3418    0.3608   -2.5525 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8565    0.4751   -2.0677 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8649   -1.3346   -1.7378 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4821    0.8468   -1.2932 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4179   -0.4027   -0.4490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8473    0.9857    0.5049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7335   -0.3221   -2.0494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3072    0.8066   -0.0461 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0313   -1.6508    0.3657 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5687    1.3650   -0.1161 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8036   -0.8486    1.7853 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3277    0.8197    2.1286 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.3516    1.2831   -0.2065 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2057    1.6029    2.2348 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6988   -0.0878    2.0715 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1454    1.8138   -0.2576 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.8886   -1.1828    0.0512 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6961   -1.1189   -1.4737 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3925    0.5783   -1.8890 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.1681    2.0204   -0.1768 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0728    1.3944    1.4875 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.3234   -0.8868    0.6457 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3228    0.3837    2.0216 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6056   -0.1365    2.3721 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0351    1.6125    1.9910 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2720   -1.3842   -2.2718 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3418    0.3608   -2.5525 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8565    0.4751   -2.0677 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8649   -1.3346   -1.7378 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4821    0.8468   -1.2932 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4179   -0.4027   -0.4490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8473    0.9857    0.5049 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7335   -0.3221   -2.0494 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3072    0.8066   -0.0461 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0313   -1.6508    0.3657 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  1  3  1  0
+  3  5  1  0
+  5  6  1  0
+  6  7  1  0
+  1  8  1  0
+  7  8  1  0
+  6  9  1  0
+  4 10  1  0
+  9 10  1  0
+  4 11  1  0
+  7 12  1  0
+ 10 13  1  0
+ 12 13  1  0
+  2 14  1  0
+  4 17  1  0
+ 15 17  1  0
+ 16 17  1  0
+ 18 19  1  0
+ 18 20  1  0
+ 20 22  1  0
+ 22 23  1  0
+ 23 24  1  0
+ 18 25  1  0
+ 24 25  1  0
+ 23 26  1  0
+ 21 27  1  0
+ 26 27  1  0
+ 21 28  1  0
+ 24 29  1  0
+ 27 30  1  0
+ 29 30  1  0
+ 19 31  1  0
+ 21 34  1  0
+ 32 34  1  0
+ 33 34  1  0
+  1 35  1  0
+  3 36  1  0
+  3 37  1  0
+  4 38  1  6
+  5 39  1  0
+  5 40  1  0
+  6 41  1  0
+  7 42  1  0
+  8 43  1  0
+  8 44  1  0
+  9 45  1  0
+  9 46  1  0
+ 10 47  1  0
+ 11 48  1  0
+ 11 49  1  0
+ 11 50  1  0
+ 12 51  1  0
+ 12 52  1  0
+ 13 53  1  0
+ 13 54  1  0
+ 14 55  1  0
+ 14 56  1  0
+ 14 57  1  0
+ 15 58  1  0
+ 16 59  1  0
+ 17 60  1  0
+ 18 61  1  0
+ 20 62  1  0
+ 20 63  1  0
+ 21 64  1  6
+ 22 65  1  0
+ 22 66  1  0
+ 23 67  1  0
+ 24 68  1  0
+ 25 69  1  0
+ 25 70  1  0
+ 26 71  1  0
+ 26 72  1  0
+ 27 73  1  0
+ 28 74  1  0
+ 28 75  1  0
+ 28 76  1  0
+ 29 77  1  0
+ 29 78  1  0
+ 30 79  1  0
+ 30 80  1  0
+ 31 81  1  0
+ 31 82  1  0
+ 31 83  1  0
+ 32 84  1  0
+ 33 85  1  0
+ 34 86  1  0
+M  END
+>  <PDBID>  (1) 
+3NT1
+
+>  <PDB ID>  (1) 
+3NT1
+
+>  <Generic Name>  (1) 
+Naproxen
+
+>  <Brand Name>  (1) 
+7 Select Naproxen Sodium#Aleve#Aleve Back and Body Pain#Aleve Caplets#Aleve Caplets - Easy Open Arthritis Cap#Aleve Easy Open Arthritis Cap#Aleve Gelcaps#Aleve Liquid Gels#Aleve Nighttime#Aleve PM#All Day Pain Relief#All Day Pain Relief Naproxen Sodium#All Day Relief#All Day Sinus and Cold D#Anaprox#Anaprox DS#Anaprox DS Tab 550mg#Apo Naproxen Tab 125mg#Apo Naproxen Tab 250mg#Apo Naproxen Tab 375mg#Apo Naproxen Tab 500mg#Apo-napro-NA DS Tab 550mg#Apo-napro-NA Tab 275mg#Apo-naproxen EC Tablets#Apo-naproxen SR Tablets 750mg#Ava-naproxen EC#Bayer Aleve#Being Well All Day Pain Relief#Berkley and Jensen Naproxen Sodium#Calmadol Pain Reliever#Care One All Day Pain Relief#Care One Naproxen Sodium#Careall Naproxen#Careone Naproxen Sodium#Comfort Pac With Naproxen#Dg Health All Day Pain Relief#Dg Health Naproxen Sodium#EC-naprosyn#EC-naproxen#Equaline All Day Pain Relief#Equaline Naproxen Sodium#Equate Naproxen Sodium#Equipto - Naproxen External Cream Compounding Kit#Exchange Select Naproxen Sodium#Family Wellness Naproxen Sodium#Flanax Naproxen#Flanax Pain Reliever#Flanax Pain and Fever Reliever#Formucare Naproxen Sodium Pain Reliever Fever Reducer#Fulton Street Market Naproxen Sodium#Good Neighbor Pharmacy Naproxen Sodium#Good Neighbor Pharmacy Pain Relief All Day#Good Neighbor Pharmacy Sinus and Cold D#Good Sense All Day Pain Relief#Good Sense Naproxen Sodium#Health Mart Naproxen Sodium#Health Mart Sinus and Cold D#Healthy Accents All Day Pain Relief#Healthy Accents Naproxen Sodium#Humana Pharmacy All Day Pain Relief#Kirkland Signature Naproxen Sodium#Leader All Day#Leader All Day Pain Relief#Leader Naproxen Sodium#Leader Sinus and Cold-D#Lil Drug Store Pain Relief All Day#Maxidol Liquid Gels#Medique Mediproxen#Members Mark Naproxen Sodium#Menstridol#Midol Extended Relief#Modern Pain Medicine#Motrimax 12 Hour#Motrimax 12 Hour Tablets#Mylan-naproxen EC#Mylan-naproxen/esomeprazole Mr#Naprelan#Naprosyn#Naprosyn 250mg#Naprosyn 250mg Tablets#Naprosyn 375mg#Naprosyn 375mg Tablets#Naprosyn 500 Mg Suppositories#Naprosyn 500 Mg Tablets#Naprosyn E 250mg Tablets - Ect#Naprosyn E Tab 250mg#Naprosyn E Tab 375mg#Naprosyn E Tab 500mg#Naprosyn Sup 500mg#Naprosyn Sus 25mg/ml#Naprosyn-SR Tab 750mg#Naproxen#Naproxen 125 Tab 125mg#Naproxen 250 Tab 250mg#Naproxen 500 Tab 500mg#Naproxen All Day Relief for Pain#Naproxen Caplets All Day Relief for Pain#Naproxen Capsules 200 mg#Naproxen Delayed Release#Naproxen EC#Naproxen Kit#Naproxen Liquid Gel Capsules#Naproxen Liquid Gels#Naproxen Menstrual Pain Relief#Naproxen Pain Relief#Naproxen Sodium#Naproxen Sodium (nsaid) Fever Reducer/ Pain Reliever#Naproxen Sodium All Day Pain Relief#Naproxen Sodium Caplets#Naproxen Sodium DS#Naproxen Sodium Tablets#Naproxen Tablets#Naproxen-375 Tab 375mg#Naproxen-NA Df -tab 550mg#Naproxen-NA Tab 275mg#Novo-naprox Tab 125mg#Ntp-naproxen#Ntp-naproxen EC#Ntp-naproxen Sodium#Ntp-naproxen Sodium DS#Nu-napro-NA#Nu-napro-NA DS#Nu-naprox EC#Nu-naprox Tab 125mg#Nu-naprox Tab 250mg#Nu-naprox Tab 375mg#Nu-naprox Tab 500mg#Nx 12 Hour#PMS-naproxen#PMS-naproxen EC#Pain Relief#Pain Relief All Day#Pain Zero#Pediapharm Naproxen Suspension#Preferred Plus Sinus and Cold D#Pro-naproxen EC - 375#Pro-naproxen EC - 500#Ratio-naproxen#Ratio-naproxen E#Rexall All Day Pain Relief#Rhodiaprox - 500mg/sup#Riva-naproxen#Riva-naproxen Sodium#Riva-naproxen Sodium DS#Rugby All Day Relief#Rx Act All Day Pain Relief#Rx Act Naproxen Sodium#Sab-naproxen#Sallus Pain Relief Collection With Naproxen#Shoprite Naproxen Sodium#Signature Care Pain Relief#Simply Right Naproxen Sodium#Sinus and Cold D#Smart Sense Naproxen Sodium#Sudafed 12 Hour Pressure and Pain#Sunmark All Day Relief#Sunmark Naproxen Sodium#Sunmark Sinus and Cold D#Synflex DS Tab 550mg#Synflex Tab 275mg#Teva-naproxen#Teva-naproxen EC#Teva-naproxen SR#Teva-naproxen Sodium#Teva-naproxen Sodium DS#Theraproxen#Theraproxen-500#Theraproxen-90#Topcare All Day Pain Relief#Topcare Naproxen Sodium#Topcare Sinus and Cold D#Treximet#Up and Up Naproxen Sodium#Up and Up Sinus and Cold D#Vimovo#Alidase#Alpoxen#Alpron#Apain#Apranax#Apronax#Bonyl#Bruproxen#Bumaflex N#Congex#Debril#Deproxen#Dysmenalgit#Emox#Emoxen#Eurogesic#Fabralgina#Feminax Ultra#Flogotone#Gerinap#Honlow#Improstan#Inflamax#Inza#Iraxen#Jinkangpuli#Lexinax#Melgar#Messelxen#Mobilat#Naprometin#Naprosyn CR#Naprosyn EC#Naprosyn Entero#Naprosyn SR#Naprosyne#Naproval#Naprux#Neuralprona#Noflam#Nopain#Prexan#Priaxen#Princeps#Pronaxen#Proxen#Proxen S#Proxen SR#Releve#Repro#Reuxen#Riproxen#Sanaprox#Seladin#Servinaprox#Tarproxen#Ticoflex#Tundra#Xenar#Xenar-CR
+
+>  <DrugBank ID>  (1) 
+DB00788
+
+>  <ATC Codes>  (1) 
+M01AE52#M01AE02#M01AE56#M02AA12#G02CC02
+
+>  <Ligand ID>  (1) 
+NPS
+
+>  <Target Name>  (1) 
+Prostaglandin G/H synthase 1
+
+>  <UniProt ID>  (1) 
+P23219
+
+>  <PDB ID.1>  (1) 
+3NT1
+
+>  <Seq. Identity>  (1) 
+62%
+
+$$$$

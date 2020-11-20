@@ -1,0 +1,23 @@
+name: druglike_conf
+channels:
+  - conda-forge
+  - omnia
+dependencies:
+    # Base depends
+  - python
+  - pip
+
+    # Testing
+  - pytest
+  - pytest-cov
+  - codecov
+
+  - numpy
+  - pandas
+  - rdkit
+  - tqdm
+  - openforcefield
+  - openmm
+
+  - pip:
+    - timeout-decorator

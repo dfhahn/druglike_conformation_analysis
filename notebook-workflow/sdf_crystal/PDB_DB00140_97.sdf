@@ -1,0 +1,287 @@
+PDB_DB00140_97
+     RDKit          3D
+
+122126  0  0  0  0  0  0  0  0999 V2000
+   -7.1120   -7.1700   -8.4560 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8980   -6.8540   -9.7470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9410   -6.6550  -10.5680 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6040   -6.7380  -10.2320 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5280   -6.9510   -9.3840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2770   -6.8400   -9.8480 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7600   -7.2830   -8.0430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7470   -7.4990   -7.1870 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9530   -7.8150   -5.8940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8590   -8.0320   -5.0470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0680   -8.3610   -3.7020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8880   -8.5980   -2.7910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3730   -8.4710   -3.2020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5960   -8.8310   -1.7520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4710   -8.2560   -4.0470 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2650   -7.9280   -5.3970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3390   -7.7090   -6.2640 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0920   -7.3840   -7.6000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7280   -7.8140   -5.7780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9790   -9.2090   -5.2020 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -6.8820  -10.0670   -5.5290 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2690   -9.7800   -5.7880 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -9.3020   -9.5380   -7.1970 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4690   -9.1050   -5.1260 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -10.4310   -9.3440   -3.7160 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7610   -9.6780   -5.7050 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.7980  -11.0900   -5.4830 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4430   -6.4930  -11.2000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8530   -7.9470   -5.4310 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1920   -8.4530   -1.7570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0930   -7.8970   -3.0370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5260   -9.6160   -2.9230 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2840   -8.0030   -1.1200 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.0120   -9.7160   -1.5040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6520   -9.0360   -1.5870 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4710   -8.3400   -3.6570 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.4140   -7.6360   -6.6030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8960   -7.0690   -5.0030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.0780   -9.1390   -4.1170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1130  -10.9890   -5.3350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3080  -10.8520   -5.6030 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7520  -10.1900   -7.6580 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4310   -8.0340   -5.3130 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1080   -8.5550   -3.2540 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.6140   -9.2120   -5.2160 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.8010   -9.4770   -6.7730 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -12.7130  -11.4100   -5.5360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7580   14.9070    2.2490 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8950   15.4590    1.7840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8670   16.2110    0.6740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.0930   15.2550    2.4520 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.1190   14.4830    3.6030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.2730   14.2840    4.2520 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9310   13.9160    4.0820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.9090   13.1620    5.1950 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7770   12.6070    5.6650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8130   11.8320    6.8320 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6370   11.2530    7.3250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6770   10.4210    8.5840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4230   11.4460    6.6510 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1560   10.8250    7.1880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3830   12.2220    5.4830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5590   12.8060    4.9870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5510   13.5860    3.8270 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.7420   14.1490    3.3650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2950   13.8130    3.0870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2600   14.4740    4.0000 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.8890   14.8970    5.2120 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6470   15.6810    3.2910 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -3.6830   16.4430    2.6660 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.6580   15.1990    2.2320 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -0.6250   14.4330    2.8580 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0390   16.4040    1.5250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3790   17.2330    2.4850 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9480   15.6640    2.1000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7470   11.6820    7.3520 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8180    9.7530    8.6060 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5930    9.8330    8.6020 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6490   11.0750    9.4530 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2020    9.7450    7.0670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0530   11.0670    8.2440 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3000   11.2150    6.6420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4480   12.3650    4.9680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.4890   14.4620    2.2350 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9070   12.8610    2.7320 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.4720   13.7580    4.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2920   15.4760    5.7110 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1270   16.3020    4.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1280   16.9990    3.3240 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.1780   14.5800    1.5040 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7820   13.4860    2.7160 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3180   16.0600    0.7860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.8210   16.9750    1.0290 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2760   17.7960    2.0420 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.6677   -6.3997   -8.0576 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8962   -7.9225  -10.0083 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.7583   -6.4991  -10.0315 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5312   -8.0188   -9.6481 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6465   -6.7841   -9.0868 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7637   -8.3506   -8.3080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1933   -8.2703   -7.5863 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.9617   -8.8832   -6.1564 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.8504   -6.9638   -4.7844 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0794   -9.4290   -3.9650 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3853   -9.5381   -3.4688 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4626   -7.1874   -3.7861 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2717   -8.9966   -5.6577 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0976   -8.4527   -7.8605 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.3931   14.3133    1.4905 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7102   16.3546    2.3954 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8314   17.1681    0.9246 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9327   15.3814    4.2098 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1116   14.3118    5.2284 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.7459   14.8154    4.6876 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2725   13.7578    5.9525 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5864   13.5068    6.2684 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.0031   10.9322    6.2286 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.4456   12.1539    7.9264 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2341   12.3492    7.2498 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5748   11.3229    4.8791 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3685   13.7041    5.5928 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.5519   15.0465    3.9719 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  5  6  1  0
+  5  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  1  0
+ 13 14  1  0
+ 13 15  1  0
+  9 16  1  0
+ 15 16  1  0
+ 16 17  1  0
+  1 18  1  0
+  7 18  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 20 22  1  0
+ 22 23  1  0
+ 22 24  1  0
+ 24 25  1  0
+ 24 26  1  0
+ 26 27  1  0
+  4 28  1  0
+ 10 29  1  0
+ 12 30  1  0
+ 12 31  1  0
+ 12 32  1  0
+ 14 33  1  0
+ 14 34  1  0
+ 14 35  1  0
+ 15 36  1  0
+ 19 37  1  0
+ 19 38  1  0
+ 20 39  1  1
+ 21 40  1  0
+ 22 41  1  6
+ 23 42  1  0
+ 24 43  1  1
+ 25 44  1  0
+ 26 45  1  0
+ 26 46  1  0
+ 27 47  1  0
+ 48 49  1  0
+ 49 50  1  0
+ 49 51  1  0
+ 51 52  1  0
+ 52 53  1  0
+ 52 54  1  0
+ 54 55  1  0
+ 55 56  1  0
+ 56 57  1  0
+ 57 58  1  0
+ 58 59  1  0
+ 58 60  1  0
+ 60 61  1  0
+ 60 62  1  0
+ 56 63  1  0
+ 62 63  1  0
+ 63 64  1  0
+ 48 65  1  0
+ 54 65  1  0
+ 64 65  1  0
+ 64 66  1  0
+ 66 67  1  0
+ 67 68  1  0
+ 67 69  1  0
+ 69 70  1  0
+ 69 71  1  0
+ 71 72  1  0
+ 71 73  1  0
+ 73 74  1  0
+ 51 75  1  0
+ 57 76  1  0
+ 59 77  1  0
+ 59 78  1  0
+ 59 79  1  0
+ 61 80  1  0
+ 61 81  1  0
+ 61 82  1  0
+ 62 83  1  0
+ 66 84  1  0
+ 66 85  1  0
+ 67 86  1  1
+ 68 87  1  0
+ 69 88  1  1
+ 70 89  1  0
+ 71 90  1  6
+ 72 91  1  0
+ 73 92  1  0
+ 73 93  1  0
+ 74 94  1  0
+  1 95  1  0
+  2 96  1  0
+  3 97  1  0
+  5 98  1  0
+  6 99  1  0
+  7100  1  0
+  8101  1  0
+  9102  1  0
+ 10103  1  0
+ 11104  1  0
+ 13105  1  0
+ 15106  1  0
+ 16107  1  0
+ 18108  1  0
+ 48109  1  0
+ 49110  1  0
+ 50111  1  0
+ 52112  1  0
+ 53113  1  0
+ 54114  1  0
+ 55115  1  0
+ 56116  1  0
+ 57117  1  0
+ 58118  1  0
+ 60119  1  0
+ 62120  1  0
+ 63121  1  0
+ 65122  1  0
+M  END
+>  <PDBID>  (1) 
+1HZE
+
+>  <PDB ID>  (1) 
+1HZE
+
+>  <Generic Name>  (1) 
+Riboflavin
+
+>  <Brand Name>  (1) 
+Active Fe#Alertonic#Allbee With C 550 Cap#Allbee With Vitamin C Cap#Alsimine W Vitamins A D#Am Caps#Antlerviron#Appedrine#B 50 Capsules#B 6 Plus#B C Antistress Cap#B Complex 25mg Vitamin Supplement#B Complex 50 Vitamin Cap#B Complex 50+ Caplet#B Complex 500 Tab#B Complex Plus C 300mg Tab#B Complex Tablets#B Complex W C Forte Cap#B Complex W C and B12 Inj#B Complex W Vit C W Non-med Yeast&liver Tab#B Complex W Vitamin C Fortis Cap#B Complex With C 300mg#B Complex With C 300mg Tab#B Complex With C 550mg#B Compound 50mg Tab#B Plus C 300 mg#B Plus C 300mg Timed Release#B Stress C + Iron & Vite#B Totum 500#B Virol#B Vitamin Compound With B12 Thunas#B With C 500 Cap#B-100 Caps#B-100 Complex Tablets#B-100 Hi Potency B Vitamins Tab#B-100 Vitamin Supplement#B-2 100mg With C 20mg#B-2 Caps 100mg#B-50 Complex#B-50 Complex Tab#B-50 Hi Potency B Vitamins Tab#B-combo#B-complex#B-complex 100#B-complex 50#B-complex Tab#B-complex Tablets#B-complex With Vitamin C, Biotin, Folic Acid#B-complex-50 Tab#B-plex#B-plex 100#B-plus - Tab#B2 Tab 100mg#B50 B Complex Tab#B50 Complex#B6 Plus Tab#Bacmin#Balanced B 125 Srt#Balanced B-100 B-complex Vitamins Tab#Balanced B-100 Timed Release#Balanced B-50 B-complex Vitamins Tab#Balanced B-50 B-complex Vitamins, Timed Rele#Balanced B-50 Complex#Balanced B-complex Vit + Vit C&e Tab#Balanced B100#Balanced B50 Complex#Beautel Supplement De Vitamines Et Mineral#Beminal W C Fortis Inj#Beminal With C Fortis Cap#Beminal With C Fortis Pws#Bev 29 Tab#Bev B-150#Bio-fen#Biovim Tab#Biovita#Bugs Bunny Chew Multi Vit Plus Iron#Bugs Bunny and Friends Multiple Vitamins#C-B Complex#C-nate DHA#C.A.G. Tab#C.R.T. X Multivitamin & Mineral Powder Mix#Carbassist Tablets#Cc II#Cda-21 Vitamins With Non-medicinal Probiotic Complex#Cedevita Plus Vitamin Supplement#Cedevita Sugar-free Vitamin Supplement#Chela Potassium Plus#Chela-chromium 200#Chew.multiple Vits.with Extra C for Children#Chewable Multiple Vit Plus Iron for Children#Chewable Multiple Vitamins Plus Extra C#Chewable Multiple Vitamins Plus Iron Tab#Chewable Multiple Vitamins Tab#Chewable Multiple Vitamins for Children#Chewable Multivitamins#Chewable Multivitamins Plus Iron#Children Choice Multivit Chewable Tab#Children Choice Multivitamin W Iron Chew Tab#Children's Chewable Multi Vit W Iron#Children's Chewable Multi Vitamins#Children's Chewable Multi Vitamins With Iron Tablets#Children's Chewable Multi-vitamin#Children's Chewable Multi-vitamin Complete With Minerals#Children's Chewable Multiple Vit.plus Iron#Children's Chewable Multiple Vitamins (chewable Tablets)#Children's Chewable Multiple Vitamins - Tab#Children's Chewable Multiple Vitamins With Extra Vitamin C (chewable Tablets)#Children's Chewable Multiple Vitamins With Iron Tablets (chewable Tablets)#Children's Vitamins Chewable#Children's Vitamins W Iron Chewable#Childrens Chew Multi Vitamin Tab#Childrens Chewable Multiple Vitamins#Childrens Chewable Multiple Vitamins Plus Fe#Childrens Chewable Multiple Vitamins Tab#Childrens Chewable Multivitamins#Childrens Chewable Multivitamins W Iron#Childrens Chewable Vitamin Tab#Childrens Chewable Vitamins#Childrens Multiple Vit and Min Chew Tab#Citranatal DHA#Citranatal Rx#Coenzyme Q10 Isotonix Vitamin and Mineral Supplement#Complete Mega B#Complete Multivitamins and Minerals Tablets Timed Release#Complex 5 - Pwr#Complex-75#Complexe B 75mg#Complexe B Compose 75#Complexe B-75#Concept DHA#Concept Ob#Croq-vit Pour Enfants#D'pantothenic Acid-B1-B2 Tab#Daily Energy Brand B-complex#Derma-force#Dexatrim Tablets#Dia-vite#Diaplex#Dynam Ampoule Et Tablet#E & I Formulae#E.S.T. Complex#Efferlife Multivitamins and Minerals#Enviroflex - Tab#Escavite#Essential B Tablets#Everyday Multiple Vitamins#Everyday Multiple Vitamins With Iron#Extra P.N. Vitamin-mineral Drink Mix#Ez-flex#Feminique W Iron and Calcium Tab#Ferra Naka Plus Vitamins#Flinstones Multiple Plus Iron#Flintstones Multiple Vitamins#Flintstones Multiple Vitamins Plus Iron#Flintstones Multiple Vitamins Tab#Flintstones W Extra C Tab#Floradix Formula Liq#Floravit - Syr#Floriva#Floriva Plus#Folcaps Care One#Foltabs Prenatal#For Kids Only Chewable Multivit. Plus Iron#For Kids Only Chewable Multivitamins - Tab#Formula Adr-vitamin B2,b6 W Calpan Tab#Formula Cn#Formula D.S.#Formula Fm Vitamins & Minerals Tab#Formula Lf#Formula O#Formula O-care Vitamin and Mineral Supplement#Formula Pro-B#Fortamines 10 Capsules#Fortamines-10 Comprimes#Fortaplex Inj#Fortistress Tab#Forty Plus Vitamin Supplement#Garfield Chewable Multivits Plus Iron Tab#Gemvites Jr Tab Chewable#Geritol Liquid#Gestamine Comprimes#Gesticare DHA#Globucel - Methode#Glyco-aide Tab#Harvest Of Values All B Complex Tab#Healthy Mamabe Well Rounded Be Well Rounded#Hemarexin Amp#Hemarexin Liquid and Drinkable Ampoules#Hemarexin Tab#Hemenatal OB#Hi Potency B Complex W Chelated Minerals#Hi Potency B52 B Complex Tab#Hi Potency Balanced B-100 Complex - Tab#Hi Potency Stress B Tension With C#High Potency Vitamin B Complex + C Tab#Hill.vite#Homosistrol Capsules#Hypo Vites Tab#Iberet 500#Icaps#Icaps Time Release#Inatal Advance#Inatal Ultra#Infa Drops Multivitamins#Infant Multivitamin Drops#Infantol Drops#Insur-all Vitamin Supplement#Integra Plus#Iron 25mg With Vit B-cmplx, Vit C, Cu & Mo#Iron Polysaccharides Folic Acid DHA#Isotonix Advanced B-complex Vitamins With Potassium and Magnesium#Isotonix Calcium Plus Formula#Isotonix Vitamin B-folic Acid-mineral Supple#Itabs Plus#Kanga Sport Vitamins B & C Plus Minerals#Kanga-B Vitamin B Group + C#Kanga-V Multivitamins & Minerals#Kanga-kid Multi-vitamin & Mineral#Kenwood Liquid Supplement#Kid's Choice Children's Chewable Vitamins - Tab#Kids Stuff Tablets#Kids Stuff With Iron Tablets#Kimchi Vitamin Chewable Multivitamin#Kindervites#Leritone Junior#Lipo-B-C Tab#Liqui B Complex#Liqui B Complex Plus#Liqui Infant Vitamins#Liqui Vita#Liquid B Complex 50#Livron Plus Ampoule#Livron Plus Tab#Low Potency B Complex Tab#Lysamine Diet Supp Amp-tab#M.V.I. 12#M.V.I. Paediatric#M.V.I. Pediatric#Maltlevol 12 Liq#Maltlevol Liq#Maxi 10 Tab#Maxi 6 Liq#Mega 13 Multivitamin Formula#Megavites Tab#Meplex T 750#Methaver#Mini-B Tab#Mor-vites Tab#Multi - N.T.O.x Formula - Tab#Multi 12 Injection#Multi B#Multi Enfants Tab#Multi Nt-OX#Multi Rol#Multi Vitamin & Minerals#Multi Vitamin - Mineral#Multi Vitamin Drops With Fluoride#Multi Vitamin Drops With Fluoride With Iron#Multi Vitamin Drops With Fluoride and Iron#Multi Vitamin Plus Iron#Multi Vitamin With Fluoride#Multi Vitamin and Fluoride#Multi Vitamin, Iron and Fluoride#Multi Vitamin-mineral Formula#Multi Vitamines - Liq#Multi Vitamins & Minerals#Multi Vite Liq Adult#Multi Vite Liq Junior#Multi-11#Multi-12 Pediatric#Multi-12/k1 Pediatric#Multi-min Electro C Pow Plus B2#Multi-vit With Fluoride#Multi-vit With Fluoride and Iron#Multi-vitamin#Multi-vitamin Dietary Supplement#Multi-vitamin Drops With Fluoride and Iron#Multi-vitamin Fluoride#Multi-vitamin Fluoride Drops#Multi-vitamin Fluoride and Iron Drops#Multi-vitamin With Fluoride#Multi-vitamines Enfants Comprime#Multi-vitamins#Multi-vitamins With Minerals#Multiple Vitamin Plus Minerals Tab#Multiple Vitamin Tab#Multiple Vitamins#Multiple Vitamins Plus Iron Tab#Multiple Vitamins Plus Iron for Women#Multiple Vitamins Tab#Multiple Vitamins W Iron Tab#Multiple Vitamins W Minerals Tab#Multiple Vitamins With Iron#Multiple Vitamins With Minerals Tablets#Multiple Vitamins and Minerals Tab#Multisol#Multivit-liq#Multivitamin#Multivitamin With Fluoride#Multivitamines#Multivitamines Et Mineraux#Multivitamines Plus Fer Pour Enfants (chewable Tablets)#Multivitamines Pour Enfants (chewable Tablets)#Multivitamins#Multivitamins W Iron#Multivitamins for Children#Mvc#Mvc-fluoride#Myhephron Dialysis and Stress Supplement#Mynephrocaps Dialysis/stress Vitamin Supplement#Nata Komplete#Natafort#Natavite#Neo Bex Elixir#Neo Vites Tab#Neo-bex#Neo-bex Injectable#Neo-vites & Minerals Tab#Nephrocaps#Nutrifer Plus Tablets#Nutrilite Double X#Nutrol-B-complex#O-cal Fa Multivitamin#O-cal Prenatal Vitamin#Onccor#One A Day Advance Adults#One A Day Advance Adults 50+#One A Day Advance Fem#One A Day Tab#Orange Flavored Crystal Chews Tab#Orifer F#Original Bioscal Forte Multi-vitamin Supplement Capsules#Orti B#P.N.P. Vitamin Drink#P.R.O. Complex#PM Caps#PNF-First#Paramettes Chewable Multivitamins Plus Iron#Paramettes Chewable Multivits With Iron Tab#Paramettes Multivits Plus Iron Tab (teens)#Paramettes Syrup#Permathene-12  -  Caplet#Phosthenine Vitamines Et Fer (ampoules Buvable)#Photrexa#Photrexa Viscous#Phytofortis + Calcium A-D#Phytoplex B Liq#Phytopure#Pnv Ferrous Fumarate Docusate Folic Acid#Pnv Prenatal Plus Multivitamin#Pnv Prenatal Vitamin#Pnv Prenatal Vitamin Plus Vitamin A#Pnv-select#Poly-VI-sol Drops#Polymine Avec Zinc Et Cuivre#Prefera Ob Plus DHA#Preferaob#Preferaob Plus DHA#Pregvit#Pregvit Folic 4#Pregvit Folic 5#Prenatal 19#Prenatal Mega Antioxidant#Prenatal Plus#Prenatal Plus Iron#Prenatal Vitamins Plus#Prenatal Vitamins Plus Low Iron#Prenate Elite#Prenate Star#Preplus#Pretab#Prevital Tab#Purevit Dualfe Plus#Q.T. Vitamin and Mineral Drink Mix#Reaphirm Plant Source DHA#Reno Caps#Replavite#Revit Plus Cap#Revit Tab#Revitex Ampoules Et Comprimes#Revival 1 Tab#Riboflavin 5 Phosphate Cap 50mg#Riboflavin Inj 50mg/ml#Riboflavin Tab 10mg#Riboflavin Tab 5mg#Riboflavin-S Tab 25mg#Right Choice A.M. Multi Formula - Caplet#Se-natal 19#Se-natal 19 Chewable#Se-natal One#Se-tan Plus#Sibergin B - Cap#Somarexin and C 1000#Somavit Brand Vitamins and Minerals Complex#Sopalamine/3b Plus C#Spectrum 2 Cap#Stress B & C  Caplet#Stress B Capsules With Vitamin C#Stress B Complex With C, E & Iron#Stress B With 1000 Mg Vitamin C#Stress B&c Tab#Stress Complex 600 Avec Vit E Cuivre Zinc#Stress Ctr Srt#Stress Formula#Stress Formula + Iron#Stress Formula B-comp + 500mg Vit C Tab#Stress Formula Multi-B Comp + 500mg Vit C Cap#Stress Formula Multivitamin Tablets USP#Stress Formula Tab#Stress Formula Vit B With C Complex#Stress Forte Plus Lipotropic Factors#Stress Tab#Stress Tablets#Stress Vitamin B With C Complex Tablets#Stressmates#Strovite Forte Caplet#Strovite One Caplets#Sun-rype Vitaburst#Super B Compound W 500mg Vit C#Super Charged Energy#Super Daily No 2#Super Pantoplex#Super Stress Capsules#Super Stress Mega B Plus 1000mg Vit C Tab#Super Vitalex Ampoule Buvable#Super-pote Vitamin Supplement#Supplement De Multivitamines Infusion Arome Fruits Rouges#Supravite 10ml Ampoule#Supravite Bouteille 250ml#Supravite C 1000#Supravite Pour Enfants#Supravite Stress Avec Vit E#Supravite Stress Avec Vit E Cuivre Et Zinc#Supravite Stress Avec Vit E Et Fer#Surbex 500 Filmtab#Surbex-500 With Iron#Surbex-500 With Zinc#Swical-energy-2#T.R.I. B-plex Src#Tandem Ob#Tandem Plus#Tender Age Multi Vitamins#Time Release B 100 Compound  -  Tablet#Timed Release B Complex 100 Srt#Timed Release B-complex 100#Timed Release B-complex 50#Tini-cal Ampoules#Toni Com Liq#Tonicol Et A-D-C Ampoules/comprimes#Tonimol Cap Liq#Triadvance#Tricare Prenatal#Trinatal Gt#Twin Ultra Liquid Fruit Punch Flavor#Twin Ultra Liquid Grape Flavor#Twin Ultra Liquid Lemon-lime Flavor#Twin Ultra Liquid Orange Flavor#Ultimatecare One Nf#Ultra Enerforce#Ultra Hr#Usana Megavitamin Tablets - Tab#V-natal#VP-heme OB#Vasodyn Tab#Viamon Ampoules Et Comprimes#Vigo Multivitamins Drops/lozenge#Vimeral Tab#Virt-PN#Virt-bal DHA Plus#Virt-caps#Virt-vite Plus#Vit B Complex Ctr#Vit B Complex Plus Vit C 550mg#Vit B2 Ctr Srt 200mg#Vit-HA Multi Vitamin and Zinc Supplement#Vita B + C 500 Tab#Vita B Complex Tab#Vita Day Tab#Vita-B#Vita-B-75 Cap#Vita-flavine Cap 100mg#Vita-worth B-complex Tablets#Vitabanks Vitamin Tab#Vitachrom Gc#Vitaday Tab#Vitafant#Vitafer - Liq#Vitaflex Dietary Suplement#Vitafol Caplet#Vitafol Ob Caplet#Vitafol One#Vitafol Plus#Vitafol Ultra#Vitalife  -  Capsule#Vitamin B + C Cap#Vitamin B Complex#Vitamin B Complex + C 300mg Cap#Vitamin B Complex + C 600mg Tab#Vitamin B Complex 100 Tab#Vitamin B Complex 50#Vitamin B Complex Plus 300mg Vitamin C#Vitamin B Complex Plus C 300mg Timed Release#Vitamin B Complex Suppl#Vitamin B Complex Tab#Vitamin B Complex W C 300mg Tab#Vitamin B Complex W C Tab#Vitamin B Compound Tab#Vitamin B Compound W C Tab 500mg#Vitamin B Compound W Vit C 250mg Tab#Vitamin B Compound With Vitamin C Fortis Capsule Dtc#Vitamin B Cpd W Vit C Tab#Vitamin B Tablets#Vitamin B-2#Vitamin B-2 50 Mg Tablets#Vitamin B-2 Riboflavin 100mg Capsules#Vitamin B2 100 mg#Vitamin B2 100mg#Vitamin B2 Tab 100mg#Vitamin B2 Tab 4mg USP Chewable#Vitamin B2 Tablets 100mg#Vitamin and Mineral Supplement - Liq#Vitamine 110 Liq#Vitamine Du Groupe B Plus Fer - Liq#Vitamines Pour Bebes Et Enfants#Vitamins Chewable#Vitamins W Iron Chewable#Vitogen B Stress C Vit E Zinc & Cop#Vitogen B Stress C600#Vtb Vitamin and Mineral Supplement#Women's Formula#Zoo Chews#Bisulase
+
+>  <DrugBank ID>  (1) 
+DB00140
+
+>  <ATC Codes>  (1) 
+A11HA04
+
+>  <Ligand ID>  (1) 
+RBF
+
+>  <Target Name>  (1) 
+Riboflavin synthase
+
+>  <UniProt ID>  (1) 
+P0AFU8
+
+>  <PDB ID.1>  (1) 
+1HZE
+
+>  <Seq. Identity>  (1) 
+100%
+
+$$$$

@@ -1,0 +1,184 @@
+PDB_DB00722_07
+     RDKit          3D
+
+ 72 73  0  0  0  0  0  0  0  0999 V2000
+    2.6191   -0.2119   -2.6070 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.5423    0.0401   -3.3235 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3031   -0.0766   -2.1088 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.0521    1.1397   -1.3039 C   0  0  2  0  0  0  0  0  0  0  0  0
+    1.7931    1.4345   -0.0895 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2396    1.5985   -0.0360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1884    0.5085   -0.2842 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9721   -0.6762    0.6559 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8160   -1.7987    0.0664 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2569   -1.3807    0.2604 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3992   -0.0122    0.8355 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5790    1.0591    0.2111 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3666    1.1819   -1.0299 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0306    4.6383    2.2633 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.2245   -1.0650   -0.4645 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0997    0.4037   -0.2218 C   0  0  2  0  0  0  0  0  0  0  0  0
+   -1.6868   -1.3358   -1.7599 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.5332    1.0026   -0.1693 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3832    2.4331    0.3745 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7429    3.0912    0.4743 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6361    4.5103    0.9697 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.0956   -2.1086    1.2425 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5445   -2.8305   -0.8220 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2816   -1.6558    0.4176 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.2579   -2.3864   -0.3017 C   0  0  1  0  0  0  0  0  0  0  0  0
+   -3.1493   -3.8396    0.1600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6417   -3.6779    1.5724 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7009   -2.4894    1.4169 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6947   -1.9807   -0.0736 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8238    0.6931   -2.9992 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.2524   -0.8438   -3.6455 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.9923   -1.0226   -1.6758 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2320    2.0154   -2.0177 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3877    2.4792    0.2528 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4324    0.7509    0.7690 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5777    2.4603   -0.7402 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5674    2.0659    0.9663 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4157    0.1718   -1.2586 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3589   -0.4290    1.6695 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9200   -0.9612    0.6431 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6235   -1.7859   -1.0291 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5891   -2.7805    0.5300 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8302   -1.5460   -0.6722 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7099   -2.1031    1.0031 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4790    0.2809    0.6654 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3288   -0.0716    1.9471 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1039    1.5207   -0.6335 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3957    1.8399    0.9736 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8385    1.8727   -1.6614 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0579    4.2946    2.3148 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0905    5.6427    2.5582 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.3469   -1.6353   -0.2021 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.8247    0.4621    0.8952 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.2486   -0.6043   -2.1190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1596    0.4021    0.4794 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.9137    1.1010   -1.1952 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7688    3.0633   -0.3005 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9016    2.3368    1.3783 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.3263    2.5248    1.2437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2127    3.0721   -0.5055 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6841    4.9236    1.0852 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1128    5.1733    0.2455 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6567   -2.9162    1.3988 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.2197   -2.8755   -1.7772 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0754   -2.4615   -1.4157 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1233   -4.3430    0.1050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3861   -4.3836   -0.4408 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0948   -4.5939    1.8458 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.4633   -3.4814    2.2628 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7631   -2.9057    0.9963 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.5527   -1.9699    2.3923 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8898   -0.9488   -0.4041 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  1  0
+  3  2  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+  7 12  1  0
+ 11 12  1  0
+  4 13  1  0
+ 13 16  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 16 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 14 21  1  0
+ 20 21  1  0
+ 15 24  1  0
+ 24 25  1  0
+ 25 26  1  0
+ 26 27  1  0
+ 24 28  1  0
+ 27 28  1  0
+ 22 29  1  0
+ 23 29  1  0
+ 25 29  1  0
+  1 30  1  0
+  2 31  1  0
+  3 32  1  0
+  4 33  1  6
+  5 34  1  0
+  5 35  1  0
+  6 36  1  0
+  6 37  1  0
+  7 38  1  0
+  8 39  1  0
+  8 40  1  0
+  9 41  1  0
+  9 42  1  0
+ 10 43  1  0
+ 10 44  1  0
+ 11 45  1  0
+ 11 46  1  0
+ 12 47  1  0
+ 12 48  1  0
+ 13 49  1  0
+ 14 50  1  0
+ 14 51  1  0
+ 15 52  1  0
+ 16 53  1  1
+ 17 54  1  0
+ 18 55  1  0
+ 18 56  1  0
+ 19 57  1  0
+ 19 58  1  0
+ 20 59  1  0
+ 20 60  1  0
+ 21 61  1  0
+ 21 62  1  0
+ 22 63  1  0
+ 23 64  1  0
+ 25 65  1  6
+ 26 66  1  0
+ 26 67  1  0
+ 27 68  1  0
+ 27 69  1  0
+ 28 70  1  0
+ 28 71  1  0
+ 29 72  1  0
+M  END
+>  <PDBID>  (1) 
+1O86
+
+>  <PDB ID>  (1) 
+1O86
+
+>  <Generic Name>  (1) 
+Lisinopril
+
+>  <Brand Name>  (1) 
+Act Lisinopril#Apo-lisinopril Tablet (type P) - 10mg#Apo-lisinopril Tablet (type P) - 20mg#Apo-lisinopril Tablet (type P) - 40mg#Apo-lisinopril Tablet (type P) - 5mg#Apo-lisinopril Tablet 10 mg#Apo-lisinopril Tablet 20 mg#Apo-lisinopril Tablet 40 mg#Apo-lisinopril Tablet 5 mg#Apo-lisinopril/hctz#Auro-lisinopril#Ava-lisinopril Hct#Dom-lisinopril#Ipg-lisinopril#Jamp-lisinopril#Lisinopril#Lisinopril 10mg#Lisinopril 2.5mg#Lisinopril 20mg#Lisinopril 40mg#Lisinopril 5mg#Lisinopril Tablets#Lisinopril Tablets USP#Lisinopril With Hydrochlorothiazide#Lisinopril and Hctz#Lisinopril and Hydrochlorothiazide#Lisinopril and Hydrochlorthiazide#Lisinopril/hctz (type Z)#Lisnopril/hctz (type P)#Lytensopril#Lytensopril-90#Mar-lisinopril#Mint-lisinopril#Mylan-lisinopril#Mylan-lisinopril Hctz#Ntp-lisinopril/hctz (type P)#Ntp-lisinopril/hctz (type Z)#Nu-lisinopril#Nu-lisinopril/hctz#PMS-lisinopril#Prinivil#Prinzide#Pro-lisinopril - 10#Pro-lisinopril - 20#Pro-lisinopril - 5#Qbrelis#Ran-lisinopril#Ratio-lisinopril P#Ratio-lisinopril Z#Riva-lisinopril#Sandoz Lisinopril#Sandoz Lisinopril Hct#Teva-lisinopril (type P)#Teva-lisinopril (type Z)#Teva-lisinopril/hctz (type P)#Teva-lisinopril/hctz (type Z)#Zestoretic#Zestoretic Tab 10/12.5mg#Zestoretic Tab 20/12.5mg#Zestoretic Tab 20/25mg#Zestril#Zestril Tab 10mg#Zestril Tab 20mg#Zestril Tab 5mg#Acebitor#Acemin#Acerbon#Acinopril#Bellisin#Biopril#Dapril#Fibsol#Fisopril#Hipril#Linopril#Lisipril#Noperten#Presiten#Ranolip#Ranopril#Rantex#Sinopren#Sinopril#Tensopril
+
+>  <DrugBank ID>  (1) 
+DB00722
+
+>  <ATC Codes>  (1) 
+C09AA03#C09BB03#C09BA03#C10BX07
+
+>  <Ligand ID>  (1) 
+LPR
+
+>  <Target Name>  (1) 
+Angiotensin-converting enzyme
+
+>  <UniProt ID>  (1) 
+P12821
+
+>  <PDB ID.1>  (1) 
+1O86
+
+>  <Seq. Identity>  (1) 
+100%
+
+$$$$
