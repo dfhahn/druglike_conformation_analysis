@@ -1,12 +1,12 @@
 PDB_DB00741_99
      RDKit          3D
 
-372390  0  0  0  0  0  0  0  0999 V2000
+ 56 59  0  0  0  0  0  0  0  0999 V2000
     3.7200   32.2140   -3.7650 C   0  0  0  0  0  0  0  0  0  0  0  0
     3.9320   32.6580   -2.3200 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.0250   33.7010   -2.2190 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.3930   34.5200   -3.3780 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.8210   34.3510   -4.5760 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.8210   34.3510   -4.5760 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.1970   35.3250   -5.6560 C   0  0  0  0  0  0  0  0  0  0  0  0
     5.5140   34.6160   -6.9530 C   0  0  0  0  0  0  0  0  0  0  0  0
     4.5070   33.5230   -7.2940 C   0  0  2  0  0  0  0  0  0  0  0  0
@@ -28,144 +28,11 @@ PDB_DB00741_99
     6.2270   30.4770   -9.7820 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.0740   30.7530  -12.3530 O   0  0  0  0  0  0  0  0  0  0  0  0
     3.2460   28.3180  -11.9170 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.8370   95.1810  -41.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.1690   94.7580  -39.6490 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.2230   93.6700  -39.6250 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.4660   92.8250  -40.8030 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.7980   92.9970  -41.9480 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -5.0470   92.0020  -43.0460 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.2980   92.6900  -44.3680 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.3020   93.8120  -44.6420 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -4.1450   94.7990  -43.4790 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -3.7710   94.1070  -42.1430 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -3.7410   96.6890  -45.1610 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3060   96.0640  -43.8250 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -3.9180   95.6980  -46.3120 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -4.8260   94.5700  -45.8430 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -5.0600   93.7720  -47.0950 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.0490   94.7930  -48.2250 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.6770   96.1090  -47.5980 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -2.5460   95.1670  -46.7250 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4010   93.4210  -42.1780 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.9330   96.9780  -48.5970 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.6370   98.3940  -48.2090 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.8880   93.4770  -38.6210 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.8830   95.8610  -43.8430 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.9180   96.7680  -47.2910 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.5620   96.5420  -49.6830 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.8720   99.0430  -49.2170 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.1170   31.6580  -40.4060 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.4010   32.0760  -41.8460 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.5560   33.0560  -41.9170 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.9430   33.8540  -40.7470 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.3190   33.7310  -39.5700 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -8.7130   34.6910  -38.4840 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.9560   33.9730  -37.1740 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.8760   32.9420  -36.8570 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -7.5710   31.9860  -38.0180 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -7.2010   32.7210  -39.3300 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -7.0780   30.1290  -36.3230 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.6360   30.8010  -37.6340 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -7.3960   31.0870  -35.1760 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -8.3840   32.1300  -35.6830 C   0  0  1  0  0  0  0  0  0  0  0  0
-   -8.7520   32.8950  -34.4380 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.6810   31.8760  -33.3090 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.1710   30.6010  -33.9260 C   0  0  2  0  0  0  0  0  0  0  0  0
-   -6.0980   31.7390  -34.7040 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.9030   33.5310  -39.2370 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.4000   29.7920  -32.9000 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.9620   28.4190  -33.2830 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.1960   33.1850  -42.9480 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.2380   31.1300  -37.5570 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.3360   29.8320  -34.2880 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.1190   30.2380  -31.7940 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.1590   27.8650  -32.2490 O   0  0  0  0  0  0  0  0  0  0  0  0
-    6.9720   95.8980   -3.5790 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.1750   95.4520   -5.0250 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3380   94.4870   -5.1450 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.8020   93.7200   -3.9810 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2490   93.8630   -2.7690 C   0  0  1  0  0  0  0  0  0  0  0  0
-    8.7230   92.9370   -1.6850 C   0  0  0  0  0  0  0  0  0  0  0  0
-    9.0280   93.6850   -0.4090 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.9550   94.7070   -0.0510 C   0  0  2  0  0  0  0  0  0  0  0  0
-    7.5690   95.6320   -1.2090 C   0  0  1  0  0  0  0  0  0  0  0  0
-    7.1330   94.8620   -2.4820 C   0  0  1  0  0  0  0  0  0  0  0  0
-    7.1440   97.5230    0.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
-    6.6420   96.8140   -0.7980 C   0  0  2  0  0  0  0  0  0  0  0  0
-    7.5490   96.5940    1.6140 C   0  0  1  0  0  0  0  0  0  0  0  0
-    8.5200   95.5520    1.0720 C   0  0  1  0  0  0  0  0  0  0  0  0
-    8.9740   94.8210    2.3060 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9570   95.8630    3.4130 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3940   97.1180    2.8010 C   0  0  2  0  0  0  0  0  0  0  0  0
-    6.2890   95.9460    2.1870 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.8570   94.0330   -2.2940 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6720   97.9380    3.8560 C   0  0  0  0  0  0  0  0  0  0  0  0
-    7.2000   99.3100    3.4870 C   0  0  0  0  0  0  0  0  0  0  0  0
-    8.9090   94.3430   -6.2120 O   0  0  0  0  0  0  0  0  0  0  0  0
-    5.2560   96.4660   -0.6350 O   0  0  0  0  0  0  0  0  0  0  0  0
-    9.5280   97.8900    2.3540 O   0  0  0  0  0  0  0  0  0  0  0  0
-    7.4600   97.4990    4.9780 O   0  0  0  0  0  0  0  0  0  0  0  0
-    6.4830   99.8860    4.5720 O   0  0  0  0  0  0  0  0  0  0  0  0
-   25.9710  108.4680  -27.7210 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.2860  108.0830  -26.2790 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.6890  106.6270  -26.1750 C   0  0  0  0  0  0  0  0  0  0  0  0
-   27.2090  105.9030  -27.3420 C   0  0  0  0  0  0  0  0  0  0  0  0
-   27.3140  106.4800  -28.5450 C   0  0  1  0  0  0  0  0  0  0  0  0
-   27.9790  105.6850  -29.6330 C   0  0  0  0  0  0  0  0  0  0  0  0
-   27.1760  105.7250  -30.9130 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.6790  107.1240  -31.2590 C   0  0  2  0  0  0  0  0  0  0  0  0
-   25.9780  107.8360  -30.0950 C   0  0  1  0  0  0  0  0  0  0  0  0
-   26.8550  107.9090  -28.8180 C   0  0  1  0  0  0  0  0  0  0  0  0
-   24.4230  108.9910  -31.7660 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.2670  109.1660  -30.4940 C   0  0  2  0  0  0  0  0  0  0  0  0
-   25.1250  108.2730  -32.9180 C   0  0  1  0  0  0  0  0  0  0  0  0
-   25.6860  106.9590  -32.3910 C   0  0  1  0  0  0  0  0  0  0  0  0
-   26.1750  106.2630  -33.6300 C   0  0  0  0  0  0  0  0  0  0  0  0
-   25.2270  106.7090  -34.7330 C   0  0  0  0  0  0  0  0  0  0  0  0
-   24.3090  107.7290  -34.1160 C   0  0  2  0  0  0  0  0  0  0  0  0
-   26.2380  109.1680  -33.4640 C   0  0  0  0  0  0  0  0  0  0  0  0
-   28.1250  108.7460  -29.0020 C   0  0  0  0  0  0  0  0  0  0  0  0
-   23.8560  108.7320  -35.1610 C   0  0  0  0  0  0  0  0  0  0  0  0
-   22.8040  109.7240  -34.7810 C   0  0  0  0  0  0  0  0  0  0  0  0
-   26.5750  106.0340  -25.1170 O   0  0  0  0  0  0  0  0  0  0  0  0
-   26.1360  110.3040  -30.6560 O   0  0  0  0  0  0  0  0  0  0  0  0
-   23.1480  107.0010  -33.6740 O   0  0  0  0  0  0  0  0  0  0  0  0
-   24.3410  108.7540  -36.2840 O   0  0  0  0  0  0  0  0  0  0  0  0
-   22.5790  110.6380  -35.8480 O   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.7160  105.0780  -14.9700 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.9000  104.5540  -16.3900 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.2070  103.0720  -16.3930 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.7660  102.4130  -15.2060 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.9950  103.0780  -14.0670 C   0  0  1  0  0  0  0  0  0  0  0  0
-  -25.6820  102.3280  -12.9600 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.9840  102.5280  -11.6340 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.5890  103.9810  -11.3820 C   0  0  2  0  0  0  0  0  0  0  0  0
-  -23.8580  104.6430  -12.5560 C   0  0  1  0  0  0  0  0  0  0  0  0
-  -24.6420  104.5530  -13.8900 C   0  0  1  0  0  0  0  0  0  0  0  0
-  -22.5020  106.0500  -10.8910 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.2660  106.0450  -12.2270 C   0  0  2  0  0  0  0  0  0  0  0  0
-  -23.2240  105.3660   -9.7290 C   0  0  1  0  0  0  0  0  0  0  0  0
-  -23.6640  103.9780  -10.1800 C   0  0  1  0  0  0  0  0  0  0  0  0
-  -24.1970  103.3570   -8.9170 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.3580  103.9540   -7.7940 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.4620  104.9790   -8.4350 C   0  0  2  0  0  0  0  0  0  0  0  0
-  -24.4250  106.2230   -9.3260 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.9730  105.3120  -13.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.1550  106.0940   -7.4530 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -21.1270  107.1070   -7.8430 C   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.9990  102.4010  -17.3870 O   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.2200  107.1250  -12.2370 O   0  0  0  0  0  0  0  0  0  0  0  0
-  -21.2250  104.3010   -8.7220 O   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.7400  106.1920   -6.3810 O   0  0  0  0  0  0  0  0  0  0  0  0
-  -21.0240  108.1270   -6.8530 O   0  0  0  0  0  0  0  0  0  0  0  0
     4.4952   31.4685   -3.9958 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.6835   31.8466   -3.7917 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.9938   33.0839   -1.9348 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.2335   31.7811   -1.7283 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.7707   32.9481   -2.5142 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.2020   35.5644   -3.0902 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.4276   34.1988   -3.5687 H   0  0  0  0  0  0  0  0  0  0  0  0
-    3.9920   35.0073   -4.2727 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1626   35.2969   -3.2593 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.3579   36.0166   -5.8221 H   0  0  0  0  0  0  0  0  0  0  0  0
     6.0951   35.8713   -5.3319 H   0  0  0  0  0  0  0  0  0  0  0  0
     5.5167   35.3567   -7.7662 H   0  0  0  0  0  0  0  0  0  0  0  0
@@ -186,198 +53,15 @@ PDB_DB00741_99
     2.0092   34.2179   -4.0280 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.5845   34.9288   -5.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.7381   33.3444   -5.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.3221   29.9665  -11.5903 H   0  0  0  0  0  0  0  0  0  0  0  0
     4.8840   28.3487  -10.6587 H   0  0  0  0  0  0  0  0  0  0  0  0
     3.3420   28.9542   -9.9560 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.0161   33.6985   -0.4108 H   0  0  0  0  0  0  0  0  0  0  0  0
     1.5466   31.6525   -5.7713 H   0  0  0  0  0  0  0  0  0  0  0  0
     6.2721   30.4504   -8.7934 H   0  0  0  0  0  0  0  0  0  0  0  0
-    3.5486   31.5878  -12.2678 H   0  0  0  0  0  0  0  0  0  0  0  0
     2.5459   27.7280  -11.5403 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.6038   95.9052  -41.3874 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.8090   95.5675  -41.0127 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.2554   94.3816  -39.1657 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.5633   95.6332  -39.1118 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.9733   94.3889  -39.9859 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.2709   91.7902  -40.4852 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.4889   93.1131  -41.0869 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.9798   92.3695  -41.5649 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.1669   91.3494  -43.1437 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.9409   91.4161  -42.7857 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.2202   91.9450  -45.1735 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.3019   93.1377  -44.3260 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.3117   93.3607  -44.8018 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.1498   95.2104  -43.3027 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.7013   97.2012  -45.0013 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.9285   97.3668  -45.4618 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.5178   96.7536  -42.9946 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.7793   94.9220  -45.4218 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.2590   93.0314  -47.2361 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.0057   93.2116  -47.0555 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.3076   94.5105  -48.9869 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.0277   94.8492  -48.7240 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.9554   94.9384  -45.8256 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.6717   94.2526  -47.3233 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.0233   95.9278  -47.3233 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.0521   93.2463  -41.1496 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.4859   92.4591  -42.7048 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.6817   94.0653  -42.7048 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.8912   97.2976  -49.0326 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.5843   98.9357  -48.0700 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.0581   98.3903  -47.2737 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.3300   93.6389  -37.8194 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.5448   95.8127  -42.9138 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.0268   96.8258  -46.3087 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.9272   95.7960  -49.5397 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.1900   99.6216  -48.7925 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.8388   30.8700  -40.1451 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.0602   31.3528  -40.4105 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.5017   32.5508  -42.2654 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.6711   31.1783  -42.4215 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.2494   32.2614  -41.6044 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.8370   34.9079  -41.0437 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.9457   33.4626  -40.5203 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.5423   34.4326  -39.9084 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.9059   35.4254  -38.3453 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.6466   35.1892  -38.7842 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.9804   34.7172  -36.3643 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.9118   33.4358  -37.2624 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.9391   33.4786  -36.6468 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.5228   31.4856  -38.2497 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.9810   29.5366  -36.5319 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.2233   29.5236  -35.9870 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.7433   30.0978  -38.4730 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.2805   31.6948  -36.1487 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.0391   33.7144  -34.2637 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.7487   33.3537  -34.5163 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.9916   32.2227  -32.5251 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.6647   31.7287  -32.8393 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.0728   31.7517  -33.6044 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.2400   31.1649  -35.0838 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.0463   32.7700  -35.0838 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.6459   33.6914  -38.1796 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.0903   32.9795  -39.7323 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.0413   34.5034  -39.7323 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -8.3447   29.3826  -32.5129 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.8463   27.7836  -33.4391 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.3747   28.4704  -34.2116 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -10.1421   33.3757  -42.7274 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.9659   31.1940  -36.6073 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -9.7981   29.5270  -33.4673 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -7.4925   29.6452  -31.0945 H   0  0  0  0  0  0  0  0  0  0  0  0
-   -6.5314   28.1219  -31.3684 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.6978   96.7002   -3.3797 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.9120   96.1876   -3.5283 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.2594   94.9556   -5.3789 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.3963   96.3404   -5.6348 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.0367   95.2973   -4.8896 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6895   92.6586   -4.2472 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.8112   94.1283   -3.8234 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.4644   93.1419   -3.0419 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.9389   92.1923   -1.4835 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.6480   92.4505   -2.0281 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.1094   92.9586    0.4130 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9686   94.2337   -0.5642 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.0404   94.1621    0.2257 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.4984   96.1405   -1.5050 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.0200   98.1298    0.1972 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.2981   98.1188    0.8435 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.6952   97.5005   -1.6559 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.3804   95.9893    0.5442 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.2853   93.9962    2.5415 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9706   94.3737    2.1766 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.3205   95.5256    4.2443 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.9652   96.0327    3.8188 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.3325   95.9684    3.2859 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.4031   96.5003    1.8437 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.2246   94.9029    1.8437 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.6585   93.9040   -1.2198 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.0092   94.5533   -2.7637 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.9878   93.0470   -2.7637 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.6332   98.3578    4.1875 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.0681   99.9418    3.2477 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.5367   99.2405    2.6122 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.8560   94.1042   -6.0499 H   0  0  0  0  0  0  0  0  0  0  0  0
-    5.0406   96.4119    0.3298 H   0  0  0  0  0  0  0  0  0  0  0  0
-   10.0264   98.2293    3.1392 H   0  0  0  0  0  0  0  0  0  0  0  0
-    7.7751   98.1515    5.6526 H   0  0  0  0  0  0  0  0  0  0  0  0
-    6.8717   99.5737    5.4273 H   0  0  0  0  0  0  0  0  0  0  0  0
-   24.9427  108.1380  -27.9301 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.1421  109.5540  -27.7581 H   0  0  0  0  0  0  0  0  0  0  0  0
-   27.1117  108.7106  -25.9125 H   0  0  0  0  0  0  0  0  0  0  0  0
-   25.3815  108.2376  -25.6723 H   0  0  0  0  0  0  0  0  0  0  0  0
-   25.6660  106.3247  -26.4433 H   0  0  0  0  0  0  0  0  0  0  0  0
-   28.2215  105.5689  -27.0712 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.4262  105.1497  -27.5144 H   0  0  0  0  0  0  0  0  0  0  0  0
-   28.2884  106.9018  -28.2576 H   0  0  0  0  0  0  0  0  0  0  0  0
-   28.9779  106.1045  -29.8236 H   0  0  0  0  0  0  0  0  0  0  0  0
-   28.0524  104.6385  -29.3023 H   0  0  0  0  0  0  0  0  0  0  0  0
-   27.8101  105.3643  -31.7363 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.2915  105.0875  -30.7674 H   0  0  0  0  0  0  0  0  0  0  0  0
-   27.5477  107.7453  -31.5224 H   0  0  0  0  0  0  0  0  0  0  0  0
-   25.1354  107.1885  -29.8108 H   0  0  0  0  0  0  0  0  0  0  0  0
-   23.5248  108.4136  -31.5018 H   0  0  0  0  0  0  0  0  0  0  0  0
-   24.2017  110.0059  -32.1280 H   0  0  0  0  0  0  0  0  0  0  0  0
-   24.6238  109.3891  -29.6300 H   0  0  0  0  0  0  0  0  0  0  0  0
-   24.9388  106.3384  -31.8747 H   0  0  0  0  0  0  0  0  0  0  0  0
-   27.2069  106.5655  -33.8615 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.1861  105.1694  -33.5122 H   0  0  0  0  0  0  0  0  0  0  0  0
-   25.7927  107.1584  -35.5624 H   0  0  0  0  0  0  0  0  0  0  0  0
-   24.6616  105.8585  -35.1416 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.7935  109.6147  -32.6262 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.9234  108.5667  -34.0793 H   0  0  0  0  0  0  0  0  0  0  0  0
-   25.7978  109.9665  -34.0793 H   0  0  0  0  0  0  0  0  0  0  0  0
-   28.5329  109.0149  -28.0164 H   0  0  0  0  0  0  0  0  0  0  0  0
-   28.8712  108.1621  -29.5608 H   0  0  0  0  0  0  0  0  0  0  0  0
-   27.8827  109.6620  -29.5608 H   0  0  0  0  0  0  0  0  0  0  0  0
-   23.0756  108.0321  -35.4944 H   0  0  0  0  0  0  0  0  0  0  0  0
-   21.8680  109.1920  -34.5554 H   0  0  0  0  0  0  0  0  0  0  0  0
-   23.1422  110.2831  -33.8961 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.6972  106.6694  -24.3677 H   0  0  0  0  0  0  0  0  0  0  0  0
-   26.3987  110.6480  -29.7656 H   0  0  0  0  0  0  0  0  0  0  0  0
-   23.1247  106.9864  -32.6844 H   0  0  0  0  0  0  0  0  0  0  0  0
-   25.3277  108.7988  -36.2165 H   0  0  0  0  0  0  0  0  0  0  0  0
-   22.3595  111.5296  -35.4780 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.6873  104.8374  -14.6637 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.9564  106.1491  -15.0400 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.7321  105.0934  -16.8661 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.9638  104.7161  -16.9443 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.1899  102.8606  -16.0314 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.7332  101.9902  -15.5154 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.9528  101.7314  -14.9159 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.9723  103.4031  -14.4533 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -26.7183  102.6871  -12.8754 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.6558  101.2557  -13.2037 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.6603  102.2038  -10.8293 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.0584  101.9341  -11.6561 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.5104  104.5619  -11.2281 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.9604  104.0312  -12.7293 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -21.5417  105.5362  -11.0455 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.3921  107.1063  -10.6045 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.5690  106.2337  -13.0568 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.8453  103.3720  -10.5953 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.2590  103.6095   -8.7813 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.1326  102.2591   -8.9395 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.0077  104.4310   -7.0455 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.7730  103.1792   -7.2769 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.4905  106.2697   -8.2289 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.3025  107.2389   -9.7296 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.3458  105.7767   -9.7296 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -26.2844  105.4896  -12.8381 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -25.8501  106.2758  -14.3937 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -26.7399  104.7154  -14.3937 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -21.3703  105.4742   -6.9946 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -20.1522  106.6090   -7.9512 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -21.4280  107.5677   -8.7955 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -23.7169  101.4910  -17.1178 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -24.4428  107.3772  -11.3059 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -20.7782  104.0561   -7.8731 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -22.0921  106.0835   -5.6404 H   0  0  0  0  0  0  0  0  0  0  0  0
-  -21.0653  107.7181   -5.9523 H   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   2  3  1  0
   3  4  1  0
-  4  5  1  0
+  4  5  2  0
   5  6  1  0
   6  7  1  0
   7  8  1  0
@@ -398,404 +82,40 @@ PDB_DB00741_99
  10 19  1  6
  17 20  1  0
  20 21  1  0
-  3 22  1  0
+  3 22  2  0
  12 23  1  0
  17 24  1  1
- 20 25  1  0
+ 20 25  2  0
  21 26  1  0
- 27 28  1  0
- 28 29  1  0
- 29 30  1  0
- 30 31  1  0
- 31 32  1  0
- 32 33  1  0
- 33 34  1  0
- 34 35  1  0
- 27 36  1  0
- 31 36  1  0
- 35 36  1  0
- 35 38  1  0
- 37 38  1  0
- 37 39  1  0
- 34 40  1  0
- 39 40  1  0
- 40 41  1  0
- 41 42  1  0
- 39 43  1  0
- 42 43  1  0
- 39 44  1  6
- 36 45  1  6
- 43 46  1  0
- 46 47  1  0
- 29 48  1  0
- 38 49  1  0
- 43 50  1  1
- 46 51  1  0
- 47 52  1  0
- 53 54  1  0
- 54 55  1  0
- 55 56  1  0
- 56 57  1  0
- 57 58  1  0
- 58 59  1  0
- 59 60  1  0
- 60 61  1  0
- 53 62  1  0
- 57 62  1  0
- 61 62  1  0
- 61 64  1  0
- 63 64  1  0
- 63 65  1  0
- 60 66  1  0
- 65 66  1  0
- 66 67  1  0
- 67 68  1  0
- 65 69  1  0
- 68 69  1  0
- 65 70  1  1
- 62 71  1  1
- 69 72  1  0
- 72 73  1  0
- 55 74  1  0
- 64 75  1  0
- 69 76  1  6
- 72 77  1  0
- 73 78  1  0
- 79 80  1  0
- 80 81  1  0
- 81 82  1  0
- 82 83  1  0
- 83 84  1  0
- 84 85  1  0
- 85 86  1  0
- 86 87  1  0
- 79 88  1  0
- 83 88  1  0
- 87 88  1  0
- 87 90  1  0
- 89 90  1  0
- 89 91  1  0
- 86 92  1  0
- 91 92  1  0
- 92 93  1  0
- 93 94  1  0
- 91 95  1  0
- 94 95  1  0
- 91 96  1  1
- 88 97  1  1
- 95 98  1  0
- 98 99  1  0
- 81100  1  0
- 90101  1  0
- 95102  1  6
- 98103  1  0
- 99104  1  0
-105106  1  0
-106107  1  0
-107108  1  0
-108109  1  0
-109110  1  0
-110111  1  0
-111112  1  0
-112113  1  0
-105114  1  0
-109114  1  0
-113114  1  0
-113116  1  0
-115116  1  0
-115117  1  0
-112118  1  0
-117118  1  0
-118119  1  0
-119120  1  0
-117121  1  0
-120121  1  0
-117122  1  6
-114123  1  6
-121124  1  0
-124125  1  0
-107126  1  0
-116127  1  0
-121128  1  1
-124129  1  0
-125130  1  0
-131132  1  0
-132133  1  0
-133134  1  0
-134135  1  0
-135136  1  0
-136137  1  0
-137138  1  0
-138139  1  0
-131140  1  0
-135140  1  0
-139140  1  0
-139142  1  0
-141142  1  0
-141143  1  0
-138144  1  0
-143144  1  0
-144145  1  0
-145146  1  0
-143147  1  0
-146147  1  0
-143148  1  1
-140149  1  1
-147150  1  0
-150151  1  0
-133152  1  0
-142153  1  0
-147154  1  6
-150155  1  0
-151156  1  0
-  1157  1  0
-  1158  1  0
-  2159  1  0
-  2160  1  0
-  3161  1  0
-  4162  1  0
-  4163  1  0
-  5164  1  6
-  6165  1  0
-  6166  1  0
-  7167  1  0
-  7168  1  0
-  8169  1  6
-  9170  1  1
- 11171  1  0
- 11172  1  0
- 12173  1  1
- 14174  1  1
- 15175  1  0
- 15176  1  0
- 16177  1  0
- 16178  1  0
- 18179  1  0
- 18180  1  0
- 18181  1  0
- 19182  1  0
- 19183  1  0
- 19184  1  0
- 20185  1  0
- 21186  1  0
- 21187  1  0
- 22188  1  0
- 23189  1  0
- 24190  1  0
- 25191  1  0
- 26192  1  0
- 27193  1  0
- 27194  1  0
- 28195  1  0
- 28196  1  0
- 29197  1  0
- 30198  1  0
- 30199  1  0
- 31200  1  6
- 32201  1  0
- 32202  1  0
- 33203  1  0
- 33204  1  0
- 34205  1  6
- 35206  1  1
- 37207  1  0
- 37208  1  0
- 38209  1  1
- 40210  1  1
- 41211  1  0
- 41212  1  0
- 42213  1  0
- 42214  1  0
- 44215  1  0
- 44216  1  0
- 44217  1  0
- 45218  1  0
- 45219  1  0
- 45220  1  0
- 46221  1  0
- 47222  1  0
- 47223  1  0
- 48224  1  0
- 49225  1  0
- 50226  1  0
- 51227  1  0
- 52228  1  0
- 53229  1  0
- 53230  1  0
- 54231  1  0
- 54232  1  0
- 55233  1  0
- 56234  1  0
- 56235  1  0
- 57236  1  1
- 58237  1  0
- 58238  1  0
- 59239  1  0
- 59240  1  0
- 60241  1  1
- 61242  1  6
- 63243  1  0
- 63244  1  0
- 64245  1  6
- 66246  1  6
- 67247  1  0
- 67248  1  0
- 68249  1  0
- 68250  1  0
- 70251  1  0
- 70252  1  0
- 70253  1  0
- 71254  1  0
- 71255  1  0
- 71256  1  0
- 72257  1  0
- 73258  1  0
- 73259  1  0
- 74260  1  0
- 75261  1  0
- 76262  1  0
- 77263  1  0
- 78264  1  0
- 79265  1  0
- 79266  1  0
- 80267  1  0
- 80268  1  0
- 81269  1  0
- 82270  1  0
- 82271  1  0
- 83272  1  1
- 84273  1  0
- 84274  1  0
- 85275  1  0
- 85276  1  0
- 86277  1  1
- 87278  1  6
- 89279  1  0
- 89280  1  0
- 90281  1  6
- 92282  1  6
- 93283  1  0
- 93284  1  0
- 94285  1  0
- 94286  1  0
- 96287  1  0
- 96288  1  0
- 96289  1  0
- 97290  1  0
- 97291  1  0
- 97292  1  0
- 98293  1  0
- 99294  1  0
- 99295  1  0
-100296  1  0
-101297  1  0
-102298  1  0
-103299  1  0
-104300  1  0
-105301  1  0
-105302  1  0
-106303  1  0
-106304  1  0
-107305  1  0
-108306  1  0
-108307  1  0
-109308  1  6
-110309  1  0
-110310  1  0
-111311  1  0
-111312  1  0
-112313  1  6
-113314  1  1
-115315  1  0
-115316  1  0
-116317  1  1
-118318  1  1
-119319  1  0
-119320  1  0
-120321  1  0
-120322  1  0
-122323  1  0
-122324  1  0
-122325  1  0
-123326  1  0
-123327  1  0
-123328  1  0
-124329  1  0
-125330  1  0
-125331  1  0
-126332  1  0
-127333  1  0
-128334  1  0
-129335  1  0
-130336  1  0
-131337  1  0
-131338  1  0
-132339  1  0
-132340  1  0
-133341  1  0
-134342  1  0
-134343  1  0
-135344  1  1
-136345  1  0
-136346  1  0
-137347  1  0
-137348  1  0
-138349  1  1
-139350  1  6
-141351  1  0
-141352  1  0
-142353  1  6
-144354  1  6
-145355  1  0
-145356  1  0
-146357  1  0
-146358  1  0
-148359  1  0
-148360  1  0
-148361  1  0
-149362  1  0
-149363  1  0
-149364  1  0
-150365  1  0
-151366  1  0
-151367  1  0
-152368  1  0
-153369  1  0
-154370  1  0
-155371  1  0
-156372  1  0
+  1 27  1  0
+  1 28  1  0
+  2 29  1  0
+  2 30  1  0
+  4 31  1  0
+  6 32  1  0
+  6 33  1  0
+  7 34  1  0
+  7 35  1  0
+  8 36  1  6
+  9 37  1  1
+ 11 38  1  0
+ 11 39  1  0
+ 12 40  1  1
+ 14 41  1  1
+ 15 42  1  0
+ 15 43  1  0
+ 16 44  1  0
+ 16 45  1  0
+ 18 46  1  0
+ 18 47  1  0
+ 18 48  1  0
+ 19 49  1  0
+ 19 50  1  0
+ 19 51  1  0
+ 21 52  1  0
+ 21 53  1  0
+ 23 54  1  0
+ 24 55  1  0
+ 26 56  1  0
 M  END
->  <PDBID>  (1) 
-4P6X
-
->  <PDB ID>  (1) 
-4P6X
-
->  <Generic Name>  (1) 
-Hydrocortisone
-
->  <Brand Name>  (1) 
-1 Hydrocortisone Maximum Strength#999 Itch Relieving#A-hydrocort#A-hydrocort Inj 1000mg/8ml#A-hydrocort Inj 100mg/2ml#A-hydrocort Inj 250mg/2ml#A-hydrocort Inj 500mg/4ml#Acella Hydrocortisone Acetate - Pramoxine Singles#Acetasol HC#Actinac Pwr#Actinac Pws#Advanced Anti-itch Therapy#Advanced Hydrocortisone#Aftate Hydrocortisone Cream#Ala Quin#Ala Scalp#Alacort#Alcortin#Alocane#Alocort 1% - Crm#Ana Cool Rapid Soothing Cooling Formula#Ana-lex#Analpram Advanced#Analpram E#Analpram E Cream 2.5% Kit Hydrocortisone Acetate 2.5% Pramoxine Hydrochloride 1%#Analpram HC#Anodan-HC 10mg Suppositories#Anodan-HC Ointment#Anti Itch#Anti Itch Maximum Strength#Anti Itch Maximum Strength Plus#Anti-itch#Anti-itch Feminine Care#Anti-itch Scalp Relief Maximum Strength#Anti-itch Scherer Labs#Antibiotic Ear (neo/polym/hc)#Anucort-HC#Anugesic-HC Ointment#Anugesic-HC Suppositories#Anusol HC#Anusol-HC Ointment#Anusol-HC Suppositories#Aquacort Lotion 2.5%#Atopalm Maximum Strength Anti-itch#Atopalm Moisturizing Hydrocortisone#Avedana Hydrocortisone Cream With Aloe#Aveeno Hydrocortisone Anti Itch#Aveeno Hydrocortisone Anti-itch Cream#Barriere HC 1%#Berkley and Jensen Anti Itch#Berkley and Jensen Hydrocortisone#Biocorneum HC Advanced Scar Supervision Anti-itch#Bioelements Immediate Comfort#Bioelements Immediate Comfort Hydrocortisone#Blue-emu Anti-itch Cream#Budpak Anti-itch#Caldecort#Calmurid HC Crm#Care One Hydrocortisone Maximum Strength#Careall Hydrocortisone Maximum Strength#Careone Anti Itch#Cerave Anti-itch#Cicatricure Ultra Moisturizing#Cipro HC#Cipro HC Otic Suspension#Colocort#Coly-mycin S#Cooling Itch Relief Well At Walgreens#Cortacet Crm 0.5%#Cortaid 12-hour Advanced Anti-itch#Cortaid Intensive Therapy Cooling#Cortaid Maximum Strength#Cortamed Ont 25 mg/g#Cortate Crm 1%#Cortate Ont 1%#Cortef#Cortef Tablets 10mg#Cortef Tablets 20 mg#Cortenema#Cortenema Sus 100mg/60ml#Corticreme 0.1%#Corticreme 0.5%#Corticreme 1%#Cortifoam#Cortiment-10  Sup 10mg#Cortiment-40 Sup 40mg#Cortisil Mdx#Cortisone#Cortisone Cream Intensive Healing#Cortisone Maximum Strength#Cortisone Plus Aloe Maximum Strength#Cortisporin#Cortisporin-TC#Cortizone 10#Cortizone 10 Anti-itch for Diabetics Skin#Cortizone 10 Cooling Cream Anti-itch#Cortizone 10 Cooling Relief#Cortizone 10 Creme Ultra Moisturizing#Cortizone 10 Easy Relief#Cortizone 10 Hydratensive Healing Anti Itch#Cortizone 10 Hydratensive Soothing Anti Itch#Cortizone 10 Intensive Healing#Cortizone 10 Intensive Healing Feminine Itch Relief#Cortizone 10 Intensive Healing for Eczema#Cortizone 10 Plus#Cortizone 10 Poison Ivy Relief Pads#Cortizone 10 for Psoriasis#Cortomycin#Cvs Anti-itch Hydrocortisone#Cvs Cools Itch Fast#Cvs Cortisone#Cvs Health Maxium Strentgh Cortisone#Cvs Hydrocortisone With Aloe#Cvs Pharmacy Anti-itch#Dermacort Anti-itch#Dermaquest Skin Therapy Post-skin Resurfacing Balm#Dermarest Dricort 0.5% Hydrocortisone Anti-itch#Dermarest Eczema Medicated#Dermazene#Dermoscribe Ichybum#Dermoscribe Seborrheic Dermatitis#Dg Health Hydrocortisone#Dg Health Hydrocortisone Maximum Strength#Dr H Stabilizer#Dr. Sheffield Hydrocortisone Anti Itch#Dr. Throwers Hydrotet#Duane Reade#Duane Reade Hydrocortisone#Duane Reade Hydrocortisone Plus 12 Moisturizers#Eczema Skin Mushatts N9#Egozinc-HC#Emo Cort Cream 2.5%#Emo Cort Lotion 2.5%#Emo Cort Sol 2.5% USP#Epifoam#Equaline Anti Itch#Equaline Anti Itch Maximum Strength#Equate Hydrocortisone#Exchange Select Hydrocortisone#Face Values Hydrocortisone With Aloe#Family Care Hydrocortisone#Family Wellness#Family Wellness Hydrocortisone#Family Wellness Maximum Strength Hydrocortisone#First Dukes Mouthwash Compounding#First Marys Mouthwash Compounding#Fixmyskin Healing Balm Fragrance-free#Fixmyskin Healing Balm Unflavored#Fixmyskin Healing Balm Vanilla Flavor#Fixmyskin Healing Balm Vanilla Fragrance#Formu Care Anti Itch Maximum Strength#Fucidin H#Fulton Street Market Anti Itch#Gadaderm Hydrocortisone#Genuine Hydrocortisone#Good Neighbor Pharmacy Anti Itch#Good Neighbor Pharmacy Hydrocortisone#Good Neighbor Pharmacy Hydrocortisone Plus 12 Moisturizers#Good Neighbor Pharmacy Hydrocortisone With Aloe#Good Neighbor Pharmacy Hydrocortisone With Aloe for Sensitive Skin#Good Sense Anti Itch#Grx Hicort#H-releve Anti-itch#Healerz for Itches#Health Mart Pharmacy Hydrocortisone Maximum Strength Plus 12 Moisturizers#Health Mart Pharmacy Hydrocortisone Maximum Strength With Aloe#Healthy Accents Cortisone Maximum Strength#Hem-easy Relief Herbal Anti-itch Maximum Itch Relief#Hemmorex-HC#Home Papkit#Hycort Retention Enema 100mg/60ml#Hydro Skin#Hydrocortisone#Hydrocortisone 1 Anti Itch#Hydrocortisone 1 Plus 10#Hydrocortisone 1%#Hydrocortisone 1% In Absorbase#Hydrocortisone 1% With Healing Aloe#Hydrocortisone Acetate#Hydrocortisone Acetate Antipruritic (anti-itch)#Hydrocortisone Acetate Pramoxine HCl#Hydrocortisone Acetate and Pramoxine Hydrochloride#Hydrocortisone Acetate, Iodoquinol#Hydrocortisone Anti Itch#Hydrocortisone Anti-itch#Hydrocortisone Anti-itch Plus#Hydrocortisone Butyrate#Hydrocortisone Butyrate Cream (lipid) 0.1%#Hydrocortisone Cream 0.5%#Hydrocortisone Cream 0.5% USP#Hydrocortisone Cream 1%#Hydrocortisone Cream Intensive Healing#Hydrocortisone Cream USP 0.5%#Hydrocortisone Crm 0.5%#Hydrocortisone Crm 1%#Hydrocortisone D#Hydrocortisone HC#Hydrocortisone Intensive Healing Formula#Hydrocortisone Iodoquinol#Hydrocortisone Maximum Strength#Hydrocortisone Maximum Strength Plus 12 Moisturizers#Hydrocortisone Maximum Strength With Aloe#Hydrocortisone Ointment 0.5%#Hydrocortisone Ointment 1%#Hydrocortisone Plus#Hydrocortisone Plus 10 Moisturizers#Hydrocortisone Plus 12 Moisturizers#Hydrocortisone Plus 12 Moisturizers Maximum Strength#Hydrocortisone Regular Strength#Hydrocortisone Sodium Succinate Injection#Hydrocortisone Sodium Succinate for Injection#Hydrocortisone Ultra Strength#Hydrocortisone Valerate#Hydrocortisone With Aloe#Hydrocortisone With Aloe Maximum Strength#Hydrocortisone and Acetic Acid#Hydroskin#Hydroval Cream 0.2%#Hydroval Ointment 0.2%#Immediate Comfort Bioelements#Instant Cooling Itch Relief Cvs#Intensive Healing Anti Itch#Irritated Skin Treatment#Itch Stuff#Itch and Rash Cream#Jamp Hydrocortisone Cream USP 0.5%#Jampzinc-HC#Kaiser Permanente Hydrocortisone#Kera HC#Kirkland Signature Hydrocortisone Plus Maximum Strength#Lanacort Crm 0.5%#Leader Hydrocortisone#Leader Hydrocortisone With Aloe#Lidocaine HCl - Hydrocortisone Acetate#Lidocaine HCl - Hydrocortisone Acetate With Aloe#Lidocaine HCl and Hydrocortisone Acetate#Lidocaine Hydrochloride and Hydrocortisone Acetate#Lincoln#Live Better Hydrocortisone With Aloe#Locoid#Locoid Lipocream#Loesch Anti-itch Therapy#Loesch HC-10 Anti-itch Therapy#Lucky Supersoft Maximum Strength#Makesense Maximum Strength#Market Basket Anti-itch Cream Plus#Maximum Strength Cortizone 10 Quick Shot 360 Continuous#Maximum Strength Hydrocortisone#Maximum Strength Hydrocortisone Cream#Maximum Strength Hydrocortisone Cream With Aloe#Maximum-H#Medi-cortisone With Aloe#Medi-first#Medpride#Meijer Anti Itch#Meijer Anti Itch Cream Plus#Meijer Anti-itch With Aloe#Meijer Hydrocortisone#Meijer Hydrocortisone Plus 12 Moisturizers#Meijer Intense Healing#Meijer Itch and Rash Relief#Members Mark Hydrocortisone#Micort HC#Monistat Complete Care Instant Itch Relief#Natureplex Hydrocortisone Hydro#Neo Polycin HC#Neo-cortef 0.5%  Ointment#Neo-cortef 1%  Ointment#Neo-cortef Eye Ear Drops Sterile Suspension#Neo-poly-bac Hydro#Neo-polycin HC#Neomycin and Polymyxin B Sulfates and Bacitracin Zinc With Hydrocortisone Acetate#Neomycin and Polymyxin B Sulfates and Hydrocortisone#Neomycin and Polymyxin B Sulfates, Bacitracin Zinc and Hydrocortisone#Neomycin and Polymyxin B Sulfates, Bacitracin Zinc, and Hydrocortisone#Neomycin, Polymyxin B Sulfates and Hydrocortisone#Neosporin Eczema Essentials Anti Itch#Novacort#Nu-derm Tolereen Anti-pruritic#Nucort#Odan-spor-HC#Olp Hydrocortisone 1%#Ophthocort Ont#Otizol HC Liq#Our Family Hydrocortisone With Aloe#Pandel#Pediaderm HC#Pentamycetin/hc#Piyanping Antiitch#Poison Oak#Poli-A#Post Peel Protectant Vitality Institute#Post Treatment Balm#Pramcort#Pramosone#Pramosone Cream#Pramosone E#Pramosone E Cream 2.5% Hydrocortisone Acetate 2.5% Pramoxine Hydrochloride 1%#Pramox HC Cream#Pramox HC Lotion#Pramoxine-HC#Premier Value Hydrocortisone#Premier Value Hydrocortisone Plus 12 Moisturizers#Preparation H Hydrocortisone#Proactiv Solution Anti-itch Scalp#Procort#Procto-med HC#Procto-pak#Proctocort#Proctocream HC#Proctodan-HC Ointment#Proctodan-HC Suppositories#Proctofoam HC#Proctol Ointment#Proctol Suppositories#Proctosedyl Ointment#Proctosedyl Sup#Proctosedyl Suppositories#Proctosol-HC#Proctosone Ont#Proctosone Sup#Proctozone HC#Proctozone-HC#Procure#Procure Hydrocortisone Plus Calendula#Psoriasin Itch Control#Publix Hydro#Publix Hydro Plus#Quadrydern#Quality Choice Anti Itch With Aloe#Quality Choice Hydrocortisone#Quality Choice Hydrocortisone Maximum Strength#Quality Choice Maximum Strength Anti Itch#Ratio-hemcort-HC#Ratio-proctosone#Rectacort - HC#Rectocort Ont#Rectocort Sup#Rectogel HC#Regular Strength Hydrocortisone Cream#Rexall Anti Itch Maximum Strength Relief#Rexall Hydrocortisone 1#Rexall Hydrocortisone Plus Moisturizers#Rite Aid Anti-itch#Riva-sol HC Ointment#Rivasol-HC Suppositories#Rodan and Fields Soothe#Rugby Hydroskin#Safeway Hydrocortisone Plus 12 Moisturizers#Sandoz Anuzinc HC#Sandoz Anuzinc HC Plus#Sandoz Anuzinc HC Plus Suppositories#Sandoz Anuzinc HC Suppositories#Sandoz Cortimyxin#Sandoz Proctomyxin HC#Sandoz Proctomyxin HC Suppositories#Sarna HC#Scalpicin Anti-itch Maximum Strength#Scalpicin Maximum Strength#Scalpicin Scalp Itch Medication Maximum Strength#Scarguard Md#Scarguard Md Physicians Formula#Schein Hydrocortisone#Selsun Blue Scalp Itch Treatment#Shopko Hydrocortisone#Shopko Hydrocortisone Intensive Healing Formula#Shopko Hydrocortisone Maximum Strength#Shopko Hydrocortisone Plus 12 Moisturizers Maximum Strength#Shopko Hydrocortisone With Aloe#Shopko Maximum Strength#Shoprite Hydrocortisone#Signature Care Anti Itch#Signature Care Hydrocortisone#Smart Sense Anti Itch#Smart Sense Anti Itch Maximum Strength#Smart Sense Hydrocortisone#Solu-cortef#Solu-cortef 1 Gm Act-O-vial#Solu-cortef 100 Mg Act-O-vial#Solu-cortef 250 Mg Act-O-vial#Solu-cortef 500 Mg Act-O-vial#Soothe Rodan Fields#Sopamycetin/hc Ointment#Sopamycetin/hc Ont#Sopamycetin/hc Susp#Sterex Crm Plus#Sterex Lot Plus#Sunmark Hydrocortisone#Sunmark Hydrocortisone Plus 12 Moisturizers#Sunmark Hydrocortisone With Aloe Maximum Strength#Tecnu Corticool#Texacort#Texacort Solution 1%#Thera Plus#Ti-U-lac HC Lotion#Topcare Hydrocortisone#Topcare Hydrocortisone 1% With Aloe#Topcare Hydrocortisone Intensive Healing Formula#Topcare Hydrocortisone Plus 12 Moisturizers#Topiderm HC 2%#Triple Antibiotic HC#Truelipids Anti-itch Barrier#Up and Up Anti Itch#Up and Up Anti Itch Maximum Strength#Up and Up Hydrocortisone#Up and Up Hydrocortisone One Per Cent#Uremol HC#Vagisil Anti-itch Creme Maximum Strength Sensitive Skin Formula#Vagisil Satin#Vanicream HC Anti-itch#Vanoxide HC#Vioform + Hydrocortisone#Vioform Hydrocortisone#Vioform Hydrocortisone Mild#Vosol HC#Vytone#Walgreens Hydrocortisone Plus 12 Moisturizers#Westcort#Westcort Crm 0.2%#Westcort Ont 0.2%#Western Family Hydrocortisone#Western Family Hydrocortisone Plus 12 Moisturizers#Winco Maximum Strength Hydrocortisone#Xerese#Yes To Coconut Eczema Relief#Zims Advanced Crack Creme With Hydrocortisone#Zims Advanced Hydrocortisone Continuous With Organic Arnica and Aloe#Acticort#Aeroseb HC#Ala-Scalp#Algicirtis#Aquanil HC#Beta-HC#Cetacort#Cortaid#Delacort#Ficortril#Genacort#Glycort#Komed HC#Lacticare HC#Lubricort#Medicort#Meusicort#Micort-HC#Mildison#Nogenic HC#Nutracort#Nystaform-HC#Otocort#Penecort#Permicort#Polcort H#Preparation H Hydrocortisone Cream#Prepcort#Prevex HC#Proctocort#Proctocream#Protocort#Remederm HC#Sanatison#Scalpicin Capilar#Schericur#Sigmacort#Synacort#Systral Hydrocort#Timocort
-
->  <DrugBank ID>  (1) 
-DB00741
-
->  <ATC Codes>  (1) 
-S03CA04#S01CB03#S01CA03#S02BA01#S02CA03#D07AB02#D07AA02#D07BB04#C05AA01#D07AC16#D07CA01#S01BA02#S01BB01#A01AC03#D07BA04#D07XA01#H02AB09#A07EA02#R01AD60
-
->  <Ligand ID>  (1) 
-HCY
-
->  <Target Name>  (1) 
-Glucocorticoid receptor
-
->  <UniProt ID>  (1) 
-P04150
-
->  <PDB ID.1>  (1) 
-4P6X
-
->  <Seq. Identity>  (1) 
-97%
-
 $$$$

@@ -1,0 +1,77 @@
+PDB_DB00819_82
+     RDKit          3D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+   -5.1340    2.1990   15.9600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7810    4.3180   14.5450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0810    5.9690   13.2980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0920    7.0070   12.1240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.3670   -0.4460   16.5460 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.7310    3.4610   14.8540 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8100    2.3000   15.6230 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9530    5.5040   13.8440 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5460    1.1270   18.3740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.3980    1.1650   16.8250 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2150    5.6130   13.6650 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9610    0.9490   16.9910 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0580    3.4610   15.2370 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1028    8.0268   12.5363 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1924    6.8709   11.5058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.9886    6.8519   11.5058 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1308   -1.0007   17.3811 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0653   -0.9528   15.9834 H   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1155    6.0930   13.7318 H   0  0  0  0  0  0  0  0  0  0  0  0
+  3  4  1  0
+  2  6  2  0
+  1  7  2  0
+  6  7  1  0
+  2  8  1  0
+  3  8  1  0
+  3 11  2  0
+  1 12  1  0
+  5 12  1  0
+  9 12  2  0
+ 10 12  2  0
+  1 13  1  0
+  2 13  1  0
+  4 14  1  0
+  4 15  1  0
+  4 16  1  0
+  5 17  1  0
+  5 18  1  0
+  8 19  1  0
+M  END
+>  <PDBID>  (1) 
+1ZSB
+
+>  <PDB ID>  (1) 
+1ZSB
+
+>  <Generic Name>  (1) 
+Acetazolamide
+
+>  <Brand Name>  (1) 
+Acetazolam#Acetazolamide#Acetazolamide for Injection, USP#Diamox IV 500mg#Diamox Pws 500mg/vial#Diamox Sequels#Diamox Src 500mg#Diamox Tab 250mg#Diamox Tablets 250mg#Novo-zolamide Tab 250mg#Acemit#Acemox#Acetak#Acetamide#Acetazolamax#Azm#Azol#Azomid#Carbinib#Defiltran#Diabo#Diacarb#Diamox#Diamox Depot#Diazomid#Diluran#Diuramid#Défiltran#Edemox#Glaumox#Glaupax#Glupax#Huma-Zolamide#Iopar-SR#Medene#Oculten#Uramox#Zolmide#Ödemin
+
+>  <DrugBank ID>  (1) 
+DB00819
+
+>  <ATC Codes>  (1) 
+S01EC01
+
+>  <Ligand ID>  (1) 
+AZM
+
+>  <Target Name>  (1) 
+Carbonic anhydrase 3
+
+>  <UniProt ID>  (1) 
+P07451
+
+>  <PDB ID.1>  (1) 
+1ZSB
+
+>  <Seq. Identity>  (1) 
+59%
+
+$$$$

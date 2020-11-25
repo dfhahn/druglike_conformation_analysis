@@ -1,203 +1,72 @@
 PDB_DB01050_98
      RDKit          3D
 
- 82 82  0  0  0  0  0  0  0  0999 V2000
-   10.8260   20.9330   25.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.1010   25.7810   24.6650 C   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3910   24.9880   24.6650 C   0  0  1  0  0  0  0  0  0  0  0  0
-   16.4720   24.1460   23.3930 C   0  0  0  0  0  0  0  0  0  0  0  0
-   17.5360   25.9900   24.7610 C   0  0  0  0  0  0  0  0  0  0  0  0
-   10.4550   22.3950   25.6280 C   0  0  1  0  0  0  0  0  0  0  0  0
-    9.6190   22.9390   26.7690 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.6770   23.2720   25.4200 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.0390   23.6290   24.1260 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.1480   24.4270   23.8740 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.9000   24.8930   24.9440 C   0  0  0  0  0  0  0  0  0  0  0  0
-   13.5540   24.5470   26.2460 C   0  0  0  0  0  0  0  0  0  0  0  0
-   12.4380   23.7380   26.4980 C   0  0  0  0  0  0  0  0  0  0  0  0
-   11.2370   20.5720   27.0170 O   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7290   20.0580   24.9500 O   0  0  0  0  0  0  0  0  0  0  0  0
-   16.7860   12.7470   67.1980 C   0  0  0  0  0  0  0  0  0  0  0  0
-   22.2020   16.2470   68.5650 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.6170   17.6480   68.6470 C   0  0  1  0  0  0  0  0  0  0  0  0
-   20.8570   17.8130   69.9640 C   0  0  0  0  0  0  0  0  0  0  0  0
-   22.7630   18.6450   68.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
-   18.1420   12.1640   67.5260 C   0  0  1  0  0  0  0  0  0  0  0  0
-   18.5670   11.1080   66.5250 C   0  0  0  0  0  0  0  0  0  0  0  0
-   19.1910   13.2400   67.7370 C   0  0  0  0  0  0  0  0  0  0  0  0
-   19.6020   13.5080   69.0340 C   0  0  0  0  0  0  0  0  0  0  0  0
-   20.5610   14.4660   69.3180 C   0  0  0  0  0  0  0  0  0  0  0  0
-   21.1350   15.1900   68.2720 C   0  0  0  0  0  0  0  0  0  0  0  0
-   20.7360   14.9100   66.9770 C   0  0  0  0  0  0  0  0  0  0  0  0
-   19.7670   13.9470   66.6820 C   0  0  0  0  0  0  0  0  0  0  0  0
-   15.8440   12.7460   68.0770 O   0  0  0  0  0  0  0  0  0  0  0  0
-   16.6250   13.2390   66.0380 O   0  0  0  0  0  0  0  0  0  0  0  0
-   11.8612   21.1432   25.5711 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.1591   26.5577   25.4418 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.9731   26.2309   23.6694 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4439   24.2923   25.5154 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.5741   23.0843   23.6620 H   0  0  0  0  0  0  0  0  0  0  0  0
-   15.5561   24.2877   22.8005 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.3441   24.4597   22.8005 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.7622   26.1880   25.8191 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.4274   25.5766   24.2666 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.2445   26.9284   24.2666 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.8647   22.4185   24.7001 H   0  0  0  0  0  0  0  0  0  0  0  0
-   10.0712   22.6448   27.7276 H   0  0  0  0  0  0  0  0  0  0  0  0
-    9.5794   24.0363   26.7038 H   0  0  0  0  0  0  0  0  0  0  0  0
-    8.5996   22.5308   26.7038 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.3091   22.3745   25.3492 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.2035   22.6885   23.5797 H   0  0  0  0  0  0  0  0  0  0  0  0
-   11.2066   24.2797   23.8200 H   0  0  0  0  0  0  0  0  0  0  0  0
-   13.8259   23.8436   23.2336 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.7208   25.3405   23.4346 H   0  0  0  0  0  0  0  0  0  0  0  0
-   13.2569   25.7831   25.0084 H   0  0  0  0  0  0  0  0  0  0  0  0
-   14.4230   24.0260   26.6743 H   0  0  0  0  0  0  0  0  0  0  0  0
-   13.2626   25.5116   26.6872 H   0  0  0  0  0  0  0  0  0  0  0  0
-   11.7608   24.3162   27.1438 H   0  0  0  0  0  0  0  0  0  0  0  0
-   12.8695   22.8228   26.9296 H   0  0  0  0  0  0  0  0  0  0  0  0
-   10.7122   21.0330   27.7186 H   0  0  0  0  0  0  0  0  0  0  0  0
-   10.6294   19.1592   25.3530 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.4504   11.7635   66.8372 H   0  0  0  0  0  0  0  0  0  0  0  0
-   22.9534   16.2236   67.7620 H   0  0  0  0  0  0  0  0  0  0  0  0
-   22.6509   16.0114   69.5412 H   0  0  0  0  0  0  0  0  0  0  0  0
-   20.9465   17.8122   67.7906 H   0  0  0  0  0  0  0  0  0  0  0  0
-   21.5475   17.6631   70.8071 H   0  0  0  0  0  0  0  0  0  0  0  0
-   20.4290   18.8250   70.0161 H   0  0  0  0  0  0  0  0  0  0  0  0
-   20.0479   17.0696   70.0161 H   0  0  0  0  0  0  0  0  0  0  0  0
-   23.0293   18.8767   69.7088 H   0  0  0  0  0  0  0  0  0  0  0  0
-   23.6343   18.2125   68.1533 H   0  0  0  0  0  0  0  0  0  0  0  0
-   22.4553   19.5677   68.1533 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.0442   11.6441   68.4904 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.9255   10.2172   67.0617 H   0  0  0  0  0  0  0  0  0  0  0  0
-   17.7088   10.8349   65.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
-   19.3752   11.5056   65.8935 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.3970   13.9953   67.8325 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.6988   13.8031   69.5881 H   0  0  0  0  0  0  0  0  0  0  0  0
-   20.1184   12.5765   69.3091 H   0  0  0  0  0  0  0  0  0  0  0  0
-   20.0941   15.1963   69.9952 H   0  0  0  0  0  0  0  0  0  0  0  0
-   21.4010   13.8815   69.7215 H   0  0  0  0  0  0  0  0  0  0  0  0
-   21.9196   14.4254   68.1733 H   0  0  0  0  0  0  0  0  0  0  0  0
-   20.3622   15.8571   66.5608 H   0  0  0  0  0  0  0  0  0  0  0  0
-   21.6435   14.4538   66.5548 H   0  0  0  0  0  0  0  0  0  0  0  0
-   20.2348   13.2093   66.0134 H   0  0  0  0  0  0  0  0  0  0  0  0
-   18.9330   14.5245   66.2567 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.2395   12.7464   68.9846 H   0  0  0  0  0  0  0  0  0  0  0  0
-   16.3181   14.1769   66.1170 H   0  0  0  0  0  0  0  0  0  0  0  0
+ 33 33  0  0  0  0  0  0  0  0999 V2000
+   67.8860   20.5510  192.8670 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.4730   23.2850  186.8590 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.6080   24.7810  187.1740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.0590   25.6130  186.0180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   70.0540   25.1580  187.4230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   67.8520   19.7210  191.5940 C   0  0  1  0  0  0  0  0  0  0  0  0
+   66.6010   18.8480  191.5410 C   0  0  0  0  0  0  0  0  0  0  0  0
+   67.9910   20.6630  190.3750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.2290   20.7770  189.7060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.3800   21.6200  188.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+   68.2960   22.3850  188.0740 C   0  0  0  0  0  0  0  0  0  0  0  0
+   67.0590   22.2730  188.7420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   66.9070   21.4290  189.8700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   69.0560   20.6220  193.4310 O   0  0  0  0  0  0  0  0  0  0  0  0
+   66.9010   21.0950  193.3460 O   0  0  0  0  0  0  0  0  0  0  0  0
+   67.5985   23.1515  186.2052 H   0  0  0  0  0  0  0  0  0  0  0  0
+   69.4204   22.9833  186.3884 H   0  0  0  0  0  0  0  0  0  0  0  0
+   68.0288   24.9876  188.0861 H   0  0  0  0  0  0  0  0  0  0  0  0
+   67.4945   26.4684  186.4176 H   0  0  0  0  0  0  0  0  0  0  0  0
+   68.8931   25.9797  185.4017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   67.3938   24.9904  185.4017 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.2390   25.2062  188.5063 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.7130   24.4017  186.9718 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.2599   26.1398  186.9718 H   0  0  0  0  0  0  0  0  0  0  0  0
+   68.7007   19.0214  191.5764 H   0  0  0  0  0  0  0  0  0  0  0  0
+   66.2710   18.6177  192.5647 H   0  0  0  0  0  0  0  0  0  0  0  0
+   65.8013   19.3851  191.0100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   66.8292   17.9121  191.0100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.0926   20.1993  190.0672 H   0  0  0  0  0  0  0  0  0  0  0  0
+   70.3601   21.6844  188.0848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   66.1961   22.8516  188.3806 H   0  0  0  0  0  0  0  0  0  0  0  0
+   65.9271   21.3657  190.3658 H   0  0  0  0  0  0  0  0  0  0  0  0
+   69.1725   21.1418  194.2654 H   0  0  0  0  0  0  0  0  0  0  0  0
   2  3  1  0
   3  4  1  0
   3  5  1  0
   1  6  1  0
   6  7  1  0
   6  8  1  0
-  8  9  1  0
+  8  9  2  0
   9 10  1  0
   2 11  1  0
- 10 11  1  0
+ 10 11  2  0
  11 12  1  0
   8 13  1  0
- 12 13  1  0
+ 12 13  2  0
   1 14  1  0
-  1 15  1  0
- 17 18  1  0
- 18 19  1  0
- 18 20  1  0
- 16 21  1  0
- 21 22  1  0
- 21 23  1  0
- 23 24  1  0
- 24 25  1  0
- 17 26  1  0
- 25 26  1  0
- 26 27  1  0
- 23 28  1  0
- 27 28  1  0
- 16 29  1  0
- 16 30  1  0
-  1 31  1  0
-  2 32  1  0
-  2 33  1  0
-  3 34  1  1
-  4 35  1  0
-  4 36  1  0
-  4 37  1  0
-  5 38  1  0
-  5 39  1  0
-  5 40  1  0
-  6 41  1  6
-  7 42  1  0
-  7 43  1  0
-  7 44  1  0
-  8 45  1  0
-  9 46  1  0
-  9 47  1  0
- 10 48  1  0
- 10 49  1  0
- 11 50  1  0
- 12 51  1  0
- 12 52  1  0
- 13 53  1  0
- 13 54  1  0
- 14 55  1  0
- 15 56  1  0
- 16 57  1  0
- 17 58  1  0
- 17 59  1  0
- 18 60  1  6
- 19 61  1  0
- 19 62  1  0
- 19 63  1  0
- 20 64  1  0
- 20 65  1  0
- 20 66  1  0
- 21 67  1  1
- 22 68  1  0
- 22 69  1  0
- 22 70  1  0
- 23 71  1  0
- 24 72  1  0
- 24 73  1  0
- 25 74  1  0
- 25 75  1  0
- 26 76  1  0
- 27 77  1  0
- 27 78  1  0
- 28 79  1  0
- 28 80  1  0
- 29 81  1  0
- 30 82  1  0
+  1 15  2  0
+  2 16  1  0
+  2 17  1  0
+  3 18  1  0
+  4 19  1  0
+  4 20  1  0
+  4 21  1  0
+  5 22  1  0
+  5 23  1  0
+  5 24  1  0
+  6 25  1  1
+  7 26  1  0
+  7 27  1  0
+  7 28  1  0
+  9 29  1  0
+ 10 30  1  0
+ 12 31  1  0
+ 13 32  1  0
+ 14 33  1  0
 M  END
->  <PDBID>  (1) 
-4PH9
-
->  <PDB ID>  (1) 
-4PH9
-
->  <Generic Name>  (1) 
-Ibuprofen
-
->  <Brand Name>  (1) 
-10 Person Ansi#25 Person Ansi#50 Person Ansi#7 Select Childrens Ibuprofen#7 Select Ibuprofen#7 Select Ibuprofen PM#7-select Advil PM#Actiprofen - Caplet 200mg#Advil#Advil 12 Hour#Advil Allergy Sinus#Advil Allergy and Congestion Relief#Advil Arthritis Pain#Advil Back Pain#Advil Caplets#Advil Cold & Flu#Advil Cold & Sinus Convenience Pack#Advil Cold & Sinus Liqui-gels#Advil Cold & Sinus PE#Advil Cold and Sinus#Advil Cold and Sinus Daytime#Advil Cold and Sinus Nighttime#Advil Cold and Sinus Plus#Advil Cold, Cough & Flu Nighttime#Advil Congestion Relief#Advil Day/night Convenience Pack#Advil Extra Strength Caplets#Advil Extra Strength Liqui-gels#Advil Gel Caplets#Advil Headache & Migraine Pain Caplets#Advil Headache & Migraine Pain Extra Strength Caplets#Advil Headache & Migraine Pain Tablets#Advil Liqui-gels#Advil Liquigels#Advil Menstrual Pain#Advil Migraine#Advil Muscle and Joint#Advil Nighttime#Advil PM#Advil Pain & Head Cold Night#Advil Pediatric Drops#Advil Pediatric Drops Fever From Colds Or Flu#Advil Sinus Congestion and Pain#Advil Sinus Congestion and Pain Relief#Advil Tablets#Alivio#Alti-ibuprofen Tab 300mg#Alti-ibuprofen Tab 400mg#Alti-ibuprofen Tab 600mg#Analgesic and Muscle Relaxant#Analgesic and Muscle Relaxant Caplets#Apo Ibuprofen Tab 300mg#Apo Ibuprofen Tab 400mg#Apo Ibuprofen Tab 600mg#Apo-ibuprofen Tab 200mg#Aprofen Regular Strength#Army and Airforce Exchange Ibuprofen PM#Assured Ibuprofen#Auto 157#Axum#Babies R Us Ibuprofen#Babies R Us Infants Ibuprofen#Being Well Ibuprofen#Berkley and Jensen Childrens Ibuprofen#Berkley and Jensen Ibuprofen#Berkley and Jensen Ibuprofen Childrens Dye Free#Berkley and Jensen Ibuprofen PM#Caldolor#Care One Ibuprofen#Care One Ibuprofen Childrens#Care One Ibuprofen Cold and Sinus#Care One Ibuprofen Ib#Care One Ibuprofen Infants#Care One Ibuprofen Junior Strength#Care One Ibuprofen PM#Careall Ibuprofen#Careone Ibuprofen#Careone Ibuprofen Junior Strength#Careone Ibuprofen PM#Cedaprin#Children's Advil#Children's Advil Chewable Tablets#Children's Advil Cold#Children's Advil Cold & Flu Multi-symptom#Children's Advil Fever From Colds Or Flu#Children's Europrofen#Children's Ibuprofen Suspension#Children's Motrin#Children's Motrin Chewable Tablet 50mg#Children's Motrin Chewable Tablets#Children's Motrin Cold#Children's Motrin Suspension#Childrens Advil#Childrens Advil Cold#Childrens Ibuprofen#Childrens Ibuprofen 100#Childrens Ibuprofen 100 Dye Free#Childrens Ibuprofen Oral Suspension#Childrens Motrin#Circle K Ibuprofen#Clear Choice Ibuprofen#Codofen#Cold & Sinus Relief Capsules#Cold + Sinus#Cold + Sinus Caplets#Cold + Sinus Daytime#Cold + Sinus Daytime Cold + Sinus Nighttime#Cold + Sinus Nighttime#Cold + Sinus Plus#Cold and Sinus Pain Relief#Cold and Sinus Plus#Cold and Sinus Relief#Comfort Pac With Ibuprofen#Concentrated Ibuprofen#Congestion Relief#Counteract Ib#Cvs Ibuprofen Sodium#Cvs Pharmacy Ibuprofen#Dg Health Childrens Ibuprofen#Dg Health Ibuprofen#Dg Health Ibuprofen PM#Dimetapp Cold and Sinus Caplets#Direct Safety Ibuprofen#Dolex#Dover Addaprin#Dragon Tabs#Dristan Sinus Caplets#Duexis#Dye Free Childrens Ibuprofen#Dye Free Ibuprofen#Easy Care First Aid Kit - Comprehensive#Equaline Childrens Ibuprofen#Equaline Congestion Relief#Equaline Ibuprofen#Equaline Ibuprofen Childrens#Equaline Ibuprofen Cold and Sinus#Equaline Ibuprofen PM#Equate Ibuprofen#Equate Ibuprofen Childrens#Equate Ibuprofen Cold and Sinus#Equate Ibuprofen PM#Extra Strength Ibuprofen#Extra Strength Ibuprofen Liquid Capsules#Extra Strength Ibuprofen Liquid Filled Capsules#Extra Strength Ibuprofen Liquid Gel Capsules#Family Wellness Childrens Ibuprofen#Fast Pain Relief#Flex-prin#Formu Care Ibuprofen#Formu Care Ibuprofen Childrens#Fulton Street Market Ibuprofen#Genuine First Aid - Auto First Aid#Genuine First Aid - Home First Aid#Genuine First Aid Industrial First Aid#Gfa First Aid Kit Essentials - 33 Pieces#Good Neighbor Pharmacy Childrens Ibuprofen#Good Neighbor Pharmacy Childrens Ibuprofen Cold#Good Neighbor Pharmacy Congestion Relief#Good Neighbor Pharmacy Ibuprofen#Good Neighbor Pharmacy Ibuprofen Childrens#Good Neighbor Pharmacy Ibuprofen Cold and Sinus#Good Neighbor Pharmacy Ibuprofen PM#Good Sense Childrens Ibuprofen Oral Suspension#Good Sense Ibuprofen#Good Sense Ibuprofen Childrens#Good Sense Ibuprofen Cold and Sinus#Good Sense Ibuprofen Infants#Good Sense Ibuprofen PM#Good Sense Infants Ibuprofen#Green Guard Ibupro Relief#Green Guard Ibuprofen Relief#Handy Solutions Ibuprofen#Harmon Face Values Ibuprofen#Harris Teeter Childrens Ibuprofen#Harris Teeter Ibuprofen#Harris Teeter Ibuprofen Infants#Harris Teeter Ibuprofen PM#Health Mart Childrens Ibuprofen#Health Mart Ibuprofen#Health Mart Ibuprofen Ib#Health Sense Infants Ibuprofen Oral Suspension#Health Sense Provil#Healthy Accents Congestion Relief#Healthy Accents Ibuprofen#Healthy Accents Ibuprofen Childrens#Healthy Accents Ibuprofen Infants#Healthy Accents Ibuprofen PM#Help I Have An Aching Body#Henry Schein Ibuprofen#Humana Pharmacy Childrens Ibuprofen#Humana Pharmacy Ibuprofen#Hydrocodone Bitartrate#Hydrocodone Bitartrate and Ibuprofen#Ibu#Ibu Profen Cold and Sinus#Ibucodone#Ibudone#Ibuprofen#Ibuprofen  -  Tab 200mg#Ibuprofen (nsaid) Pain Releiver/ Fever Reducer#Ibuprofen + Pseudoephedrine Caplets#Ibuprofen 200#Ibuprofen 200 mg#Ibuprofen Caplet#Ibuprofen Caplets#Ibuprofen Caplets 200 mg#Ibuprofen Capsules, 200mg#Ibuprofen Capsules, 400mg#Ibuprofen Childrens#Ibuprofen Cold Childrens#Ibuprofen Cold Relief Childrens#Ibuprofen Cold and Sinus#Ibuprofen Cold and Sinus A P J#Ibuprofen Daytime#Ibuprofen Daytime, Ibuprofen Nighttime#Ibuprofen Dye Free#Ibuprofen Dye-free#Ibuprofen Extra Strength Caplets#Ibuprofen Fast Relief Medicine for Pain#Ibuprofen Ib#Ibuprofen Immediate Release#Ibuprofen Infants#Ibuprofen Junior#Ibuprofen Junior Strength#Ibuprofen Liqui-gels#Ibuprofen Liquid Capsules#Ibuprofen Liquid Filled Capsules#Ibuprofen Liquid Gel Capsules#Ibuprofen Lysine#Ibuprofen Menstrual Pain Relief#Ibuprofen Muscle and Joint#Ibuprofen Nighttime#Ibuprofen Oral Suspension USP#Ibuprofen PM#Ibuprofen Pain Releiver/ Fever Reducer#Ibuprofen Pain Reliever/ Fever Reducer#Ibuprofen Pain Reliever/fever Reducer#Ibuprofen Sodium#Ibuprofen Softgels#Ibuprofen Tab 200mg#Ibuprofen Tab 300mg#Ibuprofen Tab 400mg#Ibuprofen Tablets#Ibuprofen Tablets 200 mg#Ibuprofen and Diphenhydramine Citrate#Ibuprofen and Diphenhydramine HCl#Ibuprofen and Pseudoephedrine#Ibuprofen and Pseudoephedrine Hydrochloride#Ibuprofen+methocarbamol Caplets#Ibuprofen-600 Tab 600mg#Ibutab#Infant's Motrin Suspension Drops#Infants Advil#Infants Dye-free Ibuprofen#Infants Ibuprofen#Infants Motrin#Jamp-ibuprofen#Junior Strength Advil#Junior Strength Advil Fever From Colds Or Flu#Junior Strength Ibuprofen#Junior Strength Motrin Caplets#Junior Strength Motrin Chewable Tablet 100mg#Junior Strength Motrin Chewable Tablets#Kirkland Signature Ibuprofen#Kirkland Signature Ibuprofen Ib#Leader Childrens Ibuprofen#Leader Congestion Relief#Leader Ibuprofen#Leader Ibuprofen 200#Leader Ibuprofen Childrens#Leader Ibuprofen Cold Childrens#Leader Ibuprofen Cold and Sinus#Leader Ibuprofen Infants#Leader Ibuprofen PM#Lil Drug Store Ibuprofen#Major Childrens Ibuprofen#Medi-first Ibuprofen#Medi-first Plus Ibuprofen#Medipren Tab 200mg#Medique I-prin#Medique Iprin#Members Mark Ibuprofen#Midol#Moore Medical Llc Ibuprofen#Moorebrand Ibuprofen#Motrin 200mg#Motrin 300mg#Motrin 400mg#Motrin Caplet#Motrin Cold & Sinus Caplets#Motrin Cold & Sinus Pain#Motrin Gelcaps#Motrin Ib#Motrin Ib Caplet/tab 200mg#Motrin Ib Caplets 200mg#Motrin Ib Menstrual Pain#Motrin Infants#Motrin Liquid Gels 200mg#Motrin PM#Motrin Platinum Muscle and Body#Motrin Tablets 300mg#Motrin Tablets 400mg#Motrin Tablets 600mg#Mountain Series Weekender Medical#Muscle & Back Pain Relief With Ibuprofen#Muscle & Joint#Muscle Relaxant and Analgesic Caplets#Muscle and Back Pain Platinum Relief#Neoprofen#Nighttime Cold, Cough & Flu#Nighttime Pain Relief#Nighttime Pain Reliever#Novo-profen#Nu-ibuprofen Tab 300mg#Nu-ibuprofen Tab 400mg#Nu-ibuprofen Tab 600mg#Nuprin Immediate Release#Otis Clapp Ultraprin#Oxycodone Hydrochloride and Ibuprofen#PMS-ibuprofen#PMS-ibuprofen           (caplets)#Pain Relief#Pain Relief Anti Inflammatory#Pain Relief Ibuprofen#Pamprin Ibuprofen Formula#Pediacare Childrens#Pediacare Infants#Pendo-ibuprofen#Pendo-ibuprofen     (200mg Caplet)#Pendo-ibuprofen Es#Perrigo Ibuprofen#Physicians Care Ibuprofen#Physicianscare Ibuprofen#Platinum Muscle and Back Pain Relief#Prastera#Preferred Plus Congestion Relief#Preferred Plus Ibuprofen#Preferred Plus Ibuprofen 200#Premier Value Infants Ibuprofen#Probufen#Profen Ib#Profen Ib Childrens#Profen Ib Infants#Proprinal#Quality Choice Ibuprofen 200#Ready America First Aid Outdoor- 107 Pieces#Ready America First Aid Pocket - 33 Pieces#Redicare Ibuprofen#Regular Ibuprofen#Regular Strength Analgesic & Muscle Relaxant Caplets#Reprexain#Rexall Ibuprofen#Robax Platinum#Rugby Congestion Relief#Rx Act Ibuprofen#Rx Act Ibuprofen Childrens#Rx Act Ibuprofen PM#Shoprite Childrens Ibuprofen#Shoprite Ibuprofen#Shoprite Ibuprofen Ib#Shoprite Ibuprofen PM#Shoprite Infants Ibuprofen#Signature Care Childrens Ibuprofen#Signature Care Ibuprofen#Signature Care Ibuprofen Childrens#Signature Care Ibuprofen PM#Signature Care Infants Ibuprofen#Simply Right Ibuprofen#Smart Sense Ibuprofen#Smart Sense Ibuprofen Gluten Free#Smart Sense Ibuprofen Infants#Smart Sense Ibuprofen PM#Sound Body Childrens Ibuprofen#Sound Body Ibuprofen#Sudafed Sinus Advance#Summit Ultra#Sunmark Ibuprofen#Sunmark Ibuprofen Childrens#Sunmark Ibuprofen Cold and Sinus#Sunmark Ibuprofen Ib#Sunmark Ibuprofen Infants#Sunmark Ibuprofen PM#Super Strength Motrin Ib Liquid Gels#Super Strength Motrin Ib Liquid Gels Capsules#Super Strength Motrin Ib Menstrual Pain#Theraprofen-60#Theraprofen-800#Theraprofen-90#Topcare Childrens Ibuprofen#Topcare Congestion Relief#Topcare Ibuprofen#Topcare Ibuprofen Childrens#Topcare Ibuprofen Cold and Sinus#Topcare Ibuprofen Junior Strength#Topcare Ibuprofen PM#Topcare Infants Ibuprofen#Up and Up Childrens Ibuprofen#Up and Up Childrens Ibuprofen Oral Suspension#Up and Up Cold and Sinus#Up and Up Dye Free Infants Concentrated Ibuprofen#Up and Up Ibuprofen#Up and Up Ibuprofen Junior#Up and Up Ibuprofen PM#Up and Up Ibuprofen Sodium#Up and Up Junior Strength Ibuprofen#Vicks Dayquil Sinus Pr.and Pain ReL.W.ibupr.#Vicoprofen#Wal Profen Cold and Sinus#Welby Health Ibuprofen#Welby Ibuprofen#Welby Infants Ibuprofen#Xylon 10#Zee Ibutab#Act-3#Actiprofen#Adex#Adran#Aktren#Alges-X#Algoflex#Algofren#Alivium#Artofen#Betagesic#Betaprofen#Bluton#Bonifen#Brufen#Buburone#Bugesic#Buprovil#Burana#Butylenin#Calprofen#Cap-Profen#Children's Elixsure#Children's Ibuprofen#Dalsy#Dismenol#Diverin#Dolgirid#Dolgit#Dolofort#Doloraz#Dolormin#Dorival#Ebufac#EmuProfen#Epobron#Espidifen#Eve#Femadon#Fenbid#Fenpaed#Finalflex#Galprofen#Haltran#Herron Blue#IBU-Ratiopharm#Ibalgin#Ibu-Attritin#Ibu-Vivimed#IbuHEXAL#Ibuflam#Ibugel#Ibugesic#Ibuleve#Ibum#Ibumax#Ibumetin#Ibumidol#Ibupain#Ibuprocin#Ibuprom#Ibuprosyn#Ibuprox#Ibustar#Ibutid#Ibux#Ibuxin#Inabrin#Inoven#Ipren#Junior Strength Motrin#Kratalgin#Lamidon#Lebrufen#Liptan#Lotem#Medicol#Medipren#Midol IB#Motrin#Mynosedin#Mypaid#Myprodol#Narfen#Naron Ace#Neobrufen#Nobfen#Nobgen#Norvectan#Nuprin#Nureflex#Nurofen#Orbifen#Panafen#Pediaprofen#Perifar#Profin#Ranfen#Rapidol#Ratiodolor#Rimafen#Roidenin#Rufen#Salvarina#Seclodin#Solpaflex#Speedpain NANO#Spidifen#Suspren#Tabalon#Tefin#Trendar#Unafen#Upfen#Urem#i-profen
-
->  <DrugBank ID>  (1) 
-DB01050
-
->  <ATC Codes>  (1) 
-M02AA13#R02AX02#C01EB16#M01AE51#M01AE01#G02CC01
-
->  <Ligand ID>  (1) 
-IBP,IZP
-
->  <Target Name>  (1) 
-Prostaglandin G/H synthase 1
-
->  <UniProt ID>  (1) 
-P23219
-
->  <PDB ID.1>  (1) 
-4PH9
-
->  <Seq. Identity>  (1) 
-62%
-
 $$$$

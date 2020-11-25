@@ -1,0 +1,105 @@
+PDB_DB00640_99
+     RDKit          3D
+
+ 32 34  0  0  0  0  0  0  0  0999 V2000
+  -29.2330   10.5700  -26.0220 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.4640   11.8130  -25.3530 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.7040   11.5740  -23.8670 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -30.6650   10.5270  -23.6910 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.4670   11.1510  -23.0840 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -27.7250   12.2450  -22.5260 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0500   10.2980  -21.9850 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -29.3760   11.1150  -20.8570 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.3120    9.7000  -22.5840 C   0  0  2  0  0  0  0  0  0  0  0  0
+  -30.0220    8.3070  -23.0090 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6630    7.8860  -24.2420 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.4630    6.5420  -24.2560 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6840    6.0870  -23.0110 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.6570    4.7730  -22.3340 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3340    3.6420  -23.0080 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.9680    4.7450  -21.0190 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.2950    5.8540  -20.3270 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.3410    7.0790  -20.8840 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.0530    7.2540  -22.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.0999    9.8540  -25.3513 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.5852   12.4625  -25.4793 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.3524   12.2948  -25.7872 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.0442   12.5462  -23.4810 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7370   10.6424  -23.7309 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -27.7581   12.1962  -21.5378 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -28.3502    9.5240  -21.6369 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1784   10.6199  -20.0228 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -31.1461    9.6621  -21.8679 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.5481    8.5430  -25.1167 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.3210    2.7363  -22.5177 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -29.1016    3.6884  -24.0104 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -30.5353    5.7540  -19.2582 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+  5  7  1  0
+  7  8  1  0
+  4  9  1  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+ 10 19  1  0
+ 13 19  2  0
+ 18 19  1  0
+  1 20  1  0
+  2 21  1  0
+  2 22  1  0
+  3 23  1  1
+  5 24  1  6
+  6 25  1  0
+  7 26  1  1
+  8 27  1  0
+  9 28  1  1
+ 11 29  1  0
+ 15 30  1  0
+ 15 31  1  0
+ 17 32  1  0
+M  END
+>  <PDBID>  (1) 
+2YDO
+
+>  <PDB ID>  (1) 
+2YDO
+
+>  <Generic Name>  (1) 
+Adenosine
+
+>  <Brand Name>  (1) 
+A.H.C. Collagen Cream#A.H.C. Collagen Toner#A.H.c Real Eye for Face#Abalone Aqua Flood Water#Abalone Crystaldouble EX#Abalone Crystaldouble EX Ampoule#Abalone Crystaldouble EX Bb#Abalone Crystaldouble EX Cc#Abalone Crystaldouble EX Homme#Abalone Crystaldouble EX Serum#Absolute Total Bb Spf37 Pa 3plus#Adenocard#Adenocard - Liq Rapid Bolus IV 3mg/ml#Adenocard Injection -pre-filled Syringe#Adenocard Liq IV 3mg/ml#Adenocard Liq IV 3mg/ml (pre-filled Syringe)#Adenoscan#Adenoscan - (for IV Infusion Only)#Adenosine#Adenosine Injection#Adenosine Injection, USP#Advanced Snail 92 All In One Cream#Ahc Collagen Serum#Ahc Complex Choice Egf Booster#Ahc Hydration Special Gen Cream#Ahc Hydration Special Gen Mask#Ahc Hydration Special Gen Serum#Ahc Hydration Special Gen Solution#Ahc Phyto Complex Mask#Ahc Premium Intense Contour Balm#Ahc Revitalizing Special Gen Cream#Ahc Revitalizing Special Gen Mask#Ahc Revitalizing Special Gen Serum#Ahc Revitalizing Special Gen Solution#Ahc Vital C Complex Mask#Ahc Vital Complex C-15 Ampoule#Aj-adenosine#Allvit Revital Up#An Adc Sp F#Antibe Beausenne Special Ampoule#Antibe Super Hydrating Moisturizing Cream#Applicell Essential Toner#Applicell Intensive Serum#Applicell Miracle#Applicell Perfect Eye#Applicell Timeless Ampoule#Aqua Collagen Coenzyme Q10 Hydro Mask#Aqua Collagen Solu Tion Coenzyme Q10 Hydroge L Mask#Atono2 Oxygen Mothers Cream#B.S.c Ampul#Bellaskin Skin-rebirth Contour#Benton Fermentation Eye 10g#Birds Nest Forever Young Multi Care Lifting#Camellia Air Cushion 21 Spf50 Pa#Camellia Air Cushion 22 Spf50 Pa#Camellia Calming Sleeping Mask#Camellia Cc Cream 21 Spf45 Pa#Camellia Cc Cream 22 Spf45 Pa#Camellia Cooling Cc 21 Spf50 Pa#Camellia Cooling Cc 22 Spf50 Pa#Camellia Vital Dual Serum#Camellia Wrinkle Free Eye#Capture Collagen Ampoule#Capture Hyaluronic Ampoule#Caviall Perfect Repair Serum#Caviall Real Caviar Multi-perfection O2 Serum#Caviallcrystal#Centella 70#Centella 80 Eye#Centella 90 Ampoule#Centella Reviving Toner#Centella and Green Tea Callus Mask#Complete Choice Moisture Amploule#Conju Princess Bb#D-one By Tamdoan Bb Light#D-one By Tamdoan Bb Medium#D-one By Tamdoan Sunscreen 50#Dcs Merderm Jeju Lava Seawater#Dcs Merderm Jeju Lava Seawater Ampoule#Dcs Merderm Jeju Lava Seawater Eye#Dcs Merderm Jeju Lava Seawater Toner#Deepair Micro Intensive Magic#Derma Blemish Balm Blemish Balm#Doctorslab Returning Platinum Mask#Dr Deep Aqua Wrinklecream#Dr G Dewrinkle Booster Ample By Egf#Dr G Dewrinkle Fortifier By Egf#Dr G Dewrinkle Reformer By Egf#Dr. Althea Pore-control Charcoal Mask#Dr. Althea Water Glow Aqua Ampoule Mask#Dr. Pepti Centella Toner#Dr. Pepti Intensive#Dr.eslee Triple Action Bb#Dr.g Brightening Up Cushion Spf50 Plus Pa Plus Plus Plus#Drh T Stem Cell#Drh Whitening G2#Edge Cutimal Tiger Anti-wrinkle Mask#Elcure Aout Rose#Elcure Q Serum#Galactomyces 70#Galactomyces 80 Contouring Eye#Galactomyces 90 Ampoule#Galactomyces 95 Whitening Power Essence#Galactomyces First Essence#Galactomyces Radiance Toner#Galactomyces and Rice Callus Mask#Ginseng#Ginseng Berry 80 Eye Essence#Ginseng Berry 80 Overnight Mask#Ginseng Berry and Ginseng Callus Mask#Ginseng Royal Silk 120ml#Ginseng Royal Silk Ampoule 17ml 4ea#Ginseng Royal Silk Boosting Ampoule#Ginseng Royal Silk Cap Sule Essence#Ginseng Royal Silk Eye 25ml#Ginseng Royal Silk Gold Hydroge L Mask#Ginseng Royal Silk Gold Hydroge L Mask 10p#Ginseng Royal Silk Gold Hydroge L Mask 5p#Ginseng Royal Silk Toner 120ml#Ginseng Royal Silk Watery 60g#Ginseng Royal Silk Wrinkle Up Spot#Green Propolis 90 Ampoule#Hanskin Bio Origin The#Hello Care Anti-wrinkle Ampoule Mask#Hello Care Moisturizing Ampoule Mask#Hello Care Pore and Sebum Ampoule Mask#Hello Care Whitening Ampoule Mask#Honesi Exofila#Hydra Extra Concentrateserum#Hydra Moisture Day and Night#Iaso A5 Super Brightening Formula#Iaso Pregressive Age Care Eye#Iaso Progressive Age Care#Iaso Progressive Age Care Emulsion#Iaso Progressive Age Care Serum#Iaso Progressive Age Care Toner#Iaso Triple Protection Bb SPF 30 Pa#Ideal Tone Up Glow Bb#Jayjun Real Water Brightening Black Mask Step2 Jayjun Vita Snow Essence#Jayjun Real Water Brightening Black Mask Step3 Real Water Brightening Black Mask#Lip and Hand Camellia#Lip and Hand Shea Butter#Lip and Hand Wild Rose#Mamachi Moms Stretch Mark Cream#Manefit Beauty Planner Blackberry Firming Eye Mask#Manefit Beauty Planner Lavender Wrinkle Lifting Mask#Maxclinic Deep and Deeper Meso Change Ampoule#Maxclinic Miraclinic Contour Ing Object#Medi Hydro Dp B Tox Ampoule#Medi Hydro Dp Bb Cream#Medi Hydro Dp Cream#Medi Hydro Dp Emulsion#Medi Hydro Dp Stem C Ampoule#Medi Hydro Dp Toner#Medi Hydro Dp Vita C Ampoule#Mefactory 3step Piggy Nose Pore Strip Step 01 Pore Opening Sheet#Miesoo Perfect Pure Seed#Miesoo Perfect Pure Seed Cycling Ampoule#Miesoo Perfect Pure Seed Essence#Miesoo Perfect Pure Seed Toner#Mioggi Healing Effector Rx Collagenic#Mioggi Magic Advanced Skin Essential Activator#Misoli Power Snail and Collagen Hydrog El Mask Pack#Mu Lab Turn Around 2w Refresh EX#Natural Sun AQ Total Anti-aging Essence Sun#Neogen Agecure 3d Lifting Compression Span Tex Mask#Neogen Agecure 3d Lifting Wrinkle Neck Mask#Neogen Agecure One Minute Wrinkle Rx#Neogen Code9 Gold Black Caviar Essence#Neogen Code9 Lemon Green Caviar Essence#Neogen Dermalogy H2 Dermadeca Serum#Neogen Dermalogy Pink Cactus Liftmax Knit Mask#Neogen Dermalogy White Truffle Hydramax Knit Mask#Neogen Dermalogy White Truffle Serum In Oi L Drop#Niveola 3d Animal Cat Mask Pack#Niveola 3d Animal Dog Mask Pack#Nmc Magic Serum#Nmc Staypot Double Programing Cream#Nots Li P Shimmer Gloss#Nots Special Collagen Real Skin Mask#Oozoo Face Ampoule Alpha One Hydro Lift#Oozoo Face Ampoule Alpha One Nutrient#Oozoo Face Mask Alpha One Hydro Lift#Oozoo Face Mask Alpha One Illumination Ampoule#Oozoo Face Mask Alpha One Illumination Mask#Oozoo Face Mask Alpha One Illumination Serum#Oozoo Face Mask Alpha One Nutirient#Oozoo Face Serum Alpha One Hydro Lift#Oozoo Face Serum Alpha One Nutrient#P1p Chitosan V-mask#P1p Magic Whitening Antiaging#P1p Skin Rebirth Cream#PMS-adenosine#Perfect V Lifting Premium Mask#Plalab Placenta Ample Essence#Plalab Placenta Mask#Plalab Placenta R-20#Plalab Placenta Skin Booster#Premium Dr. Althea Power Whitening Glutathione Mask#Premium Dr. Althea Water Glow Skin Renewal Hydrogel Mask#Prestige Caviar Full Intensive Vitality Toner#Prestige Caviar Super Aqua Serum#Prestige Snail Repairing#Prestige Snail Repairing Ampoule#Prestige Snail Repairing Booster#Primerose Double Effect Eye#Primerose Egf#Primerose Snail#Primerose White Milky Cb#Propolis 20 Bb Cream#Propolis 27 Cover Cushion#Propolis 50 Volume Mist#Propolis 80#Propolis 80 Sleeping Pack#Propolis Softening Toner#Propolis and Rose Callus Mask#Protective Base Sun for Dry Skin#Protective Base Sun for Oily Skin#Pure C Serum#Purifying Skin Balancing#Rep Nutrinature Ultra All In One Multitem#Rep Nutrinature Ultra Moist Ge L#Rep Nutrinature Ultra Moist Gel Oil#Rep Nutrinature Ultra Nourishing#Rep Nutrinature Ultra Nourishing Cream#Rep Nutrinature Ultra-all-night Moisture Relief Mask#Rose Oasis 50 Moisture Bomb#Rose Oasis 70 Cream#Rose Oasis 80 Ampoule#Ruby Cell 4u#Ruby Cell 4u Ampoule#Ruby Cell 4u Ampoule Premium#Sallys Box Gold Snail Hydrogel Mask#Sheza Gusl Firming Mask Pack#Shieldlife Collagen Ion Mask#Siseundeusi Luminant#Siseundeusi Luminant Skin Toner#Skin-ion#Skinfood Gold Caviar Collagen Serum#Skinfood Gold Caviar Serum#Skinfood Miracle Food 10 Solu Tion#Skinfood Miracle Food 10 Solu Tion 1ml#Skinfood Real Tea Ge L Mask Chamomile#Skinfood Real Tea Ge L Mask Lavender#Skinfood Real Tea Ge L Mask Rose#Skinfood Royal Honey Essential Eye#Skinfood Royal Honey Essential Eye Individual Sample#Snail Skin Booster#Snail Solu Tion Skin Booster#Snail Solu Tion Wrinkle Up Spot#Stem Cell Renew#Stem Cell Wrinkle Serum#Super Plus Beblesh Balm Triple Functions Spf50 Plus Pa 3plus (40g)#Superplus Beblesh Balm Gold Spf25 Pa 2plus#Superplus Beblesh Balm Spf25 Pa 2plus#Superplus Beblesh Balm Triple Functions Spf25 Pa 2plus#Tamhada Synergy Anti Wrinkle Face and Neck Mask#Tangerine Bright Sleeping Mask#Thanks 12 Rich Caviar Mask#Thanks 12 Rich Caviar Mist#The All Medicare V Pla Synergy Anti Wrinkle Face and Neck Mask#The Barafu Intensive Serum#The Oriental Gold Bb Spf25 Pa 2plus#The Prestige Bb Spf25 Pa 2plus#Tosowoong Mens Booster Repair#U-max Wrinkle Serum#Ultimate Moisturizing Honey Overnight Mask#Vita Volu 101 Essence#Vita Volu Volume Booster#Vitabrid C12 Face 4g#Vitabrid C12 Face Brightening#Vitabrid C12 Face Pow Der 2g#Vitabrid C12 Face Pow Der 3g#Vitabrid C12 Sensitive Spot Pow Der Serum#Volcanic Grape Callus Mask#Volcanic Homme#Volcanic Homme All In One Essence#Volcanic Homme Toner#Volcanic Pore Eraser Ampoule#Wellage Deep Layer Fresh Moisture#Wellage Fresh Water Essence Mist#White Lie#Adenocor#Adenoject#Adenoz#Adenozer#Adesin#Adrekar#Atépadène#Cardimax#Cardiovert#Krenosin#Osiden#Pisdeno
+
+>  <DrugBank ID>  (1) 
+DB00640
+
+>  <ATC Codes>  (1) 
+C01EB10
+
+>  <Ligand ID>  (1) 
+ADN
+
+>  <Target Name>  (1) 
+Adenosine receptor A1
+
+>  <UniProt ID>  (1) 
+P30542
+
+>  <PDB ID.1>  (1) 
+2YDO
+
+>  <Seq. Identity>  (1) 
+40%
+
+$$$$

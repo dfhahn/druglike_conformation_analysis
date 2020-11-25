@@ -1,0 +1,131 @@
+PDB_DB00215_96
+     RDKit          3D
+
+ 45 47  0  0  0  0  0  0  0  0999 V2000
+  160.5200  184.5710    2.8860 C   0  0  0  0  0  0  0  0  0  0  0  0
+  163.2970  182.6620    3.0150 C   0  0  0  0  0  0  0  0  0  0  0  0
+  159.3290  183.6750    2.5260 C   0  0  0  0  0  0  0  0  0  0  0  0
+  163.9390  181.3150    2.7170 C   0  0  0  0  0  0  0  0  0  0  0  0
+  159.3070  185.2260    5.1480 C   0  0  0  0  0  0  0  0  0  0  0  0
+  158.1200  184.3290    4.7820 C   0  0  0  0  0  0  0  0  0  0  0  0
+  165.8150  187.5230   -0.4120 C   0  0  0  0  0  0  0  0  0  0  0  0
+  164.4000  179.3260    1.0920 C   0  0  0  0  0  0  0  0  0  0  0  0
+  157.0710  184.2280    5.6160 F   0  0  0  0  0  0  0  0  0  0  0  0
+  161.2270  184.9230    0.6300 O   0  0  0  0  0  0  0  0  0  0  0  0
+  164.3850  187.1790   -0.6070 N   0  0  0  0  0  0  0  0  0  0  0  0
+  164.8990  178.2970    0.8890 N   0  0  0  0  0  0  0  0  0  0  0  0
+  161.6900  184.6840    1.9550 C   0  0  1  0  0  0  0  0  0  0  0  0
+  162.6260  185.8180    2.4220 C   0  0  0  0  0  0  0  0  0  0  0  0
+  162.4440  183.3750    1.9420 C   0  0  0  0  0  0  0  0  0  0  0  0
+  162.2480  182.7530    0.6200 C   0  0  0  0  0  0  0  0  0  0  0  0
+  163.8030  185.9290    1.4320 C   0  0  0  0  0  0  0  0  0  0  0  0
+  161.4070  183.6700   -0.1640 C   0  0  0  0  0  0  0  0  0  0  0  0
+  163.6760  187.2380    0.6540 C   0  0  0  0  0  0  0  0  0  0  0  0
+  162.9040  181.3820    0.3100 C   0  0  0  0  0  0  0  0  0  0  0  0
+  160.5090  185.3430    4.1940 C   0  0  0  0  0  0  0  0  0  0  0  0
+  163.7450  180.6810    1.3740 C   0  0  0  0  0  0  0  0  0  0  0  0
+  158.1260  183.5550    3.4760 C   0  0  0  0  0  0  0  0  0  0  0  0
+  164.2660  185.8780   -1.2200 C   0  0  0  0  0  0  0  0  0  0  0  0
+  163.4410  183.1307    3.9997 H   0  0  0  0  0  0  0  0  0  0  0  0
+  159.3352  183.1134    1.5802 H   0  0  0  0  0  0  0  0  0  0  0  0
+  164.5430  180.8091    3.4846 H   0  0  0  0  0  0  0  0  0  0  0  0
+  159.3001  185.7872    6.0940 H   0  0  0  0  0  0  0  0  0  0  0  0
+  166.0359  187.5761    0.6643 H   0  0  0  0  0  0  0  0  0  0  0  0
+  166.4447  186.7507   -0.8779 H   0  0  0  0  0  0  0  0  0  0  0  0
+  166.0246  188.4972   -0.8779 H   0  0  0  0  0  0  0  0  0  0  0  0
+  162.0723  186.7682    2.4463 H   0  0  0  0  0  0  0  0  0  0  0  0
+  163.0052  185.5985    3.4310 H   0  0  0  0  0  0  0  0  0  0  0  0
+  164.7532  185.9198    1.9861 H   0  0  0  0  0  0  0  0  0  0  0  0
+  163.7839  185.0785    0.7346 H   0  0  0  0  0  0  0  0  0  0  0  0
+  160.4283  183.2064   -0.3570 H   0  0  0  0  0  0  0  0  0  0  0  0
+  161.8832  183.8943   -1.1299 H   0  0  0  0  0  0  0  0  0  0  0  0
+  164.0931  188.0556    1.2602 H   0  0  0  0  0  0  0  0  0  0  0  0
+  162.6105  187.4105    0.4421 H   0  0  0  0  0  0  0  0  0  0  0  0
+  162.7633  180.9151   -0.6760 H   0  0  0  0  0  0  0  0  0  0  0  0
+  161.3609  185.9863    4.4596 H   0  0  0  0  0  0  0  0  0  0  0  0
+  157.2741  182.9117    3.2107 H   0  0  0  0  0  0  0  0  0  0  0  0
+  164.1956  185.1087   -0.4369 H   0  0  0  0  0  0  0  0  0  0  0  0
+  163.3614  185.8486   -1.8452 H   0  0  0  0  0  0  0  0  0  0  0  0
+  165.1502  185.6850   -1.8452 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  3  2  0
+  2  4  2  0
+  5  6  1  0
+  6  9  1  0
+  7 11  1  0
+  8 12  3  0
+  1 13  1  0
+ 10 13  1  0
+ 13 14  1  1
+  2 15  1  0
+ 13 15  1  0
+ 15 16  2  0
+ 14 17  1  0
+ 10 18  1  0
+ 16 18  1  0
+ 11 19  1  0
+ 17 19  1  0
+ 16 20  1  0
+  1 21  1  0
+  5 21  2  0
+  4 22  1  0
+  8 22  1  0
+ 20 22  2  0
+  3 23  1  0
+  6 23  2  0
+ 11 24  1  0
+  2 25  1  0
+  3 26  1  0
+  4 27  1  0
+  5 28  1  0
+  7 29  1  0
+  7 30  1  0
+  7 31  1  0
+ 14 32  1  0
+ 14 33  1  0
+ 17 34  1  0
+ 17 35  1  0
+ 18 36  1  0
+ 18 37  1  0
+ 19 38  1  0
+ 19 39  1  0
+ 20 40  1  0
+ 21 41  1  0
+ 23 42  1  0
+ 24 43  1  0
+ 24 44  1  0
+ 24 45  1  0
+M  END
+>  <PDBID>  (1) 
+5I75
+
+>  <PDB ID>  (1) 
+5I75
+
+>  <Generic Name>  (1) 
+Citalopram
+
+>  <Brand Name>  (1) 
+Abbott-citalopram#Accel-citalopram Tablets#Act Citalopram#Ag-citalopram#Apo-citalopram#Auro-citalopram#Ava-citalopram#Bio-citalopram#Celexa#Celexa 10 mg#Celexa 20 mg#Celexa 40 mg#Citalopram#Citalopram Hydrobromide#Citalopram Tablets#Citalopram Tablets USP#Citalopram-10#Citalopram-20#Citalopram-40#Citalopram-odan#Ctp 30#Dom-citalopram#Ecl-citalopram#Ipg-citalopram#Jamp-citalopram#Manda-citalopram#Mar-citalopram#Mint-citalopram#Mylan-citalopram#Nat-citalopram#Nat-citalopram Tablets#Ng Citalopram#Novo-citalopram#Ntp-citalopram#Nu-citalopram#PHL-citalopram#PMS-citalopram#Pendo-citalopram#Perrigo Citalopram#Priva-citalopram#Q-citalopram#Ran-citalo#Ran-citalopram#Ratio-citalopram#Riva-citalopram#Sandoz Citalopram#Sentralopram Am-10#Septa-citalopram#Teva-citalopram#Van-citalopram#Akarin#Celapram#Ciazil#Cilift#Cipram#Cipramil#Ciprapine#Citabax#Citalec#Citol#Citopam#Citox#Citrol#Dalsan#Elopram#Humorup#Oropram#Pramcit#Recital#Seropram#Talam#Talohexal#Temperax#Vodelax#Zentius#Zetalo
+
+>  <DrugBank ID>  (1) 
+DB00215
+
+>  <ATC Codes>  (1) 
+N06AB04
+
+>  <Ligand ID>  (1) 
+68P
+
+>  <Target Name>  (1) 
+Sodium-dependent serotonin transporter
+
+>  <UniProt ID>  (1) 
+P31645
+
+>  <PDB ID.1>  (1) 
+5I75
+
+>  <Seq. Identity>  (1) 
+99%
+
+$$$$

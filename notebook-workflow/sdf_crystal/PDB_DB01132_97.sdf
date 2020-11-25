@@ -1,0 +1,131 @@
+PDB_DB01132_97
+     RDKit          3D
+
+ 45 47  0  0  0  0  0  0  0  0999 V2000
+  -49.1380    0.7650   83.7470 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.3940    1.0100   82.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.6540    2.1450   82.7930 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.2570    0.1310   81.7020 C   0  0  1  0  0  0  0  0  0  0  0  0
+  -47.0960    1.0240   80.6390 S   0  0  0  0  0  0  0  0  0  0  0  0
+  -46.8960    2.2830   81.6970 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -46.1370    3.2250   81.4960 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.6670   -1.2090   82.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -50.4500   -3.4220   73.7970 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.6970   -2.1360   81.0810 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.8180   -2.9430   80.8640 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.8410   -3.8730   79.8210 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.7370   -3.9930   78.9800 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -46.6210   -3.1920   79.2070 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -46.5930   -2.2760   80.2500 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.7050   -4.8810   77.9370 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.0120   -5.2050   77.4240 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.8880   -5.8940   76.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -50.6270   -2.7190   70.8780 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.6260   -2.1850   71.9050 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.4130   -3.1240   72.9250 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.1810   -3.7580   73.1030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.0100   -4.6860   74.1580 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -50.2550   -4.3450   74.8150 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.0260   -4.9660   74.9940 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.6725    2.8355   83.5570 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.2125   -0.1134   81.2150 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -46.6246   -1.0577   82.4541 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.2679   -1.6043   82.9692 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -51.4257   -2.9273   73.6817 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.6933   -2.8446   81.5229 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.7263   -4.5069   79.6650 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -45.7454   -3.2866   78.5479 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -45.6965   -1.6612   80.4182 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.5193   -5.8845   78.1247 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.5939   -4.2782   77.3123 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.9009   -6.3738   75.9681 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -49.6911   -6.6403   75.9528 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -51.4809   -3.1745   71.4008 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -50.9825   -1.8907   70.2475 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -50.1371   -3.4756   70.2475 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -48.6704   -1.9750   71.4023 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -50.0333   -1.2654   72.3505 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -47.3446   -3.5362   72.4239 H   0  0  0  0  0  0  0  0  0  0  0  0
+  -51.0877   -4.5886   75.4912 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  2  4  1  0
+  4  5  1  0
+  3  6  1  0
+  5  6  1  0
+  6  7  2  0
+  4  8  1  0
+  8 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 10 15  1  0
+ 14 15  2  0
+ 13 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 19 20  1  0
+  9 21  2  0
+ 20 21  1  0
+ 21 22  1  0
+ 22 23  2  0
+  9 24  1  0
+ 18 25  1  0
+ 23 25  1  0
+ 24 25  2  0
+  3 26  1  0
+  4 27  1  6
+  8 28  1  0
+  8 29  1  0
+  9 30  1  0
+ 11 31  1  0
+ 12 32  1  0
+ 14 33  1  0
+ 15 34  1  0
+ 17 35  1  0
+ 17 36  1  0
+ 18 37  1  0
+ 18 38  1  0
+ 19 39  1  0
+ 19 40  1  0
+ 19 41  1  0
+ 20 42  1  0
+ 20 43  1  0
+ 22 44  1  0
+ 24 45  1  0
+M  END
+>  <PDBID>  (1) 
+5Y2O
+
+>  <PDB ID>  (1) 
+5Y2O
+
+>  <Generic Name>  (1) 
+Pioglitazone
+
+>  <Brand Name>  (1) 
+Accel Pioglitazone#Ach-pioglitazone#Act Pioglitazone#Actoplus Met#Actoplus Met XR#Actos#Actos (15mg)#Actos (30mg)#Actos (45mg)#Ag-pioglitazone#Alogliptin and Pioglitazone#Apo-pioglitazone#Auro-pioglitazone#Ava-pioglitazone#Dom-pioglitazone#Duetact#Jamp-pioglitazone#Mint-pioglitazone#Mylan-pioglitazone#Oseni#PHL-pioglitazone#PMS-pioglitazone#Pioglitazole and Metformin Hydrochloride#Pioglitazone#Pioglitazone HCl#Pioglitazone HCl and Metformin HCl#Pioglitazone Hydrochloride#Pioglitazone Hydrochloride and Glimepiride#Pioglitazone Hydrochloride and Metformin Hydrochloride#Pioglitazone and Glimepiride#Pioglitazone and Metformin#Pioglitazone and Metformin Hydrochloride#Pioglitazone and Metformin Hydrocholride#Pioglitazonehydrochloride#Pro-pioglitazone#Ran-pioglitazone#Ratio-pioglitazone#Sandoz Pioglitazone#Teva-pioglitazone#Torrent-pioglitazone#Van-pioglitazone#Zym-pioglitazone#Actost#Glustin
+
+>  <DrugBank ID>  (1) 
+DB01132
+
+>  <ATC Codes>  (1) 
+A10BD12#A10BD09#A10BG03#A10BD06#A10BD05
+
+>  <Ligand ID>  (1) 
+8N6,P1B
+
+>  <Target Name>  (1) 
+Peroxisome proliferator-activated receptor gamma
+
+>  <UniProt ID>  (1) 
+P37231
+
+>  <PDB ID.1>  (1) 
+5Y2O
+
+>  <Seq. Identity>  (1) 
+94%
+
+$$$$
